@@ -1,8 +1,7 @@
 import os
-from constants import DATA_CODES, SRC_LANG, SRC_LANG_CODE
+from constants import DATA_CODES, SRC_LANG, SRC_LANG_CODE, MAIN_FOLDER_PATH
 from datasets import Dataset, DatasetDict
 
-MAIN_FOLDER_PATH = "/home2/s4992113/MT-Project/MT-SharedTask/parallel-data/"
 TGT_LANG_CODE = "quy"
 
 def create_data_sample(src_text, tgt_text, src_code=SRC_LANG_CODE, tgt_code=TGT_LANG_CODE):
