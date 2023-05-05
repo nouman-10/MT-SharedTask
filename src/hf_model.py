@@ -22,13 +22,13 @@ def preprocess_function(examples, tokenizer, source_lang="es", target_lang="quy"
     if is_prompt:
       inputs = [prefix + example[source_lang] for example in examples["translation"]]
       targets = [example[target_lang] for example in examples["translation"]]
-      model_inputs = tokenizer(inputs, text_target=targets, max_length=128, truncation=True)
+      model_inputs = tokenizer(inputs, text_target=targets, max_length=256, truncation=True)
       return model_inputs
     else:
       inputs = [ex[source_lang] for ex in examples["translation"]]
-      targets = [ex[target_lang] for ex in examples["translation"]]
+      targets = [f"{prefix.split()[-1]}" + " " + ex[target_lang] for ex in examples["translation"]]
       model_inputs = tokenizer(
-          inputs, text_target=targets, max_length=128, truncation=True
+          inputs, text_target=targets, max_length=256, truncation=True
       )
       return model_inputs
 
@@ -95,8 +95,8 @@ def get_trainer(model, training_args, dataset, tokenizer, data_collator):
   )
 
 
-def train_model(tgt_lang_code, checkpoint, out_model_name, metric="chrf", epochs=3, is_prompt=True):
-  dataset = read_data_into_hf(tgt_lang_code, data_paths=QUECHUA_DATA_PATHS, duplicates=QUECHUA_DUPLICATES)
+def train_model(tgt_lang, checkpoint, out_model_name, metric="chrf", epochs=3, is_prompt=True):
+  dataset = read_data_into_hf(tgt_lang, data_paths=QUECHUA_DATA_PATHS, duplicates=QUECHUA_DUPLICATES)
   tokenizer = load_pre_trained_tokenizer(checkpoint)
 
   tokenized_dataset = dataset.map(preprocess_function, fn_kwargs={"tokenizer": tokenizer, "is_prompt":is_prompt}, batched=True)
@@ -115,13 +115,13 @@ if __name__ == "__main__":
   import argparse
   from datasets import load_dataset
   parser = argparse.ArgumentParser()
-  parser.add_argument("--tgt_lang_code", type=str, required=True)
+  parser.add_argument("--tgt_lang", type=str, required=True)
   parser.add_argument("--checkpoint", type=str, required=True)
   parser.add_argument("--out_model_name", type=str, required=True)
-  parser.add_argument("--metric", type=str, required=True)
-  parser.add_argument("--epochs", type=int, required=True)
+  parser.add_argument("--metric", type=str, required=False, default='chrf')
+  parser.add_argument("--epochs", type=int, required=False, default=10)
   parser.add_argument("--is_prompt", type=int, default=1)
 
   args = parser.parse_args()
 
-  train_model(args.tgt_lang_code, args.checkpoint, args.out_model_name, args.metric, args.epochs, args.is_prompt)
+  train_model(args.tgt_lang, args.checkpoint, args.out_model_name, args.metric, args.epochs, args.is_prompt)

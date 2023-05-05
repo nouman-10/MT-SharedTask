@@ -1,4 +1,4 @@
-MAIN_FOLDER_PATH = "./parallel-data/"
+MAIN_FOLDER_PATH = "/home2/s4992113/MT-Project/MT-SharedTask/parallel-data/"
 DATA_CODES = {
     "ashaninka": "cni",
     "aymara": "aym",
