@@ -1,0 +1,1381 @@
+ANTOINE DE SAINT-EXUPÉRY Quyllur llaqtayuq wawamanta	Antoine de Saint-Exupéry El principito	0.688571
+<p>	<p>	0
+León Werthpaq Wawakuna, pampachaykuwankichik kuraq runapaq kay liwru dedicasqaymanta.	A LEÓN WERTH Pido perdón a los niños por haber dedicado este libro a una persona grande.	0.579452
+Sapan kaptinmi paypaq dedicani. ~~~ Manam kanchu payhina munasqay wawqimasiyqa.	Tengo una seria excusa: esta persona grande es el mejor amigo que tengo en el mundo.	0.1375
+Paypa yuyayñinqa tukuy imaman aypan, wawakunapaq qillqasqa liwrukunamanpas.	Tengo otra excusa: esta persona grande puede comprender todo; hasta los libros para niños.	0.26087
+Chay kuraq runaqa Franciapim tiyan. ~~~ Chaypim yarqayta chirita muchuchkan.	Tengo una tercera excusa: esta persona grande vive en Francia, donde tiene hambre y frío.	-0.0201493
+Chaymi paytaqa sunqunchananchik.	Tiene verdadera necesidad de consuelo.	0.26129
+Mana kay nisqaykuna sunquykichikman chayaptinqa kaytapas nillaykichiktaq: manaraq kuraq runa kaspaqa paypas wawam karqan.	Si todas estas excusas no fueran suficientes, quiero dedicar este libro al niño que esta persona grande fue en otro tiempo.	0.485577
+Chayqa chay wawamanmi kay liwruta dedicasaq.		-0.3
+Llapantin kuraq runakunam wawa karqayku.	Todas las personas grandes han sido niños antes.	0.759459
+(Chaytaqa may wakillanmi yuyachkayku).	(Pero pocas lo recuerdan).	0.15
+Chaymi dedicatoriayta kayhinaman tukuchisaq: León Werthpaq wawa kasqanta yuyarispa.	Corrijo, pues, mi dedicatoria: A LEÓN WERTH CUANDO ERA NIÑO	0.152941
+<p>	<p>	0
+I Suqta watayuqllaraq kachkaspa huk sumaq dibuhutam liwrupi rikurqani. ~~~ Chay liwruqa yunka ukumantam rimarqan, Kawsaymanta willakuykuna nisqa sutiyuqmi karqan.	I CUANDO yo tenía seis años vi una vez una lámina magnífica en un libro sobre el Bosque Virgen que se llamaba "Historias Vividas".	0.192857
+Chay liwrupiqa amarum rikurirqan animal millpukuchkaq.	Representaba una serpiente boa que se tragaba a una fiera.	0.3
+Kayhinam karqan.	He aquí la copia del dibujo.	0.15
+Chay liwrupim nirqan "amaruqa hinantintam hapisqanta millpuykurqun mana kamuspalla" nispa.	El libro decía: "Las serpientes boas tragan sus presas enteras, sin masticarlas.	0.248571
+"Chaymantataq manañam amaruqa kuyurinñachu.		-0.3
+Hinaspa suqta killam puñun, chunchullñinpi mikusqan muyurinankama".	Luego no pueden moverse y duermen durante los seis meses de la digestión".	0.295161
+"Imaynach?" nispam yunka ukupi kawsaymantaqa yuyaykukuni. ~~~ Chaymantaqa huk dibuhuta ruraykuni kulurlapiswan.	Reflexioné mucho entonces sobre las aventuras de la selva y, a mi vez, logré trazar con un lápiz de color mi primer dibujo.	0.317391
+Kayhinam karqan: Kuraq runakunamanmi chay ancha sumaq dibuhuyta rikuchini "kay dibuhuy manchachisunkichu?" nispa.	Mi dibujo número 1. ~~~ Era así: Mostré mi obra maestra a las personas grandes y les pregunté si mi dibujo les asustaba.	-0.00612245
+Paykunaqa niwan "imaynataq sumbriruri manchachikuq kanman?" nispa.	Me contestaron: "¿Por qué habrá de asustar un sombrero?".	0.234
+Dibuhuyqa manam sumbriruchu karqan.	Mi dibujo no representaba un sombrero.	0.290909
+Amarup wiksan ukupi elefantem karqan.	Representaba una serpiente boa que digería un elefante.	0.167647
+Mana riparaptinkum amarup wiksa ukuntañataq dibuhani.	Dibujé entonces el interior de la serpiente boa a fin de que las personas grandes pudiesen comprender.	0.0673469
+Imatapas kuti kutitapunim paykunamanqa rikuchina.	Siempre necesitan explicaciones.	0.154839
+Chay dibuhuyqa kayhinam karqan: Kuraq runakunaqa "saqipuy chay amaru dibuhasqaykikunata, wiksan kichasqa kaqta wichqasqa kaqtapas" nispa niwan.	Mi dibujo número 2 era así: Las personas grandes me aconsejaron que dejara a un lado los dibujos de serpientes boas abiertas o cerradas y que me interesara un poco más en la geografía, la historia, el cálculo y la gramática.	0.166406
+"Aswanmi geografiamanta, historiamanta, yupaymanta, gramaticamantapas yachay" nispa.	Así fue como, a la edad de seis años, abandoné una magnífica carrera de pintor.	0.240909
+Chaymi suqta watayuqlla kachkaspa allin pintor kanayta saqipuni.	Estaba desalentado por el fracaso de mi dibujo número 1 y de mi dibujo número 2.	0.258621
+Chay iskay dibuhuy mana kusirichiptinmi manaña dibuhayta munapuniñachu. ~~~ Kuraq runakunaqa manapunim paykunallamantaqa imatapas unanchanmanchu.	Las personas grandes nunca comprenden nada por sí solas y es cansador para los niños tener que darles siempre y siempre explicaciones.	-0.0223684
+Chaymi wawakunaqa ñawin kicharichiyta munaspa saykunku.	Debí, pues, elegir otro oficio y aprendí a pilotar aviones.	0.3
+Chaymantam huk ñanta akllakupuni.	Volé un poco por todo el mundo.	0.842308
+Chaymi kunanqa avion purichiq kani.	Es cierto que la geografía me sirvió de mucho.	0.234375
+Pachantintam avionpi pawarqani.		-0.3
+Geografia yachayqa allinmi chaypaq: huk qawariyllapim Chinapichu icha Arizonapichu kasqayta yachakuni.	Al primer golpe de vista estaba en condiciones de distinguir China de Arizona.	0.183582
+Geografiata yachaspaqa tuta chinkaspapas ñanñinchikta tarillanchikmi.	Es muy útil si uno llega a extraviarse durante la noche.	0.185106
+Chay purisqaykunapim achka yuyayñiyuq runakunawan tinkuni.	Tuve así, en el curso de mi vida, muchísimas vinculaciones con muchísima gente seria.	0.194444
+Chayqa unay kuraqkunawan purispaymi sunqunkuta yachani.	Viví mucho con personas grandes. ~~~ Las he visto muy de cerca.	-0.00294118
+Chaymi mana "allinpuni" niymanchu paykunamantaqa.	No he mejorado excesivamente mi opinión.	0.216667
+Ima kuraq runawanpas tinkuspaqa allin yachayñiyuq-hina kaptinqa ñawpaqñin dibuhuyta rikuchiqmi kani.	Cuando encontré alguna que me pareció un poco lúcida, hice la experiencia de mi dibujo número 1, que siempre he conservado.	0.257143
+Apallaqpunim kani dibuhuykunataqa.	Quería saber si era verdaderamente comprensiva.	0.209091
+Chay runa allin yachayñiyuqchuch manachuch chaytam yachayta munaq kani.		-0.3
+Chay tapusqay runakunaqa "sumbrirum" nispallapunim niwaq.	Pero siempre me respondía: "Es un sombrero".	0.192308
+Chaymantam amarumantapas yunkamantapas quyllurmantapas mana rimapayapunichu.	Entonces no le hablaba ni de serpientes boas, ni de bosques vírgenes, ni de estrellas.	0.724405
+Paykunahinam rimaykuni bridge nisqa pukllanamanta, golf nisqamantapas1 politicamantapas corbatamantapas ima.	Me colocaba a su alcance. ~~~ Le hablaba de bridge, de golf, de política y de corbatas.	-0.0612676
+Chaymi chay kuraq runakunaqa anchata kusikun amawtahina rimasqaymanta.	Y la persona grande se quedaba muy satisfecha de haber conocido a un hombre tan razonable.	0.24375
+<p>	<p>	0
+II Chaymantam sapallay purikupuni mana piwan rimanakuspa.	II Viví así, solo, sin nadie con quien hablar verdaderamente, hasta que tuve una panne en el desierto de Sahara, hace seis años.	0.357692
+Suqta wataña, Sahara aqupurunpi, huchuy avionñiypa motorñin pakirqukusqam.	Algo se había roto en mi motor.	-0.184615
+Manam mecanicopas ni pipas avionñiypi karqanchu, chaymi ñuqalla chay sasa allichanata qallarirqani "atispa mana atispapas allichasaqpunim" nispa.	Y como no tenía conmigo ni mecánico ni pasajeros, me dispuse a realizar, solo, una reparación difícil.	0.318391
+Pusaq punchawllapaqñam upyana yakuy karqan.	Era, para mí, cuestión de vida o muerte.	0.247059
+Chay tutaqa aqupatallapim puñuni may llaqtamantapas sinchi karupi rikukuspay.	Tenía agua de beber apenas para ocho días.	0.0166667
+Mamaqucha chawpipi chinkaq balseromantapas aswan sapallaymi rikukuni.	La primera noche dormí sobre la arena a mil millas de toda tierra habitada.	0.295238
+Chaymi sinchita mancharikuni illarimuyta ñañu kunkata uyarispa.	Estaba más aislado que un náufrago sobre una balsa en medio del océano.	0.289655
+-Ama hina kaychu... uwihata dibuhaykupuway! nispam niwan.	Imaginaos, pues, mi sorpresa cuando, al romper el día, me despertó una extraña vocecita que decía: -Por favor…; ¡dibújame un cordero! -¡Eh!	-0.0865385
+-Imá! -Uwihata dibuhaykupuway!	-Dibújame un cordero…	0.165
+Illapap mancharichisqanhinam p'itaylla sayarirquni.	Me puse de pie de un salto, como golpeado por un rayo.	0.265909
+Ñawiyta qaquykukuspa allintam qawarini.	Me froté los ojos. ~~~ Miré bien.	-0.0555556
+Mana haykap rikusqay wawam "Bridge" nisqa pukllanataqa naypiswan pukllanku, "golf" nisqa pukllaytataq bulawan pukllanku.		-0.3
+Franciapiqa yaqa ejecutivo runakunallam chayta pukllanku.	Y vi a un hombrecito enteramente extraordinario que me examinaba gravemente.	0.220755
+chaypi kachkasqa piñahina qawawachkaspa.	He aquí el mejor retrato que, más tarde, logré hacer de él.	0.213158
+Llapantin dibuhuymantaqa kay kaqllam payman rikchakun.	Pero seguramente mi dibujo es mucho menos encantador que el modelo.	0.252
+Kay dibuhuyqa manam pay kikinhina munaychu.		-0.3
+Manam ñuqachu huchayuq kani chaypaqqa.	No es por mi culpa.	0.44375
+Suqta watayuqllaraq kachkaptiy kuraq runakunam allin pintor kanayta tatichiwarqan.	Las personas grandes me desalentaron de mi carrera de pintor cuando tenía seis años y sólo había aprendido a dibujar las boas cerradas y las boas abiertas.	0.68
+Chaymi kunan mana imatapas dibuhayta yachanichu.	Miré, pues, la aparición con los ojos absortos por el asombro.	0.238636
+Wiksan wichqasqa, wiksan kichasqa amarullatam dibuhayta atini.	No olvidéis que me encontraba a mil millas de toda región habitada.	0.3
+Chay wawata rikuspaqa utinipunim. ~~~ May llaqtamantapas sinchi karupi kaspaymi chayhinataqa utirayani. ~~~ Chay wawaqa manam chinkasqahinachu.	Además, el hombrecito no me parecía ni extraviado, ni muerto de fatiga, ni muerto de hambre, ni muerto de sed, ni muerto de miedo.	-0.114894
+Manallataqmi saykuymantapas mikunanmantapas upyananmantapas wañunanmantapas llakisqahinachu.	No tenía en absoluto la apariencia de un niño perdido en medio del desierto, a mil millas de toda región habitada.	0.276136
+Manapunim aqupurunpi, may llaqtamantapas karupi chinkasqahinachu.		-0.3
+Chaymi rimayta atispaqa: -Imatataq kaypi rurachkanki? nispa nini.	Cuando al fin logré hablar, le dije: -Pero… ¿qué haces aquí?	0.586275
+Chayqa allillamantam niwan: -Ama hina kaychu... uwihata dibuhaykupuway, nispa, ancha chaniyuqpas chay uwihaqa paypaq kanmanhina.	Repitió entonces, muy suavemente, como si fuese una cosa muy seria: -Por favor… dibújame un cordero…	0.386337
+Qunqayllamanta imatapas mañakurquwaptinchik manam "mana" nisunmanchu.	Cuando el misterio es demasiado impresionante no es posible desobedecer.	0.295312
+Chaymi may llaqtamantapas karupi kaspa ch'akiymantapas wañunay kachkaptin papelta lapistawan bolsilloymanta hurqurquni.	Por absurdo que me pareciese, a mil millas de todo lugar habitado y en peligro de muerte, saqué del bolsillo una hoja de papel y una estilográfica.	0.26422
+Hinaspataq chayraqmi yuyarirquni geografialla historialla yupaylla gramaticalla yachasqayta.	Recordé entonces que había estudiado principalmente geografía, historia, cálculo y gramática, y dije al hombrecito (con un poco de mal humor) que no sabía dibujar.	0.111628
+Chaymi as piñasqa nini: -Manam yachanichu dibuhaytaqa, nispa.	Me contestó: -No importa.	0.482609
+-Manam imananpaschu, uwihata dibuhaykupuway, nispa niwallantaq.	Dibújame un cordero.	-0.331579
+Chayqa mana uwiha dibuhayta yachaspam ñawpaq kaq dibuhuyta dibuhapuni, mana imapas amarup wiksanpi rikukuq kaqta.	Como jamás había dibujado un cordero rehice uno de los dos únicos dibujos que era capaz de hacer. ~~~ El de la boa cerrada.	0
+Utirayanipunim chay wawap nisqanwan: Llapantin dibuhuymantaqa kay kaqllam payman rikchakun.	Quedé estupefacto cuando oí al hombrecito que me respondía: He aquí el mejor retrato que, más tarde, logré hacer de él.	0.238554
+-Manam! Manam!	-¡No! ~~~ ¡No!	-0.025
+Manam amarup wiksan ukupi elefanteta munanichu.	No quiero un elefante dentro de una boa.	0.64916
+Amaruqa millay manchachikuqmi, elefantetaq sinchi hatun.	Una boa es muy peligrosa y un elefante muy embarazoso.	0.26087
+Kanchayqa huchuyllam.	En mi casa todo es pequeño.	0.271429
+Chaymi uwihataqa munani.	Necesito un cordero.	0.236842
+Uwihata dibuhaykupuway, nispa niwan.	Dibújame un cordero.	0.0631579
+Chaymi dibuhapuni.	Entonces dibujé.	0.2625
+Allinta qawarispam niwan: -Manam! nispa.	El hombrecito miró atentamente.	0.217241
+Kayqa unqusqamari.	Luego dijo: -¡No!	0.2625
+Hukta ruraykupuway.	Este cordero está muy enfermo.	0.173684
+Niptinmi kayhinatañataq dibuhani: Rimaqmasiyqa chayta qawarispa asirin: -Chayqa manam uwihachu, nispa.	Haz otro. ~~~ Yo dibujaba. ~~~ Mi amigo sonrió amablemente, con indulgencia: -¿Ves?…	-0.152459
+Burrigumari, waqrayuq.	No es un cordero; es un carnero.	0.231818
+Manachu rikunki?	Tiene cuernos… Rehice, pues, otra vez mi dibujo.	-0.1875
+Chaymantam huktañataq dibuharqullanitaq: Chaytapas manallataqmi munanchu: -Chayqa machullañamari!	Pero lo rechazó como los anteriores: -Éste es demasiado viejo.	0.0944444
+Unay kawsaq uwihatam munani, nispa niwan.	Quiero un cordero que viva mucho tiempo.	0.282857
+Chay wawa umayta nanachiwaptin motorñiy llakichiwaptinmi kayhinallataña dibuharparini: Hinaspam nini: -Kayqa kahunmi, nispa.	Entonces, impaciente, co-mo tenía prisa por comenzar a desmontar mi motor, garabateé este dibujo: Y le largué: -Ésta es la caja.	0.503277
+Munasqayki uwihaqa kay ukupim kachkan.	El cordero que quieres está adentro.	0.771875
+Ichaqa utirayanipunim chay wawata kusirikuqta rikuspa: -Kay kikinpunim munasqay uwihaqa!	Quedé verdaderamente sorprendido al ver iluminarse el rostro de mi joven juez: -¡Es exactamente como lo quería!	0.24
+Achka qachutachu kay uwiha mikun?	¿Crees que necesitará mucha hierba este cordero?	0.67
+-Imaraykutaq chayta tapuwanki? nispa nini.	-¿Por qué? ~~~ -Porque en mi casa todo es pequeño…	-0.00769231
+-Kanchaymi huchuylla...	-Alcanzará seguramente.	0.3
+-Pisillatam mikun.		-0.3
+Huchuy uwihallatam quyki, nispa nini.	Te he regalado un cordero bien pequeño.	0.3
+Niptiymi dibuhuta qawaykun: -Manam ancha huchuychu.	Inclinó la cabeza hacia el dibujo: -No tan pequeño…	0.708117
+Qawariy! Puñuchkanmi...	¡Mira! ~~~ Se ha dormido…	-0.0142857
+Chayhinatam chay wawawan riqsinakuyku.	Y fue así como conocí al principito.	0.251613
+<p>	<p>	0
+III Qiparaqmi yachani maymanta hamusqantaqa.	III Necesité mucho tiempo para comprender de dónde venía.	0.734146
+Chay wawaqa imaymana tapuykachawaspapas manam tapusqaytaqa uyariqhinachu.	El principito, que me acosaba a preguntas, nunca parecía oír las mías.	0.26
+Paypa rimasqallanmantam pisi pisimanta bidanta yachani.	Y sólo por palabras pronunciadas al azar pude, poco a poco, enterarme de todo.	0.211765
+Hinam avionñiyta qawarispa (manam avionñiytaqa kaypi dibuhasaqchu, chayqa sinchi sasa dibuhanam) tapuwan: -Imataq chayri? nispa.	Cuando vio mi avión por primera vez (no dibujaré mi avión porque es un dibujo demasiado complicado para mí), me preguntó: -¿Qué es esta cosa?	0.479674
+-Manam 'chay' sutiyuqchu.	-No es una cosa. ~~~ Vuela.	0.267857
+Kayqa pawaqmi, avionmi, ñuqap avionñiymi, nispa anchatam umayta huqarini.	Es un avión. ~~~ Es mi avión.	-0.280435
+Payqa niwan: -Imayná! Hanaqpachamantachu uraykumunki? nispa.	Y me sentí orgulloso haciéndole saber que volaba.	0.209302
+-Arí, nispam asirikuni. ~~~ -A!	Entonces exclamó: -¿Cómo?	-0.0136364
+Qampas hanaqpachallamantataqchu hamunkiri? nispa chuyatam asiykun.	¿Has caído del cielo? ~~~ -Sí -dije modestamente.	-0.0714286
+Asiykuptinqa piñaykukuni.	-¡Ah! ¡Qué gracioso!…	0.225
+Muchusqaykunamantaqa manam asinankuta munaqchu kani.	Y el principito soltó una magnífica carcajada que me irritó mucho.	0.25102
+-May planetamantataq kanki? nispa nin.	Deseo que se tomen en serio mis desgracias.	0.282857
+Niptinmi yuyayñiy kancharin. ~~~ -Huk planetamantachu hamunki? nispa nini.	Después agregó: -Entonces, ¡tú también vienes del cielo!	-0.0473684
+Manam imaninpaschu.	¿De qué planeta eres?	0.3
+Umallantam maywirin avionñiyta qawarispa. ~~~ -Chay avionwanqa manapunichari karumanta hamuwaqchu karqan... nispa niwan.	Entreví rápidamente una luz en el misterio de su presencia y pregunté bruscamente: -¿Vienes, pues, de otro planeta?	-0.0136364
+Unaymi yuyaymanaykukun.	Pero no me contestó.	0.216667
+Hinaspam uwihayta bolsillonmanta hurquspa yupaychaylla qawapayaykun.	Meneaba la cabeza suavemente mientras miraba el avión: -Verdad es que, en esto, no puedes haber venido de muy lejos…	0.140625
+Chay huk planetamanta willawasqanwanqa imaymanataraq yuyaykukuni!	Y se hundió en un ensueño que duró largo tiempo.	0.571071
+Chaymi "astawanraq yachasaq" nini.	Después, sacó el cordero del bolsillo y se abismó en la contemplación de su tesoro.	-0.05625
+	Imaginaos cuánto pudo haberme intrigado esa semiconfidencia sobre los "otros planetas".	-0.3
+-Wawalláy, maymantataq kanki?	Me esforcé por saber algo más: -¿De dónde vienes, hombrecito?	0.0321429
+Maytaq wasiykiri?	¿Dónde queda "tu casa"?	0.229412
+Maytataq uwihaykitari apayta munanki?	¿Adónde quieres llevar a mi cordero?	0.871875
+Chinlla yuyaykukuspañam niwan: -Allinqa kahun quwasqaykim, tutaqa wasinmi kanqa, nispa.	Después de meditar en silencio, respondió: -Me gusta la caja que me has regalado porque de noche le servirá de casa.	0.231646
+-Arí, sumaq kaptiykiqa waskatawan takarputawanpas qusqayki, chaywanqa uwihaykita punchaw watanki.	-Seguramente. ~~~ Y si eres amable te daré también una cuerda para atarlo durante el día. ~~~ Y una estaca.	-0.12027
+Niptiyqa mancharisqam nin: -Watanaypáq?	La proposición pareció disgustar al principito: -¿Atarlo?	0.178378
+Imapaqmi watanayta munanki? nispa.	¡Qué idea tan rara!	0.0352941
+-Mana wataptiykiqa maymanpas chinkaripunqa...	-Pero si no lo atas se irá a cualquier parte y se perderá…	0.272093
+Quyllur llaqtayuq wawa, B612 asteroide nisqapi.	Mi amigo tuvo un nuevo estallido de risa: -Pero, ¿adónde quieres que vaya?	0.160465
+Asillantaqmi: -Maymantaq ripunmanri? nispa.	-A cualquier parte.	-0.0833333
+-Maymanpas ari, chiqanta ari.	Derecho, siempre adelante…	0.276
+-Hinallaña kachun, kanchayqa sinchi huchuyllam! nispam nin llakirikuspa quyllur llaqtayuq wawaqa.	Entonces el principito observó gravemente: -¡No importa! ~~~ ¡Mi casa es tan pequeña!	0.0786765
+Hinaspam putirisqa nillantaq: -Chiqanta rispaqa manam karutachu purisunman... nispa.	Y con un poco de melancolía, quizá, agregó: -Derecho, siempre adelante de uno, no se puede ir muy lejos…	0.561039
+	El principito sobre el asteroide B 612.	-0.3
+<p>	<p>	0
+IV Chayhinam kayta yacharquni: paypa planetanqa wasimantapas tumpa hatun kasqa.	IV Supe así una segunda cosa muy importante.	0.372807
+Chayhinapuni ari kanman karqan: manam Pacha planetanchikllachu, Pachapaqariq chaskallachu, Marte, Jupiter chaykunallachu kan.	¡Su planeta de origen era apenas más grande que una casa!	-0.1125
+Huk achka planetakunapas kallantaqmi.	No podía sorprenderme mucho.	0.196154
+Sinchi huchuylla chaykuna kaptinmi ñakaylla telescopio nisqawan rikusunchikman.	Sabía bien que fuera de los grandes planetas como la Tierra, Júpiter, Marte, Venus, que tienen nombre, hay centenares de planetas, a veces tan pequeños que apenas se les puede ver con el telescopio.	-0.0821918
+Planetamanta yachaq astronomo nisqakunam mana riqsisqa planetata rikurquspaqa yupaywan sutiyan kayhinata: "3251" nispa.	Cuando un astrónomo descubre alguno le da un número por nombre. ~~~ Lo llama por ejemplo: "el asteroide 3251".	0.098913
+Yuyaykukusqaymanhinaqa chay wawap planetanqa B612 sutiyuq kaqchari kanman.	Tengo serias razones para creer que el planeta de donde venía el principito es el asteroide B 612.	0.571569
+Turkiya llaqtayuq astronomopaqsi chay huchuy planetaqa huk kutilla rikurirqan telescopiopi, 1909 watapi.	Este asteroide sólo ha sido visto una vez con el telescopio, en 1909, por un astrónomo turco.	0.469231
+Hatun huñunakuypis chay rikusqanmanta astronomomasinkunaman willan.	El astrónomo hizo, entonces, una gran demostración de su descubrimiento en un Congreso Internacional de Astronomía.	0.119048
+Manas pipas kasunchu Turkiya p'achayuq kaptin.	Pero nadie le creyó por culpa de su vestido.	0.688031
+Chayhinapunim kanku kuraq runakunaqa.	Las personas grandes son así.	0.796154
+Chaypis Turkiyapi kamachikuq llaqtantinta kamachisqa: "Europapihina p'achakuychik" nispa, "mana hinaptiykichikqa wañuchichisqaykichikmi".	Felizmente para la reputación del asteroide B 612, un dictador turco obligó a su pueblo, bajo pena de muerte, a vestirse a la europea.	0.257143
+Chaysi asteroide B612 sut'inchasqa kapun: astronomoqa 1920 watapi hukmanta rikusqanmanta willallasqataq allin p'achayuqña.	El astrónomo repitió su demostración en 1920, con un traje muy elegante.	0.0629032
+Chayraqsi hinantin runakuna uyaripusqaku.	Y esta vez todo el mundo compartió su opinión.	0.3
+Kuraq runakunaman unanchachinaypaqmi chaykunata willaykichik.	Si os he referido estos detalles acerca del asteroide B 612 y si os he confiado su número es por las personasgrandes.	0.0982759
+Paykunaqa numeroyuq numeroyuqtapunim imatapas munan.	Las personas grandes aman las cifras.	0.154545
+"Wawqi masitam tarikuni" nispa willaptinchikqa manapunim chanin tapuytaqa tapuwasunmanchu.	Cuando les habláis de un nuevo amigo, no os interrogan jamás sobre lo esencial.	0.228358
+"Imaynataq kunkanri?	Jamás os dicen: "¿Cómo es el timbre de su voz?	0.03
+Ima pukllaytataq munan? Pillpintuta qatinchu?" nispaqa manapunim tapuwasunmanchu.	¿Cuáles son los juegos que prefiere? ~~~ ¿Colecciona mariposas?".	-0.0473684
+Aswanmi tapuwasunman "hayka watayuqtaq? haykataq wawqinkuna? hayka pukllanayuqtaq? haykatataq taytan ganan?" nispa.	En cambio, os preguntan: "¿Qué edad tiene? ~~~ ¿Cuántos hermanos tiene? ~~~ ¿Cuánto pesa?	-0.172131
+Chayta yachasparaqmi ninkuman "yachaniñam imayna kasqanta" nispa.	¿Cuánto gana su padre?". ~~~ Sólo entonces creen conocerle.	-0.0264706
+"Puka ladrillomanta rurasqa munay wasitam rikuni, bintanapi t'ikakunayuqta waytakunayuqta wasipatapipas urpiyuqta" nispa niptinchikqa manallataqmi imayna chay wasi kasqanta unanchankumanchu.	Si decís a las personas grandes: "He visto una hermosa casa de ladrillos rojos con geranios en las ventanas y palomas en el techo…", no acertarán a imaginarse la casa.	0.226619
+Kayhinatam ninanchik: "huk wasitam rikuni pachak waranqa franco chaniyuqta".	Es necesario decirles: "He visto una casa de cien mil francos".	0.216667
+Chayraqmi "ima sumaq wasichari!" nispaqa ninkuman.	Entonces exclaman: "¡Qué hermosa es!".	0.205714
+"Quyllur llaqtayuq wawaqa karqanpunim: payqa munayllam karqan, asikuq, huk uwihayuq kaytapas munarqan.	Si les decís: "La prueba de que el principito existió es que era encantador, que reía, y que quería un cordero.	0.761538
+Kaspallapunim uwihataqa munasunman" nispa niptinchikqa kuraqkunaqa umankuta maywirispachari "ay, kay wawa" niwasunman.	Querer un cordero es prueba de que se existe", se encogerán de hombros y os tratarán como se trata a un niño.	0.235955
+"Planetanqa B612 asteroidem karqan" nispa niptinchiktaq ichaqa "hinapunim chayqa" nispa niwasunman. ~~~ Hinaspam manaña tapupayawasunmanchu.	Pero si les decís: "El planeta de donde venía es el asteroide B 612", entonces quedarán convencidos y os dejarán tranquilos sin preguntaros más.	-0.00491803
+Hinam paykunaqa.	Son así.	0
+Manam chayqa sintikunanchikpaqchu.	Y no hay que reprocharles.	0.169565
+Hina kaptinkupas paykunataqa entendenallanchikmi.	Los niños deben ser muy indulgentes con las personas grandes.	0.261702
+Ñuqanchik kawsaymanta yachaqqa asikunchikmi numerokunamantaqa!	Pero, claro está, nosotros que comprendemos la vida, nos burlamos de los números.	0.244068
+Cuentohina kay qillqasqaypa qallarinantam munayman karqan: "Quyllur llaqtayuq wawas kasqa.	Hubiera deseado comenzar esta historia a la manera de los cuentos de hadas.	0.215625
+Tiyasqan planetaqa paymantapas tumpa hatunsi kasqa. ~~~ Chay wawaqa wawqimasiyuq kaytas munasqa... ".	Hubiera deseado decir: "Había una vez un principito que habitaba un planeta apenas más grande que él y que tenía necesidad de un amigo…".	0.170465
+Kawsaymanta yachaqpaqqa willasqayqa aswan chiqanmi kapunman.	Para quienes comprenden la vida habría parecido mucho más cierto.	0.294643
+Ancha llakikuywanmi paymanta qillqani.	Pues no me gusta que se lea mi libro a la ligera.	0.275
+Chaymi qillqasqayta mana hawahawallan liyirqunankuta munanichu.	¡Me apena tanto relatar estos recuerdos!	0.108333
+Suqta watañam wawqimasiypa uwihantin ripusqan.	Hace ya seis años que mi amigo se fue con su cordero.	0.3
+Ama qunqanayraykum "quyllur llaqtayuq wawata riqsichisaq" nini.	Si intento describirlo aquí es para no olvidarlo.	0.195349
+Sunqu pakiymi wawqimasi qunqayqa.	Es triste olvidar a un amigo.	0.228
+Manam lliwchu wawqimasiyuqqa kanchik.	No todos han tenido un amigo.	0.78
+Chaymantataq ñuqaqa manam kuraq runakunamanhina tukupuyta munanichu.	Y puedo transformarme como las personas grandes que no se interesan más que en las cifras.	0.613095
+Chaymi kulurlapiskunata rantikuni.	Por eso he comprado una caja de colores y de lápices.	0.2
+	Es penoso retomar el dibujo, a mi edad, cuando no se ha hecho más tentativas que la de la boa cerrada y la de la boa abierta, a la edad de seis años.	-0.3
+	Trataré, por cierto, de hacer los retratos lo más parecidos posible.	-0.3
+May sasam kuraq kaspaña dibuhayman kutiyqa!	Pero no estoy enteramente seguro de tener éxito.	0.276923
+Suqta watayuq kachkaspa wiksan wichqasqa, wiksan kichasqa amarullata dibuhayta atirqani chaypas quyllur llaqtayuq wawaman allin rikchakuqta dibuhaytam munani.	Un dibujo va, y el otro no se parece más. ~~~ Me equivoco también un poco en la talla. ~~~ Aquí el principito es demasiado alto.	-0.208824
+Atisaqchuch manachuch?	Allá es demasiado pequeño.	0.272727
+Chay dibuhasqayqa allinmi, kaytaq mana payman rikchakunchu.	Vacilo, también, acerca del color de su vestido.	0.214286
+Sayay-ñinpas ñataq hatun, ñataq huchuy.	Entonces ensayo de una manera u otra, bien que mal.	0.241667
+Mana allinta p'achanpa kulur-ñinta yuyani chaypas "dibuhasaqpuni" nispam dibuhallani.	He de equivocarme, en fin, sobre ciertos detalles más importantes.	0.196552
+Imapi pantaptiypas ama piñakuychikchu.	Pero habrá de perdonárseme.	0.168
+Manam wawqimasiyqa imatapas chuyatachu willawarqan.	Mi amigo jamás daba explicaciones.	0.135484
+Ichapas "payqa ñuqahinachari" niwarqan.	Quizá me creía semejante a él.	0.173077
+Ñuqataq kahun ukupi wichqasqa uwihataqa manam rikuyta atiymanchu.	Pero yo, desgraciadamente, no sé ver corderos a través de las cajas.	0.294828
+Ichapas ñuqaqa kuraq runahinaña kani. Machuyapunichuch?	Soy quizá un poco como las personas grandes. ~~~ Debo de haber envejecido.	0.16297
+<p>	<p>	0
+V Sapa punchawmi chaytañataq kaytañataq yachani chay planetanmantaqa, biyahi purinamantapas.	V Cada día sabía algo nuevo sobre el planeta, sobre la partida, sobre el viaje.	0.490909
+Hinam kimsa punchawmantaqa baobab sachap llakichisqanta yachani uwihamanta rimaptin.	Venía lentamente, al azar de las reflexiones. ~~~ Al tercer día me enteré del drama de los baobabs.	-0.00974026
+Llakisqam tapuwan: -Qhulla sachata uwiha mikunchu icha manachu? nispa.	Fue aun gracias al cordero, pues el principito me interrogó bruscamente, como asaltado por una grave duda: -¿Es verdad, no es cierto, que a los corderos les gusta comer arbustos?	0.185714
+-Mikunmi.	-Sí.	0
+-A, kusikuni.	Es verdad.	0.21
+"Imapaqcha uwihaman qhulla sacha mikuchiyta munan?" nispa sunquypi nini.	-¡Ah! ~~~ ¡Qué contento estoy!	-0.225
+Hinam niwan: -Baobab sachatapas mikullantaqchu? nispa.	No comprendí por qué era tan importante que los corderos comiesen arbustos.	0.638571
+Niptinqa: -Baobabqa manam huchuy sachachu, nispa nini.	Pero el principito agregó: -¿De manera que comen también baobabs?	0.25102
+Inlisha sayay hatun sacham. ~~~ Trupa elefanteta qatiykuptinchikpas manam mikuspa huk baobab sachallatapas tukuyta atinmanchu.	Hice notar al principito que los baobabs no son arbustos, sino árboles grandes como iglesias y que aun si llevara con él toda una tropa de elefantes, la tropa no acabaría con un solo baobab.	0.0125264
+"Trupa elefante" nisqaymantaqa asirikunmi: -Chay elefantekunata tawqachinanchikmi kanman... nispa.	La idea de la tropa de elefantes hizo reír al principito: -Habría que ponerlos unos sobre otros…	0.262963
+Yuyaysapa kaspam niwan: -Manaraq hatun kaspa baobabqa huchuyllam, nispa.	Y observó sabiamente: -Los baobabs, antes de crecer, comienzan por ser pequeños.	0.576923
+-Arí, hinapunim!	-¡Es cierto!	0.2
+Imapaqtaq uwihayki qhulla baobab mikunantari munanki? nispa nini.	Pero ¿por qué quieres que tus corderos coman baobabs pequeños?	0.605556
+Niptiyqa "yachankiña" nispalla niwan. ~~~ Chaymi sinchita yuyaykukuni.	Me contestó: "¡Bueno! ¡Vamos!", como si ahí estuviera la prueba.	-0.01875
+Quyllur llaqtayuq wawap planetanpiqa llapan planetapihinacha allin yurapas yanqa qurapas kaq kasqa.	Y necesité un gran esfuerzo de inteligencia para comprender por mí mismo el problema.	0.234247
+Allin yurap allin muhunpas yanqa qurap yanqa muhunpas kaq kallasqataq. ~~~ Chay muhukunataqa manam rikuchwanchu.	En efecto, en el planeta del principito, como en todos los planetas, había hierbas buenas y hierbas malas.	0.0686217
+Allpa sunqupim saman. ~~~ Chaymantam rikcharimun wiñarimunanpaqqa.	Como resultado de buenas semillas de buenas hierbas y de malas semillas de malas hierbas.	-0.04
+Hinaspam chutarikuspa puturimun.	Pero las semillas son invisibles.	0.29
+Huchuy yurallam lluqsirimun allpa sunqumanta intita mancharikuyllawan qawarispa.	Duermen en el secreto de la tierra hasta que a una de ellas se le ocurre despertarse.	0.61619
+Papa rapi, rosas rapipas puturimuptinqa wiñarichichwanmi.	Entonces se estira y, tímidamente al comienzo, crece hacia el sol una encantadora briznilla inofensiva.	0.090566
+Yanqa qura kaptintaq chaypachallam t'irarquna, riqsirquspahina.	Si se trata de una planta mala, debe arrancarse la planta inmediatamente, en cuanto se ha podido reconocerla.	0.127119
+Quyllur llaqtayuq wawap planetanpiqa manchakuy muhukunacha kasqa, baobab sutiyuq.	Había, pues, semillas terribles en el planeta del principito.	0.188889
+Baobab muhup hunt'aykusqancha kasqa chay planetaqa unquypa hapisqanhina.	Eran las semillas de los baobabs. ~~~ El suelo del planeta estaba infestado.	-0.0046875
+Chayqa mana chaypachalla t'irarquptinchikqa manañam librakuchwanñachu chay manchay hatun sachamantaqa.	Y si un baobab no se arranca a tiempo, ya no es posible desembarazarse de él. ~~~ Invade todo el planeta.	-0.0158824
+Planetantinpim hunt'aykunman.	Lo perfora con sus raíces.	0.221739
+Sapinkunawan icharatahina suysunatahinam ruranman planetataqa.	Y si el planeta es demasiado pequeño y si los baobabs son demasiado numerosos, lo hacen estallar.	0.183051
+Planeta huchuylla kaptintaq phatachinman.	"Es cuestión de disciplina", me decía más tarde el principito.	0.184615
+Chaymi qipamanña quyllur llaqtayuq wawaqa niwarqan "sapa punchawmi t'irana chaytaqa" nispa.	"Cuando uno termina de arreglarse por la mañana debe hacer cuidadosamente la limpieza del planeta.	0.539024
+"Allicharqukuspaqa planetanchiktañataqmi allinta allicharqunanchik. ~~~ Rikurquspahinam t'irarquna baobab sachataqa.	Hay que dedicarse regularmente a arrancar los baobabs en cuanto se los distingue entre los rosales, a los que se parecen mucho cuando son muy jóvenes.	-0.025
+Ch'ichillaraq kaspaqa rosaswan pantaymi.	Es un trabajo muy aburrido, pero muy fácil".	0.3
+Uma pasaymi chay llamkayqa. ~~~ Chaypas manam sasachu" nispam huk punchaw kallpanchaykuwan "chay ruraytam llaqtayki wawakunap sunqunman churanayki" nispa, "chaymi sumaq dibuhuta ruranayki.	Y un día me aconsejó que me aplicara a lograr un hermoso dibujo, para que entrara bien en la cabeza de los niños de mi tierra.	0.102012
+Chayqa maypipas allinñinkum kanqa".	"Si algún día viajan -me decía- podrá serles útil.	0.209091
+Maypachaqa ima rurananchiktapas saqirichwanmi, baobab sacha t'iranatataq mana.	A veces no hay inconveniente en dejar el trabajo para más tarde.	0.2
+Qayantinpaq saqispaqa llakipim rikukuchwan!	Pero, si se trata de los baobabs, es siempre una catástrofe.	0.226829
+Ñuqam rikurqani huk planetata qilla tiyaqñiyuqta.	Conocí un planeta habitado por un perezoso.	0.673308
+Paymi kimsa qhulla sachata qunqasqa... ".	Descuidó tres arbustos…".	0.8875
+Quyllur llaqtayuq wawap willawasqanmanhinam chay planetata dibuhaykuni.	Y, según las indicaciones del principito, dibujé aquel planeta.	0.246429
+Manam yachaq tukuyta munanichu.	No me gusta mucho adoptar tono de moralista.	0.806897
+Baobab sacha wiñarquspa muchuchikuq kasqantaqa manam yachankuchu. ~~~ Chaymi asteroideman chayaq runap chay llakipi ama rikukunanpaq willachkaykichik: "Wawakuna, paqtataq baobab sachata wiñachiwaqchik!" Wawqimasiykunapas ñuqapas llakiman chayanayku kasqa!	Pero el peligro de los baobabs es tan poco conocido y los riesgos corridos por quien se extravía en un asteroide son tan importantes, que, por una vez, salgo de mi reserva. ~~~ Y digo: "¡Niños! ¡Cuidado con los baobabs!".	-0.1625
+Ama chay llakipi rikukunankupaqmi kay dibuhuta imaymanaspa rurani.	Para prevenir a mis amigos de un peligro que desde hace tiempo los acecha, como a mí mismo, sin conocerlo, he trabajado tanto en este dibujo.	0.681667
+Manam yanqallachu dibuhani.	La lección que doy es digna de tenerse en cuenta.	0.126923
+"Imaraykutaq kay liwrupiri mana huk kayhina hatun dibuhuta rurarqankichu?" nispa niwankichik chayqa, kaytam nisqaykichik: "Rurasaq nispapas manam atinichu".	Quizá os preguntaréis: "¿Por qué no hay, en este libro, otros dibujos tan grandiosos como el dibujo de los baobabs?".	0.333652
+Baobabta dibuhachkaspaqa niqmi kani: "dibuhanaypunim kaytaqa ama llakiman chayanankupaq" nispa. ~~~ Baobabkuna.	La respuesta es bien simple: He intentado hacerlos, pero sin éxito. ~~~ Cuando dibujé los baobabs me impulsó el sentido de la urgencia.	-0.194828
+<p>	<p>	0
+VI Ay, quyllur llaqtayuq wawalláy, as asmantam putikuyñiykita yacharqani.	VI ¡Ah, principito! ~~~ Así, poco a poco, comprendí tu pequeña vida melancólica.	-0.00454545
+Tawa punchawmantaqa kaytañataqmi yacharquni: inti chinkaykuylla kawsayñiykita llampuchasqa.	Durante mucho tiempo tu única distracción fue la suavidad de las puestas de sol.	0.225
+-Inti chinkaykuqta munanim, nispa niwarqanki.	Me enteré de este nuevo detalle, en la mañana del cuarto día, cuando me dijiste: -Me encantan las puestas de sol.	0.428571
+Haku qawarimusun! -Suyananchikmi...	Vamos a ver una puesta de sol…	0.192
+-Imatam suyananchik?	-Pero tenemos que esperar…	0.24
+-Inti chinkaykuqta ari, nispa nini.	-¿Esperar qué?	-0.0857143
+Niptiymi utirayankiraq.	-Esperar a que el sol se ponga.	0.26087
+Hinaspam qammanta asirispa niwanki: -Wasillaypi kasqayta yuyakuni! nispa.	Al principio pareciste muy sorprendido: luego, te reíste de ti mismo.	0.265
+America suyupi chawpi punchaw kaptinqa intiqa Europa suyupi chinkaykuchkanña.	Y me dijiste: -¡Me creo siempre en mi casa!	0.0166667
+Chayqa yachasqam.	En efecto.	0.09
+Ñawi chimsillapi Europa suyukama puriyta atichwan chayqa, chaypi inti puñuykuqta rikuchwanmi.	Todo el mundo sabe que cuando es mediodía en los Estados Unidos el sol se pone en Francia.	0.509459
+Ichaqa manam chay puriyta atichwanchu Europa suyu ancha karu kaptin.	Bastaría poder ir a Francia en un minuto para asistir a la puesta del sol.	0.295
+Chay huchuy planetaykipitaqcha tiyanaykita suchurichispalla inti chinkaykuqtaqa qawawaq...	Desgraciadamente, Francia está demasiado lejos. ~~~ Pero sobre tu pequeño planeta te bastaba mover tu silla algunos pasos.	-0.0375
+-Huk punchaw tawachunka kimsayuq kutim inti chinkaykuqta rikuni, nispa ninki.	Y contemplabas el crepúsculo cada vez que lo querías. ~~~ -Un día, vi ponerse el sol cuarenta y tres veces.	0.170288
+As unaymanta nillankitaq: -Llakisqa kaspaqa inti chinkaykuqta munanchikmi... nispa.	Y poco después agregaste: -¿Sabes?… ~~~ Cuando uno está verdaderamente triste son agradables las puestas de sol…	-0.0309524
+-Ancha llakisqachu karqanki chay tawachunka kimsayuq kuti inti puñuykuqta rikuspa? nispa nini.	-¿Estabas, pues, verdaderamente triste el día de las cuarenta y tres veces?	0.212308
+Manam imaniwanpaschu.	El principito no respondió.	0.242857
+<p>	<p>	0
+VII Pichqa punchawmantaqa uwihamanta rimaptinmi huktapas yachallanitaq bidanmanta.	VII Al quinto día, siempre gracias al cordero, me fue revelado este secreto de la vida del principito.	0.59386
+Allinta yuyaykukuspa tapuykuwan: -Qhulla sachata uwiha mikun chayri t'ikatapas mikullantaqchu? nispa.	Me preguntó bruscamente, y sin preámbulos, como fruto de un problema largo tiempo meditado en silencio: -Si un cordero come arbustos, ¿come también flores?	0.166304
+-Uwihaqa ima tarisqantapas mikullanmi, nispa nini.	-Un cordero come todo lo que encuentra.	0.194118
+-Kichkayuq t'ikatapas?	-¿Hasta las flores que tienen espinas? ~~~ -Sí.	-0.0818182
+-Arí, kichkayuq t'ikatapas.	Hasta las flores que tienen espinas.	0.230769
+-Chayrí imapaq allintaq kichkanri?	-Entonces, las espinas, ¿para qué sirven?	0.253125
+Manam chayta yacharqanichu.	Yo no lo sabía.	0
+Aswanmi yuyaykukuchkarqani "imaynatataq kay tornillota hurqusaq?" nispa.	Estaba entonces muy ocupado tratando de destornillar un bulón demasiado ajustado de mi motor.	0.237313
+Chay motor allichanay sasapuni kaptinmi llakisqa karqani. ~~~ Upyana yakuypas ña tukukupuchkaptin "imapiraqchuch rikukusaqpas?" nispa mancharikuni.	Estaba muy preocupado, pues mi panne comenzaba a resultarme muy grave y el agua de beber que se agotaba me hacía temer lo peor.	-0.0385714
+-Imapaq allintaq kichkari?	-Las espinas, ¿para qué sirven?	0.264
+Quyllur llaqtayuq wawaqa tapukusqanman mana kutichiptinchikqa manapunim "hinalla kachun" nispa niqchu.	El principito jamás renunciaba a una pregunta, una vez que la había formulado.	0.433582
+Tornillohawa piñasqa kachkaspam hinata mana hinata kutichini: -T'ikapi kichkaqa yanqallam, allaykukuqllam, nispa.	Yo estaba irritado por mi bulón y respondí cualquier cosa: -Las espinas no sirven para nada.	0.434615
+-Achacháw! nispa upallaykun.	Son pura maldad de las flores.	0.288462
+Chaymanta piñasqa niwan: -Manam chayqa hinachu! nispa.	-¡Oh! ~~~ Después de un silencio me largó, con cierto rencor: -¡No te creo!	-0.0183673
+T'ikaqa mana kallpayuqmi, mana yachayñiyuqtaq.	Las flores son débiles. ~~~ Son ingenuas.	-0.0342857
+Kichkallanwanmi amachakun.	Se defienden como pueden.	0.26087
+"Kichkayuqtaqa manchawanqaku" ninmi.	Se creen terribles con sus espinas.	0.26129
+Manam imaninipaschu.	No respondí nada.	1.225
+Sunqullaypim yuyakuni "kay tornillo manapuni hurquchikuptinqa martillowan takaspa p'itarquchisaq" nispa.	En ese instante me decía: "Si este bulón todavía resiste, lo haré saltar de un martillazo".	0.225974
+Payqa waqmantam rimapayaykuwan: -Chiqapunichu t'ikaqa..., nispa.	El principito interrumpió de nuevo mis reflexiones: -¿Y tú, tú crees que las flores…? -¡Pero no! ~~~ ¡Pero no!	-0.055
+-Mana, mana!	¡Yo no creo nada!	0.225
+Manam yachanichu, nispa nini.	Te contesté cualquier cosa.	0.276
+Yanqallam nirqayki.	¡Yo me ocupo de cosas serias!	0.205263
+Yuyayñiyuqpa ruranantam rurachkani.	Me miró estupefacto.	0.0631579
+Utirayallanmi.	-¡De cosas serias!	0.26
+-Yuyayñiyuqpa ruranantá? nispam qawawan martillo hapirisqata avionñiyman yanalla makiyuq kumurayaqta.	Me veía con el martillo en la mano y los dedos negros de grasa, inclinado sobre un objeto que le parecía muy feo.	0.569466
+Millakuspa avionñiyta qawan.	-¡Hablas como las personas grandes!	0.244444
+-Kuraq runakunahinam rimachkanki! nispam pinqachiwan.	Me avergonzó un poco.	-0.189474
+Hinaspam niwallantaq: -Tukuytam pantanki, tukuytam chaqrunki! nispa.	Pero, despiadado, agregó: -¡Confundes todo!… ~~~ ¡Mezclas todo!	-0.01875
+Piñasqapunim karqan.	Estaba verdaderamente muy irritado.	0.105
+Chaymi umanta maywirispa quri chukchanta wayrarichin.	Sacudía al viento sus cabellos dorados.	0.18
+-Puka uya runam huk planetapi kasqa.	-Conozco un planeta donde hay un Señor carmesí.	1.07277
+	Jamás ha aspirado una flor.	-0.3
+Manam payqa haykappas t'ikawan samaykuchikusqachu.	Jamás ha mirado a una estrella. ~~~ Jamás ha querido a nadie.	-0.00957447
+Manam quyllurtapas qawarisqachu.	No ha hecho más que sumas y restas.	1.02931
+Manallataqmi pitapas munakusqachu.	Y todo el día repite como tú: "¡Soy un hombre serio!	0.209091
+Yupayllatam yachasqa.	¡Soy un hombre serio!".	0.3
+"Yuyayñiyuqmi kani, yuyayñiyuqmi kani" nispam qamhina huqarikuq kasqa.	Se infla de orgullo.	-0.466667
+Manam chayqa runachu, kallampam.	Pero no es un hombre; ¡es un hongo! -¿Un qué?	0.23
+-Imá? -Kallampam.	-¡Un hongo!	0.136364
+Quyllur llaqtayuq wawaqa manchay piñallañam kachkasqa.	El principito estaba ahora pálido de cólera.	0.643956
+-Paqarisqa timpumantapacham t'ikaqa kichkayuq.	-Hace millones de años que las flores fabrican espinas.	0.272727
+Chaywanpas paqarisqa timpumantapachallataqmi uwihaqa t'ikata mikun.	Hace millones de años que los corderos comen igualmente las flores.	0.274138
+Chayrí imapaqtaq t'ikari imaymanaspa kichkanta wiñarichin yanqalla kaptinri?	¿Y no es serio intentar comprender por qué las flores se esfuerzan tanto en fabricar espinas que no sirven nunca para nada?	0.158571
+Manachu chayri yuyayñiyuqpa rikunan?	¿No es importante la guerra de los corderos y las flores?	0.176471
+Manachu t'ikawan uwihawan maqanakuyñinri yuyayñiyuqpa yachanan?	¿No es más serio y más importante que las sumas de un Señor gordo y rojo?	0.3
+Yuyayñiyuq kayri chay puka uyayuq wira runahina yupaylla yupaychu? ~~~ Ñuqam huk t'ikata riqsini. ~~~ Manam chay t'ikahinaqa maypipas kanmanchu.	¿Y no es importante que yo conozca una flor única en el mundo, que no existe en ninguna parte, salvo en mi planeta, y que un corderito puede aniquilar una mañana, así, de un solo golpe, sin darse cuenta de lo que hace?	-0.210714
+Planetallaypim kan.	Esto, ¿no es importante?	0.252632
+Chay t'ikata huchuy uwiha mikurqunman.		-0.3
+Chayri manachu yuyayñiyuqpa llakinan? ~~~ Quyllur llaqtayuq wawa piñarqukuspa nillantaq: -Siyluta quyllur hunt'ata qawarispaqa sunqunchikta kusirichichwanmi 'chullalla t'ika munakusqayqa chaqay ukupi kachkan' nispa.	Enrojeció y agregó: -Si alguien ama a una flor de la que no existe más que un ejemplar entre los millones y millones de estrellas, es bastante para que sea feliz cuando mira a las estrellas. ~~~ Se dice: "Mi flor está allí, en alguna parte…".	-0.0720142
+Chay t'ikata uwiha mikurqunman chayqa, quyllurkunap kanchayñin wañurqupunmanpas-hinam kanman.	Y si el cordero come la flor, para él es como si, bruscamente, todas las estrellas se apagaran.	0.873418
+Manachu chayri yuyayñiyuqpa llakinan? nispa upallaykun.	Y esto, ¿no es importante? ~~~ No pudo decir nada más.	-0.0238636
+Hinaspam waqayta qallarin.	Estalló bruscamente en sollozos.	0.24
+Chayqa tutayapusqaña.	La noche había caído.	0.268421
+Martilloytapas kacharparini.	Yo había dejado mis herramientas.	0.278571
+	No me importaban ni el martillo, ni el bulón, ni la sed, ni la muerte.	-0.3
+Manañam martilloymantapas tornilloymantapas yaku ch'akiymantapas wañuymantapas llakikupuniñachu.	En una estrella, en un planeta, el mío, la Tierra, había un principito que necesitaba consuelo.	0.262963
+Huk quyllurpim wawa kasqa.	Lo tomé en mis brazos.	0.221053
+Chay quyllurqa ñuqap planetaymi kasqa, kikin Pachanchikmi kasqa.	Lo acuné. ~~~ Le dije: "La flor que amas no corre peligro…	-0.0351064
+Chayqa pay sunqunchanayuq, sunqun tiyachinayuqmi rikukuni.	Dibujaré un bozal para tu cordero.	0.06
+Hinaspa marqarirquspa luluni "munakusqayki t'ikaqa manam wañunqachu" nispa, "uwihaykipaq hakimata dibuhapusaq".	Dibujaré una armadura para tu flor… Di…".	-0.25
+"T'ikaykipaqtaq pullqanata dibuhapusaq... ñuqaqa..." nispa akllu akllu nini.	No sabía bien qué decir. ~~~ Me sentía muy torpe.	-0.1125
+Ichaqa yanqallapunim nanasqa sunqunmanqa yaykuyta munarqani.	No sabía cómo llegar a él, dónde encontrarlo…	0.169231
+Waqay pukyuqa pakasqam.	¡Es tan misterioso el país de las lágrimas…!	0.0818182
+<p>	<p>	0
+VIII Nam chay t'ikataqa allintaña riqsipurqani.	VIII Aprendí bien pronto a conocer mejor esa flor.	0.728571
+Quyllur llaqtayuq wawap planetanpiqa huchuy t'ikakunas kaq kasqa. ~~~ Huk siqi rapiyuqllas kaq. ~~~ Pampallas kakuq.	En el planeta del principito siempre había habido flores muy simples, adornadas con una sola hilera de pétalos, que apenas ocupaban lugar y que no molestaban a nadie.	-0.0150659
+Tutamantaqa qura chawpipis puturqumuq, chisintaqsi wañuykupuq.	Aparecían una mañana entre la hierba y luego se extinguían por la noche.	0.284483
+Chay wawap t'ikanqa wayrap apamusqan muhumantas puturqumurqan. ~~~ Quyllur llaqtayuq wawaqa ñawillas wiñachirqan chay mana riqsisqan qhulla sachataqa "amalla baobab sacha kanmanchu" nispa.	Pero aquélla había germinado un día de una semilla traída no se sabe de dónde y el principito había vigilado, muy de cerca, a esa brizna que no se parecía a las otras briznas.	0.0451389
+Chay qhulla sachaqa manaña wiñaripuspa chayllas huk t'ikata t'ikachaykukusqa.	Podía ser un nuevo género de baobab.	0.297581
+Hinaptinsi hatun mukmuta rikuspa quyllur llaqtayuq wawaqa "imachari rikurimunqa!" nispa suyan.	Pero el arbusto cesó pronto de crecer y comenzó a elaborar una flor.	0.152632
+Chaykamas t'ikaqa qumir wasin ukupi allichakuchkarqan.	El principito, que asistió a la formación de un capullo enorme, sentía que iba a surgir una aparición milagrosa, pero, al abrigo de su cámara verde, la flor no terminaba de preparar su embellecimiento.	0.0145714
+Kulurñintaraqsi akllakurqan.	Elegía con cuidado sus colores.	0.3
+Allillamantas p'achakurqan.	Se vestía lentamente y ajustaba uno a uno sus pétalos.	0.0888889
+Huk hukmantas rapichakurqan.	No quería salir llena de arrugas como las amapolas.	0.111111
+Manas munarqanchu sipu sipulla amapolahina rikurimuyta.	Quería aparecer con el pleno resplandor de su belleza.	0.274468
+Payqa llanllarichkaqpunis t'ikarimuyta munarqan.	¡Ah!, ¡sí! ~~~ ¡Era muy coqueta!	-0.105556
+Chay t'ikaqa k'achayk'achapuni kayta munarqan.	Su misterioso atavío había durado días y días.	0.2775
+Chaysi chay punchawpas chay punchawpas mana rikuchikuspa allichakurqan.	Y he aquí que una mañana, exactamente a la hora de la salida del sol, se mostró.	0.633333
+	Y la flor, que había trabajado con tanta precisión, dijo en medio de un bostezo: -¡Ah!, acabo de despertarme…	-0.3
+Hinaspas inti lluqsimuyta rikurimun.	Perdóname… Todavía estoy toda despeinada…	0.264706
+Payqa mana imallas unaymanta lluqsimun hanllarikusparaq.	El principito, entonces, no pudo contener su admiración: -¡Qué hermosa eres! -¿Verdad? -respondió suavemente la flor-.	0
+-Ay! Kunallanmi rikcharini, manaraqmi ñaqchakunichu, nispas nin.	Y he nacido al mismo tiempo que el sol…	0.421875
+Quyllur llaqtayuq wawaqa ninsi: -Ima sumaqmi kanki! nispa.	El principito advirtió que no era demasiado modesta, ¡pero era tan conmovedora!…	0.529487
+Niptinqa: -Hinapunim kani, nispas nin.	-Creo que es la hora del desayuno -agregó en seguida la flor-.	0.154286
+Intiwanmi paqarimuni...	¿Tendrías la bondad de acordarte de mí?	0.156522
+Niptinsi "manachus-hinam kay t'ikaqa pisillapaqchu yuyakun" nispa umanpi nin "hina kaspapas sunquytam suwarquwachkan".		-0.3
+-Qarpaykuway ari, ch'akiykuwachkanña, nispas nin t'ikaqa. ~~~ Quyllur llaqtayuq wawaqa manchay manchayraq yakuta maskarqumuspas qarpaykun.	Y el principito, confuso, habiendo ido a buscar una regadera de agua fresca, sirvió a la flor.	0.140701
+Chay t'ikaqa yupaychachikunanraykus muchuchiq.	Así lo atormentó bien pronto con su vanidad un poco sombría.	0.252273
+Kaytas nin, huk punchaw, tawa kichkanmanta: -Manchay silluyuq pumapas hamullachun! nispa.	Un día, por ejemplo, hablando de las cuatro espinas, dijo al principito: -¡Ya pueden venir los tigres con sus garras!	0.72875
+-Manam planetaypi pumaqa kanchu, nispas nin quyllur llaqtayuq wawaqa.	-En mi planeta no hay tigres -objetó el principito-; y, además, los tigres no comen hierba.	0.527419
+Manataqmi pumaqa qurata mikunchu.	-Yo no soy una hierba -respondió suavemente la flor.	0.164516
+Niptinqa: -Manam qurachu kani, nispa nin.	-Perdóname… ~~~ -No temo a los tigres, pero siento horror a las corrientes de aire.	0.137259
+-Ama ari piñakuychu...	¿No tendrías un biombo?	0.3
+-Manam ñuqaqa pumata manchanichu, wayrallatam manchani.	"Horror a las corrientes de aire…	0.0724138
+Manachu qataykuwankiman? -Wayrata manchaspari imaynatach kawsanki? nispas nin quyllur llaqtayuq wawaqa.	No es una suerte para una planta -observó el principito-.	0.297217
+Sasam ari kay t'ikaqa...	Esta flor es bien complicada…".	0.218182
+-Tutaqa qataykuwankipuni, nispas nin t'ikaqa.	-Por la noche me meterás bajo un globo.	0.218182
+Kaypiqa anchatam chirikusqa.	Aquí hace mucho frío.	0.173684
+Manam wasiykiqa allin wasichasqachu.	Hay pocas comodidades.	0.114286
+Tiyasqay planetaqa na..., nispas upallaykun.	Allá, de donde vengo… ~~~ Pero se interrumpió.	-0.00769231
+Pay wayrallawan hamuq muhuri imatach yachanman waq planetakunamanta?	Había venido bajo forma de semilla. ~~~ No había podido conocer nada de otros mundos.	-0.0217742
+Llullarikusqanmanta pinqarikuspas uhuyllaña uhurin quyllur llaqtayuq wawap kuyapayananpaq. ~~~ -Maytaq qatanari?	Humillada por haberse dejado sorprender en la preparación de una mentira tan ingenua, tosió dos o tres veces para poner en falta al principito.	-0.0279412
+Nispas nin.	-¿Y el biombo?…	0.218182
+-Rimapayawaptiykim mana maskamunichu, nispa niptinqa astawanraqsi uhuykun unqusqanmanta huchachananpaq.	-¡Lo iba a buscar, pero como me estabas hablando!… ~~~ Entonces la flor forzó la tos para infligirle, aun así, remordimientos.	-0.015625
+Manaraq chay t'ikata allinta riqsichkaspaqa ay ay niptin llakiyllañas atiparqan.	De este modo, el principito, a pesar de la buena voluntad de su amor, pronto dudó de ella.	0.291667
+Llullakusqanta riparaspas waylluchkaspapas manaña anchata kasupunchu.	Había tomado en serio palabras sin importancia y se sentía muy desgraciado.	0.3
+Huk punchawmi willarikuwan: "Amachari chay t'ikata uyariymanchu karqan" nispa.	"No debí haberla escuchado -me confió un día-; nunca hay que escuchar a las flores.	0.295714
+"T'ikataqa manapuni uyarinachu, qawarinallam, mutkirinallam.	Hay que mirarlas y aspirar su aroma.	0.0483871
+Ñuqaqa planetayta t'ikay qapaykuptinpas manam mutkiriqchu kani.	La mía perfumaba mi planeta, pero yo no podía gozar con ello.	0.258824
+Chay t'ikayqa hatun silluyuq pumamanta willawaspam anchatapuni piñaykuchiwarqan.	La historia de las garras, que tanto me había fastidiado, debe de haberme enternecido…".	0.291892
+Piñarikuyrantiqa aswanmi sunquyta llampuyachiyman karqan...	Y me confió aún: "No supe comprender nada entonces.	0.218182
+" Nispam nillantaq: "Manam rumi sunquchu kanay karqan" nispa.	Debí haberla juzgado por sus actos y no por sus palabras.	0.5625
+"Manam rimasqantaqa uyarinaychu karqan, rurasqantam rikunay karqan.		-0.3
+Qapaykuwarqantaq kanchaykuwarqantaq.	Me perfumaba y me iluminaba.	0.168
+Amachari qayllanmanta ayqimuymanchu karqan.	¡No debí haber huido jamás!	0.0875
+Aswanpas llampu sunquntachari riparayman karqan llullakusqanpi pakakusqata.	Debí haber adivinado su ternura, detrás de sus pobres astucias.	0.218182
+T'ikakunaqa nin: "munawaytaq amataq".	¡Las flores son tan contradictorias!	0.281818
+Ñuqataq wawaraqchari karqani pay munanaypaqqa".	Pero yo era demasiado joven para saber amarla".	0.778049
+<p>	<p>	0
+IX Hanan pawaq pisqukunawan aysarichikuspachari quyllur llaqtayuq wawaqa ayqirikupurqan.	IX Creo que, para su evasión, aprovechó una migración de pájaros silvestres.	0.531818
+Sumaqtas planetanta allichaykurqun ayqirinanpaqqa.	La mañana de la partida puso bien en orden su planeta.	0.28
+Hinaspas volcan nisqa ninasamaq urqunkunatapas allinta picharqun.	Deshollinó cuidadosamente los volcanes en actividad.	0.225
+Payqa iskay ninasamaq urquyuqsi karqan.	Poseía dos volcanes en actividad.	0.74
+Chayllapis yakuta timpuchiq sapa paqarin.	Era muy cómodo para calentar el desayuno de la mañana.	0.236842
+Chayqa wañusqa volcanñinpas kallaqtaqsi.	Poseía también un volcán extinguido.	0.254545
+"Imaynapaqpas picharqullasaqtaq kaytapas" nispas chaytapas picharqullantaq.	Pero, como decía el principito, "¡no se sabe nunca!". ~~~ Deshollinó, pues, igualmente el volcán extinguido.	0.167807
+Ninasamaq urquqa allin pichasqaqa allillamantam rawran, mana phataspa.	Si se deshollinan bien los volcanes, arden suave y regularmente, sin erupciones.	0.605208
+Phataspaqa hurnuhinam rawran.	Las erupciones volcánicas son como el fuego de las chimeneas.	0.0321429
+Kay Pachanchikpiqa huchuylla kaspanchikmi mana chaykunataqa pichanchikchu.	Evidentemente, en nuestra tierra, somos demasiado pequeños para deshollinar nuestros volcanes.	0.230435
+Chaymi llakiykuchiwanchik.	Por eso nos causan tantos disgustos.	0.230769
+Hinaspas quyllur llaqtayuq wawaqa baobab mukmukunatapas putisqa t'irarqullantaq "ichapas manaña kutimusaqñachu" nispa.	El principito arrancó también, con un poco de melancolía, los últimos brotes de baobabs.	0.404453
+Chay paqarinqa rurasqanpas manas saykuchinchu.	Creía que no iba a volver jamás.	0.122222
+T'ikanta qarparquspa, qataykusaq nichkaptin waqayllañas atipan.	Pero todos estos trabajos cotidianos le parecieron extremadamente agradables esa mañana.	0.198305
+	Y cuando regó por última vez la flor, y se dispuso a ponerla al abrigo de su globo, descubrió que tenía deseos de llorar.	-0.3
+-Allillan kakuy, nispas nin t'ikantaqa.	-Adiós -dijo a la flor.	0.56
+Niptinqa chinllas.	Pero la flor no le contestó.	0.2
+-Allillan kakuy, nispas nillantaq.	-Adiós -repitió.	0
+T'ikaqa uhurillansi.	La flor tosió.	0.138462
+Manachari uhu unquyñinraykuchu uhuchkan.	Pero no por el resfrío.	0.03
+-Ima pisi sunqutaq karqani! nispas nin t'ikaqa.	-He sido tonta -le dijo por fin-.	0.15
+Ama chiqniwaychu.	Te pido perdón.	1.23571
+Tukuy sunqulla ripuy.	Procura ser feliz.	0.247059
+Upallaykuptinsi qatana hapirisqa sayapayan.	Quedó sorprendido por la ausencia de reproches.	0.292683
+"Kay t'ikaqa llampu sunqum kasqa!" nispas nin.	Permaneció allí, desconcertado, con el globo en la mano.	0.616463
+Volcan nisqa ninasamaq urqunkunatapas allinta picharqun.	No comprendía esa calma mansedumbre.	0.127273
+-Munaykim, nispas nin t'ikaqa.	-Pero, sí, te quiero -le dijo la flor-.	0.246429
+Ñuqam huchayuq kani mana chay yachanaykipaq.	No has sabido nada, por mi culpa.	0.171429
+Ama llakikuychu chaymantaqa.	No tiene importancia.	0.195
+Qampas pisi sunqullataqmi karqanki.	Pero has sido tan tonto como yo.	0.233333
+Tukuy sunqulla ripuy...	Procura ser feliz…	0.211765
+Amaña qataykuwaychu.	Deja el globo en paz.	0.266667
+Hinallaña kasaq.	No lo quiero más.	0.28
+-Wayra hamuptinrí...?	-Pero el viento…	0.18
+-Alliyapuniñam.	-No estoy tan resfriada como para…	0.0375
+T'ikapaqqa tuta wayraqa allinmi.	El aire fresco de la noche me hará bien.	0.87
+-Kurupas imapas hamuptinrí...?	Soy una flor. ~~~ -Pero los animales…	-0.0103448
+-Iskay kimsa kurutaqa uywanaypunim pillpintu rikuyta munaspaqa.	-Es preciso que soporte dos o tres orugas si quiero conocer a las mariposas.	0.643966
+Munayllas pillpintuqa.	¡Parece que es tan hermoso!	0.272727
+	Si no, ¿quién habrá de visitarme?	-0.3
+	Tú estarás lejos.	-0.3
+Mana chayri pitaq watukuq hamuwanman?	En cuanto a los animales grandes, no les temo.	0.255882
+Qamqa maypiñachari kanki!	Tengo mis garras.	0.15
+Pumapas hamullachun, manam manchanichu, silluyuqmi kani, nispas tawa kichkanta rikuchin.	Y mostró ingenuamente sus cuatro espinas.	0.379923
+Hinaspas nillantaq: -Sayarayaspam piñaykuchiwanki, nispa.	Después agregó: -No te detengas más, es molesto.	0.714286
+Ripullayña ripuyta munaspaqa.	Has decidido partir. ~~~ Vete.	-0.0115385
+Chay t'ikaqa manas llakikusqanta rikuchiyta munasqachu.	Pues no quería que la viese llorar.	0.09
+Chaysi mana waqaq tukun.	Era una flor tan orgullosa…	0.272727
+<p>	<p>	0
+X Quyllur llaqtayuq wawaqa 325, 326, 327, 328, 329, 330 asteroidekunamansi chayan.	X Se encontraba en la región de los asteroides 325, 326, 327, 328, 329 y 330.	1.41099
+Hinaspas hukpiñataq hukpiñataq puriykachan "ichapas ima ruranallatapas kaypi tariyman" nispa, "imatapas yachayman kawsaymanta".	Comenzó, pues, a visitarlos para buscar una ocupación y para instruirse. ~~~ El primero estaba habitado por un rey.	-0.0293814
+Chayqa 325 kaq asteroidepiqa hatun apus tiyasqa ancha sumaq suni llaqullayuq.	El rey, vestido de púrpura y armiño, estaba sentado en un trono muy sencillo y sin embargo majestuoso. ~~~ -¡Ah!	0.0852941
+Chay apuqa hatun tiyanapis tiyasqa.	He aquí un súbdito -exclamó el rey cuando vio al principito.	0.621875
+-Runaymi hamuchkan, nispas nin quyllur llaqtayuq wawata rikuspa.	Y el principito se preguntó: -¿Cómo puede reconocerme si nunca me ha visto antes?	0.90977
+Quyllur llaqtayuq wawaqa sunqunpis nin: -Imaynamantach payri riqsiwan mana haykappas rikuwaspa? nispa.	No sabía que para los reyes el mundo está muy simplificado. ~~~ Todos los hombres son súbditos.	-0.0246835
+Manas yacharqanchu apukunapaq tiqsimuyu huk kasta runayuqlla kasqanta: apupaqqa llapa runapas runallanmi.		-0.3
+-Hamuy, allinta qawarisqayki, nispas nin apuqa huk runayuqllapas kasqanmanta kusirikuspa.	-Acércate para que te vea mejor -le dijo el rey, que estaba orgulloso de ser al fin rey de alguien.	0.845455
+Quyllur llaqtayuq wawaqa maypi tiyaykunantas maskan.	El principito buscó con la mirada un lugar donde sentarse, pero el planeta estaba totalmente cubierto por el magnífico manto de armiño.	0.309821
+Apup llaqullanqa planetantintaraqsi qataykusqa.	Quedó, pues, de pie, y como estaba fatigado, bostezó.	0.293333
+Chaysi wawaqa sayaylla sayan.		-0.3
+Saykusqas hanllarikun. ~~~ -Manam hanllarikunachu apup ñawpaqinpiqa, nispas nin apuqa.	-Es contrario al protocolo bostezar en presencia de un rey -le dijo el monarca-.	0.148611
+Ama hanllarikuychu.	Te lo prohíbo.	1.16154
+-Hanllakuymi chayawan, nispas nin wawaqa pinqarikuspa.	-No puedo impedirlo -respondió confuso el principito-.	0.722449
+Karumantam hamuchkani, mana puñusqam kani.	He hecho un largo viaje y no he dormido…	0.245455
+-Hina kaptinqa kamachiyki hanllarikunaykipaq, nispas nin apuqa.	-Entonces -le dijo el rey- te ordeno bostezar.	0.54
+Unayñam mana pitapas hanllakuqta rikunichu.	No he visto bostezar a nadie desde hace años.	0.284211
+Chaymi rikuyta munani.	Los bostezos son una curiosidad para mí.	0.1
+Hanllarikuy astawan.	¡Vamos!, bosteza otra vez.	0.24
+-Pinqakunim.	Es una orden.	0.275
+Manañam hanllarikuymanchu, nispas nin wawaqa manchakuspa.	-Eso me intimida… no puedo… -dijo el principito, enrojeciendo.	1.14582
+-Ayh! nispas nin apuqa.	-¡Hum! ¡Hum! -respondió el rey-.	1.38571
+Chayqa nayki... kamachiyki hanllarikunaykipaqtaq nanaykipaqtaq..., nispas nin akllu akllu, sunqu nanasqahina.	Entonces te… te ordeno bostezar o no bos…	-0.257143
+Kamachisqankunataqa hunt'anapunis kaq kasqa.	Farfulló un poco y pareció irritado.	0.20625
+Payllas kamachiq kasqa planetanpi.	El rey exigía esencialmente que su autoridad fuera respetada.	0.69375
+Ichaqa ruray atinallatas sumaq apu kayñinpi kamachiq kasqa.	Y no toleraba la desobediencia. ~~~ Era un monarca absoluto.	-0.00588235
+	Pero, como era muy bueno, daba órdenes razonables.	-0.3
+"Wamink'ayta 'wallataman kutiy, wachwaman tukuy' nispa niyman, chay wamink'ay mana chayta hunt'anmanchu chayqa, manam huchanchu kanman.	"Si ordeno, decía corrientemente, si ordeno a un general que se transforme en ave marina y si el general no obedece, no será culpa del general.	0.471429
+Ñuqap huchaymi kanman" nispas niq.	Será culpa mía". ~~~ -¿Puedo sentarme?	-0.00967742
+-Yayáy, lisinsaykiwan tiyaykusaq, nispas nin quyllur llaqtayuq wawaqa.	-inquirió tímidamente el principito.	1.23529
+-Tiyaykunaykipaq kamachiyki, nispas nin apuqa llaqullanta payñiqman aysaririspa.	-Te ordeno sentarte -le respondió el rey, que recogió majestuosamente un faldón de su manto de armiño.	0.580631
+Chaysi quyllur llaqtayuq wawaqa sunqullanpi nin "pitach kamachin kay huchuy planetapi?" nispa.	El principito se sorprendió. ~~~ El planeta era minúsculo.	-0.0346154
+-Tapurikusqayki, yayalláy, nispas nin wawaqa.	¿Sobre qué podía reinar el rey? ~~~ -Sire… -le dijo- os pido perdón por interrogaros…	0.166667
+-Tapuwanaykipaq kamachiyki, nispas nin apuqa.	-Te ordeno interrogarme -se apresuró a decir el rey.	0.778571
+-Pitataq kamachinkiri, yayalláy?	-Sire…, ¿sobre qué reináis?	0.228
+-Hinantintam kamachini, nispallas nin apuqa.	-Sobre todo -respondió el rey, con gran simplicidad.	0.263415
+-Hinantintá?	-¿Sobre todo?	0.3
+Chaypis apuqa planetantapas huk planetakunatapas quyllurkunatapas huk qawariyllapi rikuchin.	El rey con un gesto discreto señaló su planeta, los otros planetas y las estrellas.	0.835714
+-Chay lliwtá? nispas nin wawaqa.	-¿Sobre todo eso? -dijo el principito.	1.74828
+-Arí, chay lliwta, nispas nin apuqa.	-Sobre todo eso… -respondió el rey.	0.718894
+Manas chay apuqa planetallanpichu kamachiq kasqa, tiqsimuyuntintas kamachiq kasqa.	Pues no solamente era un monarca absoluto sino un monarca universal.	0.218644
+-Quyllurkunarí kasullasunkitaqchu?	-¿Y las estrellas os obedecen?	0.222222
+-Arí, kasuwallantaqmi, nispas nin apuqa.	-Seguramente -le dijo el rey-.	1.18889
+Kamachisqaypacham sayarimun.	Obedecen al instante.	0.18
+Mana chayqa piñakuni, nispa niptinsi utirayallan "ancha munayñiyuqmi kasqa" nispa.	No tolero la indisciplina. ~~~ Un poder tal maravilló al principito.	-0.0413793
+Payqa chay apuhina munayñiyuq kaspaqa manas tawachunka tawayuq kutillachu inti chinkaykuqta rikunman karqan.	¡Si él lo hubiera detentado, habría podido asistir, no a cuarenta y cuatro, sino a setenta y dos, o aun a cien, o aun a doscientas puestas de sol en el mismo día, sin necesidad de mover jamás la silla!	0.953019
+Aswansi qanchischunka iskayñiyuq kuti, pachak kuti, iskaypachak kutipas huk punchawllapi rikunman karqan, mana tiyananta suchurichispa.	Y como se sentía un poco triste por el recuerdo de su pequeño planeta abandonado, se atrevió a solicitar una gracia al rey: -Quisiera ver una puesta de sol…	0.470287
+Chaysi quyllur llaqtayuq wawaqa llakirikunsi planetanta yuyarispa.		-0.3
+Hinaspas aputa nin: -Inti chinkaykuqta qawariyta munani, nispa.		-0.3
+Ama hina kaychu... ~~~ Intita kamachiy chinkaykunanpaq.	Hazme el gusto… Ordena al sol que se ponga…	-0.0241935
+-Wamink'ayta "t'ika t'ikamanta paway pillpintuhina, kunanqa harawita qillqaykuy, tikrakuy wallataman" nispa kamachiyman, mana chayta hunt'anmanchu chayqa mayqanpataq huchan kanman? nispas tapuykun wawataqa.	-Si ordeno a un general que vuele de flor en flor como una mariposa, o que escriba una tragedia, o que se transforme en ave marina y si el general no ejecuta la orden recibida, ¿quién, él o yo, estaría en falta?	0.404119
+-Qampa huchaykim ari kanman.	-Vos -dijo firmemente el principito.	0.219231
+-Arí, hinapunim chayqa.	-Exacto.	-0.133333
+Runataqa kallpan atinallantam kamachina, nispas nin apuqa.	Hay que exigir a cada uno lo que cada uno puede hacer -replicó el rey-.	1.0217
+Chaymi chaninta kamachina.	La autoridad reposa, en primer término, sobre la razón.	0.024
+Runakunata mamaquchaman wischuykukunanpaq kamachichwan chayqa, awqam hatarinkuman.	Si ordenas a tu pueblo que vaya a arrojarse al mar, hará una revolución.	0.215
+Chaymi runaykunap uyariwanantapuni munaspaqa chaninta kamachinay, nispas nin apuqa.	Tengo derecho a exigir obediencia porque mis órdenes son razonables.	0.22
+Niptinsi nin: -Inti chinkaykuqta rikuyta munani, nispa.	-¿Y mi puesta de sol? -respondió el principito, que jamás olvidaba una pregunta una vez que la había formulado.	0.036
+Tapukusqantaqa manam qunqaqchu.	-Tendrás tu puesta de sol. ~~~ Lo exigiré.	-0.025
+Apuqa ninsi: -Rikuchisqaykim inti chinkaykuqtaqa, nispa.	Pero esperaré, con mi ciencia de gobernante, a que las condiciones sean favorables.	0.184615
+Ichaqa amawta kaspam suyanay chay kamachinaypaqqa.	-¿Cuándo serán favorables las condiciones?	0.246154
+Niptinqa: -Haykapkama? nispas nin.	-averiguó el principito.	0.932609
+Apuqa almanaquentaraqsi qawaykun uhurikuspa. ~~~ -Ñam..., ñam... ñam chisiyaykuytaña rikuchisqayki.	-¡Hem! ¡Hem! -le respondió el rey, que consultó antes un grueso calendario-, ¡hem!, ¡hem!, ¡será a las… a las… será esta noche a las siete y cuarenta!	-0.0583333
+Chaypiñam yachanki imapas tukuy imaymanapas kasuwasqanta.	¡Y verás cómo soy obedecido!	-0.036
+Mana inti chinkaykuqta rikuspas quyllur llaqtayuq wawaqa hanllarikun.	El principito bostezó. ~~~ Lamentaba la pérdida de su puesta de sol.	0.075
+-Mana imapas kaypi ruranay kanñachu, nispas nin aputaqa.	Y como ya se aburría un poco: -No tengo nada más que hacer aquí -dijo al rey-.	1.222
+Ripullasaqña.	¡Voy a partir!	0.276923
+Niptinqa: -Ama ripuychu, nispas nin. ~~~ Apuqa kusisqas runan kaptin.	-No partas -respondió el rey, que estaba muy orgulloso de tener un súbdito-.	0.104545
+Chaysi nin: -Ama ripuychu, kunanmanta kamachiqmi kanki.	¡No partas, te hago ministro! -¿Ministro de qué?	0.242857
+-Imatataq kamachisaq?		-0.3
+-Huwistam churasqayki, chaninchaqtam churasqayki.	-De… ¡de justicia! -¡Pero no hay a quién juzgar!	0.256098
+-Pitataq chaninchasaqri?		-0.3
+-Manam chayta yachanichu, nispas nin apuqa.	-No se sabe -le dijo el rey-.	1.39821
+Machuñam kani, manam kaypi karru kawinmanchu, puriykachaspaqa saykuni, chaymi mana llaqtayta muyurinichu.	Todavía no he visitado a mi reino. ~~~ Soy muy viejo, no tengo lugar para una carroza y me fatiga caminar. ~~~ -¡Oh!	-0.110465
+-Yachaniñam mana imapas kaypi kasqantaqa, nispas nin wawaqa chay lawñiqman kay lawñiqman qawarispa.	Pero yo ya he visto -dijo el principito, que se asomó para echar otra mirada hacia el lado opuesto del planeta-.	0.711526
+Niptinsi: -Qam kikiykita chaninchakunki, nispas nin.	No hay nadie allí, tampoco… ~~~ -Te juzgarás a ti mismo -le respondió el rey-.	0.17967
+	Es lo más difícil.	-0.3
+May sasam kikinchik chaninchakuyqa!	Es mucho más difícil juzgarse a sí mismo que juzgar a los demás.	0.118182
+Allin yachayñiyuqpaqmi chayqa.	Si logras juzgarte bien a ti mismo eres un verdadero sabio.	0.0827586
+-Ñuqaqa maypipas chaninchakullaymanmi, nispas nin wawaqa.	-Yo -dijo el principito- puedo juzgarme a mí mismo en cualquier parte.	1.11752
+Manam kaypi tiyaspallachu.	No tengo necesidad de vivir aquí.	1.002
+-Kay planetapiqa ukucham tuta purin.	-¡Hem! ¡Hem! -dijo el rey-.	0.1875
+	Creo que en algún lugar del planeta hay una vieja rata.	-0.3
+Chaytam chaninchanki.	La oigo por la noche.	0.25
+Chullalla ukucha kaptinmi wañuchichisqayki ninkitaq qispichisqayki ninkitaq.	Podrás juzgar a la vieja rata. ~~~ La condenarás a muerte de tiempo en tiempo.	-0.0164063
+Qamllamantam wañuyñinpas kawsayñinpas kanqa.	Así su vida dependerá de tu justicia.	0.20625
+-Ñuqaqa manam pitapas wañuchichisqayki niymanchu.	Pero la indultarás cada vez para conservarla. ~~~ No hay más que una.	-0.0225
+Ripullasaqña, nispas nin.	-A mí no me gusta condenar a muerte -respondió el principito-.	0.6875
+Niptinqa: -Ama, nispas nin.	Y creo que me voy. ~~~ -No -dijo el rey.	0.5
+Ña ripuy patapiña kachkaspa quyllur llaqtayuq wawaqa manas chay machu aputaqa llakichiyta munarqanchu.	Pero el principito, habiendo concluido sus preparativos, no quiso afligir al viejo monarca: -Si Vuestra Majestad desea ser obedecido puntualmente podría darme una orden razonable.	0.0857143
+Chaysi nin: -Apulláy, kamachisqayki hunt'anayta munaspaqa chaninta kamachiway, nispa.	Podría ordenarme, por ejemplo, que parta antes de un minuto.	0.45
+'Ripullayña' niway, amaña suyaychu.	Me parece que las condiciones son favorables…	0.236364
+	Como el rey no respondiera nada, el principito vaciló un momento, y luego, con un suspiro, emprendió la partida.	-0.3
+Mana kamachiptin tunki tunkiraqsi kachkan.	-Te hago embajador -se apresuró entonces a gritar el rey.	0.223077
+Hinaspas llakisqa ripun.	Tenía un aire muy autoritario.	0.247826
+Ripuchkaptinñas apuqa kamachimun: -Kunanmanta ñuqap kachaymi kanki, nispa.		-0.3
+Qipamanqa "sasam kuraq runakunaqa!" nispas nin quyllur llaqtayuq wawaqa purikuyñinpi.	Las personas grandes son bien extrañas, díjose a sí mismo el principito durante el viaje.	1.11423
+<p>	<p>	0
+XI 326 kaq planetapiqa sumaychakuq runas2 tiyaq kasqa. ~~~ -A! A!	XI El segundo planeta estaba habitado por un vanidoso: -¡Ah! ¡Ah!	0.308333
+Huk runachus-hinam sumaychawaq hamuchkan, nispas nin chay sumaychakuq runaqa quyllur llaqtayuq wawata rikurquspa.	¡He aquí la visita de un admirador! -exclamó desde lejos el vanidoso no bien vio al principito.	0.431786
+Chayhinam yupaychakuq runakunapaqqa pipas sumaychaqñillan.	Pues, para los vanidosos, los otros hombres son admiradores.	0.288679
+-Taytáy! nispas nin quyllur llaqtayuq wawaqa.	-Buenos días -dijo el principito-.	1.20323
+Sumbriruykitahinaqa manam rikurqanichu.	¡Qué sombrero tan raro tienes!	0.177778
+Niptinqa: -Sumbriruyqa napaykunaypaqmi, nispas nin.	-Es para saludar -le respondío el vanidoso-.	0.730769
+Sumaychaqñiykuna napaykunaypaqmi.	Es para saludar cuando me aclaman.	0.27
+Chaypas manam pipas hamunchu kaytaqa, nispa.	Desgraciadamente, nunca pasa nadie por aquí.	1.15714
+Ñawpaqqa " sumaychakuq " nispa nirqanchik jactanciosota.		-0.3
+Niptinqa: -Hinachu? nispas nin mana unanchaspa.	-¿Ah, sí? -dijo el principito sin comprender.	1.13464
+-Taqllakuy, nispas nin.	-Golpea tus manos, una contra otra -aconsejó el vanidoso.	0.668182
+Niptinqa taqllakunsi.	El principito golpeó sus manos, una contra otra.	0
+Chaysi chay sumaychakuq runaqa sumbrirunta hapispa napaykun.	El vanidoso saludó modestamente, levantando el sombrero.	0.276471
+Napaykuptinqa: -Kayqa apumantapas astawanmi asichiwan, nispas sunqunpi nin.	-Esto es más divertido que la visita al rey -se dijo para sí el principito.	0.932796
+Yapas taqllarikullantaq.	Y volvió a golpear sus manos, una contra otra.	0.1125
+Chaysi chay sumaychakuqqa yapa napaykullantaq sumbrirunwan.	El vanidoso volvió a saludar, levantando el sombrero.	0.248936
+Ñataq ñataq taqllakuspa saykurqupunsi quyllur llaqtayuq wawaqa: -Kunanqa sumbriruyki urmananta munani.	Después de cinco minutos de ejercicio el principito se cansó de la monotonía del juego: -Y, ¿qué hay que hacer para que el sombrero caiga? -preguntó.	0.446774
+Manas ari chay sumaychakuq runaqa uyarinchu.	Pero el vanidoso no le oyó.	0.0782609
+Sumaychakuq runakunaqa miski simillatam uyarin.	Los vanidosos no oyen sino las alabanzas.	0.233333
+-Anchatachu yupaychakuwanki? nispas tapun chay runaqa.	-¿Me admiras mucho verdaderamente? ~~~ -preguntó al principito.	-0.018
+-Imaniytam munan "yupaychakuy"? nispas nin.	-¿Qué significa admirar?	0.828261
+-Yupaychakuyqa kaymi: "qamllapunim sumaq, k'achalla, qapaq, yachaysapa kanki planetaykipi" nispa niwankiman chaymi.	-Admirar significa reconocer que soy el hombre más hermoso, mejor vestido, más rico y más inteligente del planeta.	0.278571
+-Sapallaykitaq kankiqá planetaykipi!	-¡Pero si eres la única persona en el planeta! -¡Hazme el placer!	0.128571
+-Ama hina kaychu.	¡Admírame lo mismo!	0.2625
+Yupaychakullaway, nispas nin.	-Te admiro -dijo el principito, encogiéndose de hombros-.	1.55357
+Niptinqa: -Yupaychakuyki, nispas umallanta maywirin.	Pero, ¿por qué puede interesarte que te admire?	0.241463
+Yupaychasqayri imapitaq yanapasunki? nispa ripun.	Y el principito se fue.	-0.09
+Qipamanqa "sasam kuraq runakunaqa!" nispas nin quyllur llaqtayuq wawaqa purikuyñinpi.	Las personas grandes son decididamente muy extrañas, se dijo simplemente a sí mismo durante el viaje.	0.806494
+<p>	<p>	0
+XII 327 kaq planetapiqa machaysiki runas tiyaq kasqa.	XII El planeta siguiente estaba habitado por un bebedor.	0.953901
+Quyllur llaqtayuq wawaqa askamallas chayan chaytaqa.	Esta visita fue muy breve, pero sumió al principito en una gran melancolía.	0.628571
+Chaypas ancha llakikuysi hapin.	-¿Qué haces ahí?	0.02
+-Imatataq kaypi rurachkanki? nispas nin machaysikitaqa, chusaq butillakunap, hunt'a butillakunap chawpinpi tiyaqta rikuspa.	-preguntó al bebedor, a quien encontró instalado en silencio, ante una colección de botellas vacías y una colección de botellas llenas.	0.289286
+Niptinqa llakisqallas nin: -Upyachkanim, nispa.	-Bebo -respondió el bebedor, con aire lúgubre.	0.278049
+-Imapaqtaq upyankiri?	-¿Por qué bebes? -preguntóle el principito.	0.0428571
+-Qunqanaypaqmi, nispas nin machaysikiqa.	-Para olvidar -respondió el bebedor.	0.854545
+-Ima qunqanaykipaqtaq? nispas tapun sunqu qiwiywan.	-¿Para olvidar qué? ~~~ -inquirió el principito, que ya le compadecía.	0.192334
+Machaysikiqa pinqasqas nin: -Pinqakusqay qunqanaypaqmi, nispa.	-Para olvidar que tengo vergüenza -confesó el bebedor bajando la cabeza.	0.274138
+	-¿Vergüenza de qué?	-0.3
+-Imamantataq pinqakunkiri? nispas kuyapayan.	-averiguó el principito que deseaba socorrerle.	0.892857
+-Upyasqaymantam pinqakuni, nispas nin machaysikiqa. ~~~ Hinaspas chinlla tukukupun.	-¡Vergüenza de beber! -terminó el bebedor, que se encerró definitivamente en el silencio.	0.15625
+Chaysi quyllur llaqtayuq wawaqa ripun mana imata intindispa.	Y el principito se alejó, perplejo.	0.505991
+"Sasapunim kuraq runakunaqa!" nispas yuyaykukun purikuyñinpi.	Las personas grandes son decididamente muy pero muy extrañas, se decía a sí mismo durante el viaje.	1.01504
+<p>	<p>	0
+XIII 328 kaq planetapiqa businessmansi3 tiyasqa.	XIII El cuarto planeta era el del hombre de negocios.	1.15032
+Chay runaqa achka llamkanayuq kaspas mana qawarinpaschu quyllur llaqtayuq wawa chayamuptin.		-0.3
+-Taytáy! ~~~ Sigarruykim wañupuchkan, nispas nin wawaqa.	El hombre estaba tan ocupado que ni siquiera levantó la cabeza cuando llegó el principito.	0.36125
+-Kimsawan iskaywan pichqam.	-Buenos días -le dijo éste-.	0.288
+Pichqawan qanchiswan chunka iskayñiyuq.	Su cigarrillo está apagado. ~~~ -Tres y dos son cinco.	-0.0324324
+Chunka iskayñiyuqwan kimsawan chunka pichqayuq.	Cinco y siete, doce. ~~~ Doce y tres, quince.	-0.0283784
+Imá?	Buenos días.	-0.12
+Chunka pichqayuqwan qanchiswan iskaychunka iskayñiyuq.	Quince y siete, veintidós.	-0.0375
+Iskaychunka iskayñiyuqwan suqtawan iskaychunka pusaqñiyuq.	Veintidós y seis, veintiocho.	-0.0111111
+Manam timpuy kanchu kawsarichinaypaq.	No tengo tiempo para volver a encenderlo.	1.49143
+Iskaychunka suqtayuqwan pichqawan kimsachunka hukñiyuq.	Veintiséis y cinco, treinta y uno. ~~~ ¡Uf!	-0.0666667
+Hananáw! Chayqa pichqapachak iskaychunka iskayñiyuq waranqa qanchispachak kimsachunka hukñiyuq.	Da un total, pues, de quinientos un millones seiscientos veintidós mil setecientos treinta y uno.	0.585714
+-Imatataq chay pichqapachak iskaychunka iskayñiyuq waranqatari yupanki? ~~~ -Imá?	-¿Quinientos millones de qué? -¡Eh!	0.090625
+Kayllapichu kachkanki?	¿Estás siempre ahí?	0.233333
+Chay pichqapachak iskaychunka na... qunqarquni... llamkanay achka kaptin.	Quinientos un millones de… Ya no sé…	0.326613
+Yuyayñiyuqmi Inglés-simipi "businessman" nispa ninku achka qullqiwan chaykuska negocio ruraq runata.	¡Tengo tanto trabajo!	-0.6
+kani ñuqaqa.	Yo soy serio, no me divierto con tonterías.	0.675
+Manam pukllachkanichu!	Dos y cinco, siete…	0.211765
+Pichqawan iskaywan qanchis...	-¿Quinientos millones de qué?	0.288889
+-Imatataq chay pichqapachak iskaychunka iskayñiyuq waranqatari yupanki? nispas nillantaq quyllur llaqtayuq wawaqa.	-repitió el principito, que nunca en su vida había renunciado a una pregunta, una vez que la había formulado.	0.491639
+Mana imaniptinqa tapukullaqpuni. ~~~ Chayraqsi businessmanqa qawarin: -Pichqachunka tawayuq watañam kay planetapi tiyani. ~~~ Kimsa kutillam tatichiwanku.	El hombre de negocios levantó la cabeza: -En los cincuenta y cuatro años que habito este planeta, sólo he sido molestado tres veces.	-0.0441558
+Ña iskaychunka iskayñiyuq watañam kuru maymantachari urmaykumuwanpas t'uquq! nispa.	La primera fue hace veintidós años por un abejorro que cayó Dios sabe de dónde.	0.554545
+Chaymi yupaspa tawa kuti pantani.	Produjo un ruido espantoso y cometí cuatro errores en una suma.	0.56
+Huk kutitaq, chunkahukñiyuq wataña, tullu nanaymi hapirquwan mana puriykachasqaymanta.	La segunda fue hace once años por un ataque de reumatismo. ~~~ Me hace falta ejercicio.	-0.0145833
+Manam qasi qaynanaypaq timpuy kanchu.	No tengo tiempo para moverme.	0.707692
+Yuyayñiyuqmi kani.	Yo soy serio.	1.15
+Kunanwanqa kimsa kutim.	La tercera vez…	0.128571
+Hayka nichkarqanim?	¡Hela aquí!	0.0818182
+Pichqapachak iskaychunka iskayñiyuq waranqa...	Decía, pues, quinientos un millones… ~~~ -¿Millones de qué?	-0.0238636
+-Imatataq chay pichqapachak iskaychunka iskayñiyuq waranqatari yupanki?	El hombre de negocios comprendió que no había esperanza de paz.	0.233333
+Businessmanqa sunqunpis nin "manachus-hinam kaypa tapukusqanmantaqa librakusaqchu" nispa.		-0.3
+-Chay huchuy imakunatapas siylupi rikunchik chaytam yupani.	-Millones de esas cositas que se ven a veces en el cielo.	0.255319
+-Chuspitá?	-¿Moscas?	0.27
+-Mana, chay kanchaqkunata.	-Pero no, cositas que brillan.	0.276
+-Wanquyrutá?	-¿Abejas? -¡Pero no!	0.161538
+Tankayllutá? -Manam, chaqay kanchaqkunata qilla runa musquchiqtam yupani.	Cositas doradas que hacen desvariar a los holgazanes.	0.17234
+Yuyayñiyuqmi kani.	¡Pero yo soy serio!	1.28235
+Manam timpuy kanchu punchaw musqunaypaq.	No tengo tiempo para desvariar.	1.20357
+-A, quyllurkunata!	-¡Ah! ¿Estrellas?	0.282353
+-Arí, chaytam, quyllurkunata.	-Eso es. ~~~ Estrellas.	-0.06
+-Imatataq ruranki chay pichqapachak iskaychunka iskayñiyuq waranqa quyllurwanri?	-¿Y qué haces tú con quinientos millones de estrellas?	0.794326
+-Pichqapachak iskaychunka iskayñiyuq waranqa qanchispachak kimsachunka hukñiyuq.	-Quinientos un millones seiscientos veintidós mil setecientos treinta y uno.	0.644118
+Yuyayñiyuqmi kani.	Yo soy serio, soy preciso.	1.21667
+Chanintam yupanay.		-0.3
+-Imatataq ruranki chay quyllurkunawanri?	-¿Y qué haces con esas estrellas?	0.806897
+-Imata ruraní?	-¿Qué hago?	0.218182
+-Arí.	-Sí.	0.24
+-Mana imatapas.	-Nada.	-0.0428571
+Kaqñiy chaylla.	Las poseo.	0.15
+-Quyllurkuna kaqñiykichu?	-¿Posees las estrellas?	0.259091
+-Arí.	-Sí.	0.24
+-Apuwan tupamuni, chayqa niwallantaqmi...	-Pero he visto un rey que…	0.0681818
+-Apukunaqa manam kaqñiyuqchu.	-Los reyes no poseen; "reinan".	0.3
+Kamachinku chayllam.	Es muy diferente.	0.225
+-Imaraykum quyllurkuna kaqñiyuq kayta munanki?	-¿Y para qué te sirve poseer las estrellas?	0.751351
+-Qapaq kanaypaqmi.	-Me sirve para ser rico.	0.25
+-Imaraykutaq qapaq kayta munankiri?	-¿Y para qué te sirve ser rico?	0.819231
+-Quyllur rantinaypaqmi pipas tariptin.	-Para comprar otras estrellas, si alguien las encuentra.	0.183333
+"Kay runaqa yuyayñinpi machaysikihinallataqmi" nispas sunqunpi nin quyllur llaqtayuq wawaqa.	Éste, se dijo a sí mismo el principito, razona un poco como el ebrio.	0.703349
+Hinaspas tapullantaq: -Imaynatataq quyllur kaqñiyuqri kachwan? nispa.	Sin embargo, siguió preguntando: -¿Cómo se puede poseer estrellas?	0.274576
+Tapuptinqa: -Pippataq quyllurkunari? nispas nin piñallaña.	-¿De quién son? -replicó, hosco, el hombre de negocios.	0.691071
+-Manam yachanichu.	-No sé.	0.828571
+Manachari pippapaschu.	De nadie.	-0.133333
+-Chayhina kaptinqa ñuqapmi. ~~~ Ñuqam ñawpaqta hapikuni.	-Entonces, son mías, pues soy el primero en haberlo pensado.	-0.006
+-Hinallachu hapikunki?	-¿Es suficiente?	0.1875
+-Arí.	-Seguramente.	-0.1
+Umiñata tarikunchik chayqa, kaqñinchikmi kapun.	Cuando encuentras un diamante que no es de nadie, es tuyo.	0.265909
+Mana piyñiyuq wat'ata chayanchik chayqa, kaqñinchikmi kapun.	Cuando encuentras una isla que no es de nadie, es tuya.	0.241304
+Ñuqanchikllaraq imatapas riqsinchik chayqa, yachayñinchikmi kapun.	Cuando eres el primero en tener una idea, la haces patentar; es tuya.	0.27931
+Quyllurqa ñuqapllataqmi manataq pipas hapikurqanchuqá.	Yo poseo las estrellas porque jamás, nadie antes que yo, soñó con poseerlas.	0.717647
+-Mana pipas ari, nispas nin quyllur llaqtayuq wawaqa.	-Es verdad -dijo el principito-.	1.11379
+Hinasparí imatataq ruranki chay quyllurkunawanri?	¿Y qué haces tú con las estrellas?	0.124138
+Niptinqa ninsi: -Qawani, nispa.	-Las administro.	0.05625
+Yupani, hinaspa waqmanta yupallanitaq.	Las cuento y las recuento -dijo el hombre de negocios-.	0.208333
+Chayqa sasam.	Es difícil.	0.245455
+Ichaqa yuyayñiyuqmi kani.	¡Pero soy un hombre serio!	1.03696
+Manas chaywanpas quyllur llaqtayuq wawap sunqun hunt'asqachu.	El principito todavía no estaba satisfecho.	0.597802
+Chaysi nin: -Chalinay kaptinqa chalinaykusqa ripuyman.	-Yo, si poseo un pañuelo, puedo ponerlo alrededor de mi cuello y llevármelo.	0.638571
+T'ikay kaptinqa pallarquspa aparikuyman.	Yo, si poseo una flor, puedo cortarla y llevármela.	0.852632
+Qamqa manam quyllurñiykikunata aparikuwaqchu. ~~~ -Hinapunim.	¡Pero tú no puedes cortar las estrellas! -No, pero puedo depositarlas en el banco.	0.205814
+Ichaqa bancoman churamuni.	-¿Qué quiere decir eso?	0.242857
+-Imaynatataq quyllurtari bancoman churawaq?	-Quiere decir que escribo en un papelito la cantidad de mis estrellas.	0.160976
+-Haykam quyllurñiy chaytam papelpi qillqani, chaytataqmi bancoman churamuni.	Y después cierro el papelito, bajo llave, en un cajón.	0.143478
+-Hinachu? -Hinam.	-¿Es todo?	0.09
+Quyllur llaqtayuq wawaqa sunqunpis nin: -Quyllur bancoman churasqanqa asichiwan, nispa.	-Es suficiente. ~~~ Es divertido, pensó el principito.	-0.102128
+Manam chaytaqa yuyayñiyuq runaqa ruranmanchu.	Es bastante poético. ~~~ Pero no es muy serio.	-0.0157895
+Paypaq yuyayñiyuq kayqa manachari kuraq runakunapaqhinachu.	El principito tenía sobre las cosas serias ideas muy diferentes de las ideas de las personas grandes.	0.559481
+Hinaspas nillantaq: -T'ikay kan, chaytaqa sapa punchaw qarpani.	-Yo -dijo aún- poseo una flor que riego todos los días.	0.228261
+Kimsa volcanñiypas kallantaq, chaytapas sapa simana pichani.	Poseo tres volcanes que deshollino todas las semanas.	0.248936
+Imaynapaqpas wañusqa kaqta pichani.	Pues deshollino también el que está extinguido.	0.218182
+Ninasamaq urquykunapaq, t'ikaypaq allinmi amun kasqayqa.	No se sabe nunca.	-0.44
+Quyllurkunapaqqa yanqallam amun kasqaykiqa...	Es útil para mis volcanes y es útil para mi flor que yo los posea.	0.230233
+Businessmanqa utirayansi mana imanispa.	Pero tú no eres útil a las estrellas…	0.241935
+Chaysi quyllur llaqtayuq wawaqa ripun.	El hombre de negocios abrió la boca pero no encontró respuesta y el principito se fue.	0.482857
+Qipamanqa "kuraq runakunaqa mana unanchay atiyllapunim kanku" nispas nin purikuyñinpi.	Decididamente las personas grandes son enteramente extraordinarias, se dijo simplemente a sí mismo durante el viaje.	0.48042
+<p>	<p>	0
+XIV 329 kaq planetaqa manas hukkunahinachu kasqa.	XIV El quinto planeta era muy extraño.	0.95
+Llapanmantapas aswan huchuysi.	Era el más pequeño de todos.	0.2375
+Huk farol-llas kancharichiq runayuq chaypi kasqa.	Había apenas lugar para alojar un farol y un farolero.	0.293333
+Chaysi quyllur llaqtayuq wawaqa sunqunpi nin: -Imatach ruran chay farol-kancharichiq runari siylu chawpipi, purun planetapiri? nispa.	El principito no lograba explicarse para qué podían servir, en algún lugar del cielo, en un planeta sin casa ni población, un farol y un farolero.	0.468908
+Ichapas chay kancharichiq runaqa yanqalla kachkan.	Sin embargo se dijo a sí mismo: -Tal vez este hombre es absurdo.	0.682919
+Ichaqa apumantapas businessmanmantapas machaysikimantapas sumaychakuqmantapas pisi yanqam.	Sin embargo, es menos absurdo que el rey, que el vanidoso, que el hombre de negocios y que el bebedor.	0.296429
+Paypa rurasqanqa allinmi: kancharichiptinqa huk quyllurtapas huk t'ikatapas paqarichimunmanhina.	Por lo menos su trabajo tiene sentido. ~~~ Cuando enciende el farol es como si hiciera nacer una estrella más, o una flor.	-0.0185393
+Wañuchiptintaq chay t'ikata chay quyllurta puñuykuchin.	Cuando apaga el farol, hace dormir a la flor o a la estrella.	0.294
+Kay rurayñinqa ancha sumaq, chaymi chiqanpiqa mana yanqapaqchu.	Es una ocupación muy linda.	0.3875
+Chay planetaman chayaspa sumaqtas napaykun kancharichiq runataqa: -Allillanchu illarimunki? nispa.	Es verdaderamente útil porque es linda.	-0.171429
+-Allillanmi. ~~~ -Imapaqmi farolñiykita wañuchinki?	Cuando llegó al planeta saludó respetuosamente al farolero: -Buenos días.	-0.0574468
+-Kay kamayuqmi kani, nispas nin kancharichiqqa.	¿Por qué acabas de apagar el farol?	0.598571
+Qamrí allillanchu illarimunki? -Allillanmi.	-Es la consigna -respondió el farolero-.	0.258333
+Imataq kamayuq kayri?	Buenos días.	0.1
+-Kamayuq kayñiyqa farol wañuchinaymi.	-¿Qué es la consigna? ~~~ -Apagar el farol.	-0.00428571
+Qayakama.	Buenas noches.	0.18
+Chaypis kancharichin.	Y volvió a encenderlo.	0.285
+-Imapaqmi kancharichinki?	-Pero, ¿por qué acabas de encenderlo?	0.204
+-Kay kamayuqmi kani, nispas nin.	-Es la consigna -respondió el farolero.	0.737931
+-Imayná? ~~~ Mana chayta unanchanichu.	-No comprendo -dijo el principito.	-0.0145161
+-Manam imapas unanchana kanchu, nispas nin.	-No hay nada que comprender -dijo el farolero-.	1.9989
+Kamayuqqa kamayuqllam.	La consigna es la consigna.	0.272727
+Chaymantas wañuchillantaq.	Buenos días. ~~~ Y apagó el farol.	-0.0115385
+Hinaspas humpinta picharikun.	Luego se enjugó la frente con un pañuelo a cuadros rojos.	0.0857143
+-Sasa llamkanayuqmi kani.	-Tengo un oficio terrible.	0.3
+Ñawpaqqa manam hinachu karqan.	Antes era razonable.	0.157895
+Illarimuptinqa wañuchiqmi kani, chisiyaptintaq kancharichiqmi kani.	Apagaba por la mañana y encendía por la noche.	0.115385
+Samakuytapas atiqmi kani, tutapas allintam puñuq kani...	Tenía el resto del día para descansar, y el resto de la noche para dormir…	0.241176
+-Chaymantari huktachu kamachipusunkiku?	-Y después de esa época, ¿la consigna cambió?	0.292105
+-Manam huktachu kamachipuwanku, nispas nin.	-La consigna no ha cambiado -dijo el farolero-.	1.2925
+Chaymi mana allinqa!	¡Ahí está el drama!	0.264706
+Watan watan kay planeta utqaylla muyuripun chaypas kamachiwasqankuqa kikillanmi!	De año en año el planeta gira más rápido y la consigna no ha cambiado.	0.515789
+Sasa llamkanayuqmi kani. ~~~ -Chayrí? nispas nin.	-¿Entonces? -dijo el principito.	0.663158
+-Kunanqa huk minutollapi muyuripun, chaymi manaña askamallapas samayta atiniñachu.	-Entonces, ahora que da una vuelta por minuto, no tengo un segundo de descanso.	0.564179
+Ñataq kancharichinay, ñataq wañuchinay.	Enciendo y apago una vez por minuto.	0.241935
+-Imayná?	-¡Qué raro!	0.233333
+Huk minutolla kaypi punchaw kasqa!	¡En tu planeta los días duran un minuto!	0.270968
+-Ñam killaña kuska rimachkanchik, nispas nin kancharichiq runaqa.	-No es raro en absoluto -dijo el farolero-. ~~~ Hace ya un mes que estamos hablando juntos.	0.244144
+-Ñachu killaña?	-¿Un mes? -Sí.	0.253846
+-Killañam, kimsachunka minutoqa kimsachunka punchawmi.	Treinta minutos. ~~~ ¡Treinta días! ~~~ Buenas noches.	-0.164516
+Qayakama, nispas kancharichillantaq.	Y volvió a encender el farol.	0.93
+Tukuy sunqu llamkaptinsi quyllur llaqtayuq wawaqa munaykun chay kancharichiq runataqa.	El principito lo miró y le gustó el farolero que era tan fiel a la consigna.	0.495308
+Hinaspas yuyarin inti chinkaykuq qawananpaq tiyanan suchurichiq kasqanta.	Recordó las puestas de sol que él mismo había perseguido, en otro tiempo, moviendo su silla.	0.58408
+Chaysi wawqimasin kusirichinanpaq nin: -Huktam yachani samay munasqaykipacha samanaykipaq, nispa.	Quiso ayudar a su amigo: -¿Sabes?…, conozco un medio para que descanses cuando quieras…	0.244
+-Ima uraspas samayllatam munani, nispas nin kancharichiq runaqa.	-Siempre quiero -dijo el farolero.	1.03871
+Qillakuypas simi hunt'aypas simpananmanmi.	Pues se puede ser, a la vez, fiel y perezoso.	0.275676
+Quyllur llaqtayuq wawaqa nillantaqsi: -Huchuy planetaykitaqa iskay kimsa tatkiyllapim muyuriwaq, nispa.	El principito prosiguió: -Tu planeta es tan pequeño que puedes recorrerlo en tres zancadas.	0.743038
+Chaymi allillamanta purispaqa intillapi kawaq.	No tienes más que caminar bastante lentamente para quedar siempre al sol.	0.160465
+Samayta munaspaqa allillamantam purinayki.	Cuando quieras descansar, caminarás… y el día durará tanto tiempo como quieras.	0.0825
+Chaymi punchawqa punchawlla kanqa munanaykikama.	-Con eso no adelanto gran cosa -dijo el farolero-.	0.286047
+-Niwasqaykiqa manam yanapawanmanchu.	Lo que me gusta en la vida es dormir.	0.25
+Ñuqaqa puñuytam munani, nispas nin kancharichiq runaqa.	-Es no tener suerte -dijo el principito.	0.921429
+-Ay, imanasuntaq kunanri? nispas nin.	-Es no tener suerte -dijo el farolero-.	1.3
+-Imanasunpunichari! Allillanchu illarimunki? nispas lamparata wañuchin.	Buenos días. ~~~ Y apagó el farol.	-0.208929
+Purikuyñinpiqa quyllur llaqtayuq wawaqa sunqunpis nin: "Riqsisqay runakunaqa sumaychakuqpas machaysikipas businessmanpas kay runata millanmanchari" nispa.	Éste, se dijo el principito mientras proseguía su viaje hacia más lejos, éste sería despreciado por todos los otros, por el rey, por el vanidoso, por el bebedor, por el hombre de negocios.	0.640957
+"Kay kaqqa manam payllapichu ñawinta churan, chaymi ñuqamantaqa aswan chaniyuq".	Sin embargo, es el único que no me parece ridículo. ~~~ Quizá porque se ocupa de una cosa ajena a sí mismo.	-0.0291667
+Hinaspas llakirikuspa nillantaq: -Kay kaqllawanmi wawqintinqa tiyayman, nispa.	Suspiró nostálgico y se dijo aún: -Éste es el único de quien pude haberme hecho amigo.	0.3
+Ichaqa planetanñataqmi ancha huchuy.	Pero su planeta es verdaderamente demasiado pequeño.	0.185294
+Manam tiyaykumanchu iskayñiykuqa...	No hay lugar para dos…	0.813158
+Sunquntaqsi nin "sapa punchaw pachak tawachunkayuq kuti inti chinkaykuptinmi chay sumaq planetapi tiyayta munarqani" nispa!	El principito no osaba confesarse que añoraba a este bendito planeta, sobre todo, por las mil cuatrocientas cuarenta puestas de sol, ¡cada veinticuatro horas!	0.229091
+<p>	<p>	0
+XV 330 kaq planetaqa ancha hatunsi kasqa.	XV El sexto planeta era un planeta diez veces más vasto.	1.33333
+Chaypiqa machu wiraquchas tiyasqa.	Estaba habitado por un Anciano que escribía enormes libros. ~~~ -¡Toma!	-0.09375
+Chay wiraquchaqa hatuchaq liwrukunatas qillqaq kasqa.	¡He aquí un explorador! -exclamó cuando vio al principito.	0.287755
+-Kayqá! Exploradormi4 hamuchkan! nispas nin quyllur llaqtayuq wawata rikuspa.	El principito se sentó sobre la mesa y resopló un poco.	0.443478
+Niptinqa hananáw nispas misapi tiyaykun chay tukuytaña purispa.	¡Había viajado tanto!	-0.255
+-Maymantam hamunki? nispas nin chay wiraquchaqa.	-¿De dónde vienes? -díjole el Anciano.	0.640336
+Niptinqa: -Imataq chay raku liwruri? ~~~ Imatam chaypi ruranki? nispas tapun.	-¿Qué es este grueso libro? -preguntó el principito-.	0.186364
+Europapi "explorador" niqku ñawpaqqa karu llaqtakunaman imapas yachaq puriq runakunata.		-0.3
+-Geografom kani.	¿Qué haces aquí?	0.28
+-Imataq geografori?	-Soy geógrafo -dijo el Anciano.	0.157895
+-Geografoqa amawtam.	-¿Qué es un geógrafo?	0.284211
+Paymi yachan maypi quchakuna mayukuna llaqtakuna urqukuna purunkuna kasqanta.	-Es un sabio que conoce dónde se encuentran los mares, los ríos, las ciudades, las montañas y los desiertos.	0.21
+-Kusam ari chayqa, chay llamkay kaqmi allinqa! nispas nin quyllur llaqtayuq wawaqa.	-Es bien interesante -dijo el principito-. ~~~ ¡Por fin un verdadero oficio!	0.290414
+Hinaspas qawarin chay lawta kay lawta, geografop planetanpi.	-Y echó una mirada a su alrededor, sobre el planeta del geógrafo.	0.294444
+Manas rikurqanchu chayhina hatun planetataqa.	Todavía no había visto un planeta tan majestuoso.	0.292857
+-Ima sumaqmi planetayki!	-Es muy bello vuestro planeta.	0.247826
+Qucha kanchu?	¿Tiene océanos?	0.253846
+-Imaynachari! nispas nin geografoqa.	-No puedo saberlo -dijo el geógrafo.	1.48125
+-Mmm! nispas nin quyllur llaqtayuq wawaqa (kusirikuyñin wapsirin).	-¡Ah! -El principito estaba decepcionado-.	0.638462
+Urqurí? -Imaynachari chaypas, nispas nillantaq geografoqa.	¿Y montañas? ~~~ -No puedo saberlo -dijo el geógrafo.	0.111161
+-Llaqtakunarí mayukunarí aqupurunrí?	-¿Y ciudades y ríos desiertos?	0.211111
+-Imaynachari chaypas, nispas nillantaq geografoqa.	-Tampoco puedo saberlo -dijo el geógrafo.	0.718919
+-"Geografom kani" niwankitáq!	-¡Pero eres geógrafo!	0.18
+-Chaypunim kani, ichaqa manam exploradorchu kani.	-Es cierto -dijo el geógrafo-, pero no soy explorador.	0.715238
+Manam exploradorñiy kanchu.	Carezco absolutamente de exploradores.	0.184615
+Manam ari geografochu llaqtata mayuta urquta quchata aqupurunta yupan.	No es el geógrafo quien debe hacer el cómputo de las ciudades, de los ríos, de las montañas, de los mares, de los océanos y de los desiertos.	0.352381
+Geografoppaqa manam timpun kanchu qasi qaynananpaq.	El geógrafo es demasiado importante para ambular.	0.279545
+Manam oficinanmanta lluqsinchu.	No debe dejar su despacho.	0.958696
+Payqa exploradorkunamantam tukuy imata yachan.	Pero recibe allí a los exploradores.	0.196875
+Paykunata tapuspam rikumusqankumanta qillqan.	Les interroga y toma nota de sus observaciones.	0.285366
+Huk explorador mana pippa yachasqanta willan chayqa, geografoqa chay exploradorpa kawsayñinmanta tapuykachachin.	Y si las observaciones de alguno le parecen interesantes, el geógrafo hace levantar una encuesta acerca de la moralidad del explorador.	0.489593
+-Imaraykum chayta tapuykachachin?	-¿Por qué?	-0.36
+-Explorador llulla kaptinqa panta pantam kanman geografia liwrukuna.	-Porque un explorador que mintiera ocasionaría desbarajustes en los libros de geografía.	0.222581
+Hinallataqmi kanman machaysiki kaptinqa.	Y también un explorador que bebiera demasiado.	0.276316
+-Imaynata?	-¿Por qué? -preguntó el principito.	-0.272727
+-Machasqaqa iskaytam rikun.	-Porque los ebrios ven doble.	0.3
+Chaymi geografoqa "chaypi iskay urqum kan" nispa qillqanman chullalla kaptinpas.	Entonces el geógrafo señalaría dos montañas donde no hay más que una sola.	0.52987
+-Huk runatam riqsini, payqa manachus-hinam allin exploradorchu kanman.	-Conozco a alguien -dijo el principito- que sería un mal explorador.	0.274576
+-Chayhina runaqa kanpunim.	-Es posible.	-0.025
+Explorador allin kawsayñiyuqhina kaptinqa astawanraqmi geografoqa yachayta munan.	Por tanto, cuando la moralidad del explorador parece aceptable, se hacen averiguaciones acerca de su descubrimiento.	0.192
+-Qawaqchu rin? -Manam.	-¿Se va a ver? -No.	0.20625
+Chayqa manam paypa rurananchu.	Es demasiado complicado.	0.234783
+	Pero se exige al explorador que presente pruebas.	-0.3
+Aswanmi exploradorta kachan "imawanpas sut'inchay chay rikumusqaykita" nispa.	Si se trata, por ejemplo, del descubrimiento de una gran montaña, se le exige que traiga grandes piedras.	0.557277
+Mana pippa rikusqan urquta rikuptinqa "chay urqumanta rumintam apamunki" nispa nin.	El geógrafo se emocionó súbitamente: -Pero tú, ¡tú vienes de lejos!	0.217241
+Qunqayllamantas geografoqa kusirikun: -Qam karumanta hamuqqa exploradorchari kanki! nispa.	¡Eres explorador! ~~~ ¡Vas a describirme tu planeta!	-0.126667
+Planetaykimanta willaway! nispas geografoqa cuadernonta kicharirquspa lapisñinta afilaykun.	Y el geógrafo, habiendo abierto su registro, afinó la punta del lápiz.	0.508333
+Lapisllawanraqmi qillqana exploradorkunap willasqanta.	Los relatos de los exploradores se anotan con lápiz al principio.	0.276923
+Tintawan qillqapunapaqqa exploradorpa sut'inchanantam suyana.	Para anotarlos con tinta se espera a que el explorador haya suministrado pruebas.	0.237931
+-Rimariy, nispas nin.	-¿Decías? -interrogó el geógrafo.	0.885
+-Planetaymantaqa manam ancha rimana kanchu, huchuyllam.	-¡Oh! ~~~ Mi planeta -dijo el principito- no es muy interesante, es muy pequeño.	0.187815
+Kimsa volcanñiymi kan.	Tengo tres volcanes.	0.268421
+Iskay kawsachkaq, huktaq wañusqaña.	Dos volcanes en actividad y un volcán extinguido.	0.209091
+Wañusqa kaspapas kawsarirqumunmanmi.	Pero no se sabe nunca.	0.0473684
+-Chayqa kanmanmi, nispas nin geografoqa.	-No se sabe nunca -dijo el geógrafo.	1.24194
+-T'ikaypas kallantaq.	-Tengo también una flor.	0.285714
+-T'ikamantaqa manam qillqaykuchu.	-No anotamos las flores -dijo el geógrafo.	0.253125
+-Imaraykutaq?	-¿Por qué?	0.18
+T'ikaqa munaymi.	¡Es lo más lindo!	0.28
+-T'ikaqa qunqay naqiqmi.	-Porque las flores son efímeras.	0.221739
+-Imaniytam munan "qunqay naqiq"?	-¿Qué significa "efímera"?	0.99
+-Geografia liwrukunaqa llapan liwrukunamantapas aswan chaniyuqmi.	-Las geografías -dijo el geógrafo- son los libros más valiosos de todos los libros.	0.25082
+Wiñayllam chaniyuq.	Nunca pasan de moda.	0.283333
+Urquqa manam kuyurinchu.	Es muy raro que una montaña cambie de lugar.	0.117391
+Mamaquchaqa manallataqmi yakunta ch'akichinchu.	Es muy raro que un océano pierda su agua. ~~~ Escribimos cosas eternas.	-0.0466667
+Ñuqaykuqa wiñaylla kaqmantam qillqayku, nispas nin.	-Pero los volcanes extinguidos pueden despertarse -interrumpió el principito-.	0.57538
+Niptinqa: -Wañusqa volcanqa kawsarirqumunmanmi.	¿Qué significa "efímera"?	0.0375
+Imaniytam munan "qunqay naqiq"? nispas waqmanta tapun.	-Que los volcanes estén extinguidos o se hayan despertado es lo mismo para nosotros -dijo el geógrafo-.	0.436224
+-Volcanqa wañusqapas kawsaqpas kikillanmi ñuqaykupaqqa.	Lo que cuenta para nosotros es la montaña. ~~~ La montaña no cambia.	-0.0115385
+Urquqa manam tikrakunchu.	-Pero, ¿qué significa "efímera"?	0.225
+-Imaniytam munan "qunqay naqiq"? nispas nillantaq quyllur llaqtayuq wawaqa.	-repitió el principito que, en toda su vida, no había renunciado a una pregunta, una vez que la había formulado.	0.785294
+Tapusqanman mana kutichiptinqa manapunis "hinallaña kachun" niqchu.	-Significa "que está amenazado por una próxima desaparición".	0.261818
+-"Qunqay naqiq" nispaqa "chaylla wañuykupuq" ninchik.	-¿Mi flor está amenazada por una próxima desaparición?	0.29375
+-T'ikayrí chaylla wañuykupuqllataqchu? -Arí.	-Seguramente.	-0.3
+T'ikayqa qunqay naqiqmi, nispas sunqunpi nin quyllur llaqtayuq wawaqa.	Mi flor es efímera, se dijo el principito, ¡y sólo tiene cuatro espinas para defenderse contra el mundo!	0.480952
+T'ikayqa tawa kichkayuqllam lliwmanta amachakunanpaq.	¡Y la he dejado totalmente sola en mi casa!	0.183333
+Chayraqsi nin: amachari icha saqirparimuymanchu karqan! nispa.	Ése fue su primer impulso de nostalgia.	0.0970588
+Hinaspas kallpata hapispa nin: -Ima planetatataq kunan rikumuyman? nispa.	Pero tomó coraje: -¿Qué me aconsejáis que vaya a visitar? -preguntó.	0.264407
+-Tierra planetata, Pachata.	-El planeta Tierra -le respondió el geógrafo-.	0.126923
+Allintam paymanta rimanku...	Tiene buena reputación…	0.231818
+Chaysi quyllur llaqtayuq wawaqa t'ikanta yuyarikuspa siqapun.	Y el principito partió, pensando en su flor.	0.532895
+<p>	<p>	0
+XVI Qanchis kaq planetaqa Pachas kasqa.	XVI El séptimo planeta fue, pues, la Tierra.	1.13143
+Pachaqa manam wakin planetakunahinachu!	La Tierra no es un planeta cualquiera.	0.263636
+Chaypim kasqa pachak chunka hukñiyuq apu (yana apuntin yupasqa), qanchis waranqa geografo, isqunpachak waranqa businessman, qanchiswaranqa waranqa kuskayuq machaysiki, kimsapachak chunkahukñiyuq waranqa waranqa sumaychakuq runa. ~~~ Iskaywaranqa waranqa waranqachus-hinam kuraq runakunaqa kasqa.	Se cuentan allí ciento once reyes (sin olvidar, sin duda, los reyes negros), siete mil geógrafos, novecientos mil hombres de negocios, siete millones y medio de ebrios, trescientos once millones de vanidosos, es decir, alrededor de dos mil millones de personas grandes.	0.155516
+Imaynach Pacha chay qhawarichinaypaqmi kayta mastaripusqaykichik: suqtantin continentepiqa manaraq electricidad nisqata paqarichiptinku tawapachak suqtachunka waranqa pichqapachak chunkahukñiyuq farol-kancharichiq runas karqan.	Para daros una idea de las dimensiones de la Tierra os diré que antes de la invención de la electricidad se debía mantener, en el conjunto de seis continentes, un verdadero ejército de cuatrocientos sesenta y dos mil quinientos once faroleros.	0.435504
+Karumanta rikusqaqa ancha sumaqmi karqan.	Vistos desde lejos hacían un efecto espléndido.	0.268421
+Kancharichiq runakunaqa allintam yacharqanku haykap kancharichinankuta.	Los movimientos de este ejército estaban organizados como los de un ballet de ópera.	0.277612
+Ñawpaqtaqa Nueva Zelandia, Australia llaqtap kancharichiqñinmi rikurirarimuq.	Primero era el turno de los faroleros de Nueva Zelandia y de Australia.	0.615
+Kancharichiyta tukuspaqa puñupuqkum.	Una vez alumbradas sus lamparillas, se iban a dormir.	0.205714
+Chayñam China llaqtap, Siberia llaqtap kancharichiqñinkunañataq rikurirarimullaqtaq.	Entonces entraban en el turno de la danza los faroleros de China y de Siberia.	0.610385
+Hinaspas kutiykapuqku.	Luego, también se escabullían entre los bastidores.	-0.0272727
+Qipankutaqa Rusia llaqtap, India llaqtap kancharichiqñinkunañataqmi hamuq.	Entonces era el turno de los faroleros de Rusia y de las Indias.	0.584434
+Chaymantañataqmi Africa suyup, Europa suyup kancharichiqñinkunapas lluqsirarimuq.	Luego los de África y Europa.	-0.312
+Hinaspañataqmi America del Sur suyup kancharichiqñinkunapas America del Norte suyuppas lluqsirarimullaqtaq.	Luego los de América del Sud. ~~~ Luego los de América del Norte.	0.0869272
+Manapunim pantaqkuchu haykap kancharichinankutaqa.	Y nunca se equivocaban en el orden de entrada en escena.	0.293617
+Qachwaqkunahina ancha sumaqmi karqan chayqa.	Era grandioso.	-0.278571
+Polo nortepi tiyaq kancharichiqllam, polo surpi tiyaq kancharichiq-masinwan qilla qillakuylla kaqku: iskay kutillam watapi paykunaqa llamkaqku.	Solamente el farolero del único farol del Polo Norte y su colega del único farol del Polo Sur llevaban una vida ociosa e indiferente: trabajaban dos veces por año.	0.636662
+<p>	<p>	0
+XVII Asichiyta munaspaqa llullaykukuchwan ima.	XVII Cuando se quiere ser ingenioso ocurre que se miente un poco.	0.716279
+Chaymi mana chanintachu willaykichik kancharichiq runakunamantaqa.	No he sido muy honesto cuando hablé de los faroleros.	0.186667
+Amalla yanqata musquchiymanchu mana Pacha rikuqkunata.	Corro el riesgo de dar una falsa idea de nuestro planeta a quienes no lo conocen.	0.198
+Sut'in rimaypiqa runakuna huchuy huchuyllapim tiyan Pachapiqa.	Los hombres ocupan muy poco lugar en la Tierra.	0.1725
+Chaymi Pachapi tiyaq runakuna huñukunman chayqa hatun plasallapi kawinkuman.	Si los dos mil millones de habitantes que pueblan la Tierra se tuviesen de pie y un poco apretados, como en un mitin, podrían alojarse fácilmente en una plaza pública de veinte millas de largo por veinte millas de ancho.	0.108696
+Llapantin runakunata huchuy wat'allapim huñunachichwan.	Podría amontonarse a la humanidad sobre la más mínima islita del Pacífico.	0.230769
+"Manam hinachu" ninmanmi hatun runakunaqa.	Las personas grandes, sin duda, no os creerán.	0.292308
+Paykunaqa baobab sachahina hatunmi yuyakun.	Se imaginan que ocupan mucho lugar.	0.212903
+Chaymi "yuparquychik runakunata" nispa nina paykunataqa yupaylla yupaywantaq kusirikunkuqá.	Se sienten importantes como los baobabs.	-0.1
+Wawakuna, qamkunaqa ama llakikuychu yupanamantaqa.	Les aconsejaréis, pues, que hagan el cálculo.	0.2475
+Yanqapaq sasa llamkayllam chayqa.	Les agradará porque adoran las cifras.	0.270968
+Yachankichikñam mana llullakuq kasqayta.	Pero no perdáis el tiempo en esta penitencia.	0.292105
+Quyllur llaqtayuq wawaqa Pachaman chayaspa utirayansi mana pita rikuspa.	Es inútil. ~~~ Tened confianza en mí.	-0.164516
+"Icha planetata pantanichu" nispas nin.	Una vez en tierra, el principito quedó bien sorprendido al no ver a nadie.	0.583333
+Qunqaymantas anilluta rikurqun aqupi kuyuykachaqta killahina kanchachkaqta.	Temía ya haberse equivocado de planeta, cuando un anillo de color de luna se revolvió en la arena.	0.248571
+-Imaynalla? nispas nin quyllur llaqtayuq wawaqa.	-Buenas noches -dijo al azar el principito.	1.53835
+Niptinqa: -Imaynalla? nispas nin machaqwayqa.	-Buenas noches -dijo la serpiente.	0.693548
+-May planetapitaq kani?	-¿En qué planeta he caído? -preguntó el principito.	-0.0136364
+-Pachapim kanki, Africa suyupi.	-En la Tierra, en África -respondió la serpiente. ~~~ -¡Ah!…	-0.0724138
+-A! Manachu pipas Pachapi tiyan?	¿No hay, pues, nadie en la Tierra?	0.8
+-Kayqa aqupurunmi.	-Aquí es el desierto.	0.283333
+Manam pipas kaypi tiyanchu.	En los desiertos no hay nadie.	0.288
+Pachaqa hatunmi, nispas nin machaqwayqa.	La Tierra es grande -dijo la serpiente.	0.773529
+Quyllur llaqtayuq wawaqa rumipi tiyaykuspas siyluta qawarikun.	El principito se sentó sobre una piedra y levantó los ojos hacia el cielo: -Me pregunto -dijo- si las estrellas están encendidas a fin de que cada uno pueda encontrar la suya algún día.	0.169737
+Hinaspas nin: -Sapanka runa quyllurñin riqsirqukunanpaqchuch quyllurkuna kanchan? nispa.	Mira mi planeta. ~~~ Está justo sobre nosotros…	-0.15375
+Qawariy, chaqaymi planetayqa... Ñuqanchikchiqanmi kanchamuchkan...	Pero, ¡qué lejos está! -¡Qué hermoso es! -dijo la serpiente-.	0.243396
+Sinchi karupim kasqa!	¿Qué vienes a hacer aquí?	0.27
+-Sumaqmi planetaykiqa, nispas nin machaqwayqa.	-Estoy disgustado con una flor -dijo el principito.	1.28605
+Imamanmi hamunki? -T'ikaymi llakichiwarqan, nispas nin quyllur llaqtayuq wawata.		-0.3
+-A! nispallas nin.	-¡Ah! -dijo la serpiente.	0.944118
+Hinaspas chinlla kaykunku.	Y quedaron en silencio.	0.242857
+As unayñinmantas: -Maytaq runakunari? nispas nin quyllur llaqtayuq wawaqa.	-¿Dónde están los hombres? -prosiguió al fin el principito-.	0.520755
+Sapallaymi kani kay aqupurunpiqa...	Se está un poco solo en el desierto...	0.290625
+-Runakuna ukupipas sapallaykitaqmi rikukuwaq.	-Con los hombres también se está solo -dijo la serpiente.	0.25814
+Quyllur llaqtayuq wawaqa machaqwayta allinta qawarispas nin: -Manam qamtahinaqa rikurqanichu, nispa.	El principito la miró largo tiempo: -Eres un animal raro -le dijo al fin-.	0.409677
+Rukanahina ñañum kanki...	Delgado como un dedo…	0.221053
+-Apup rukananmantapas aswan kallpayuqmi kani, nispas nin.	-Pero soy más poderoso que el dedo de un rey -dijo la serpiente.	1.04423
+-Imaynataq qamri kallpayuq kawaq? ~~~ Manam ari chakiyuqchu kanki. ~~~ Manam karutaqa puriwaqchu. ~~~ ..	El principito sonrió: -No eres muy poderoso… ni siquiera tienes patas… ni siquiera puedes viajar…	-0.183621
+-Ñuqaqa wampumantapas aswan karumanmi aparikuykiman, nispas nin machaqwayqa.	-Puedo llevarte más lejos que un navío -dijo la serpiente.	0.513333
+Hinaspas quyllur llaqtayuq wawap chakinman quri waskahina maytuykukuspa nillantaq: -Tupaykusqaytaqa allpa paqarimusqanmanmi kutirichipuni, nispa.	Se enroscó alrededor del tobillo del principito como un brazalete de oro: -A quien toco, lo vuelvo a la tierra de donde salió - dijo aún-.	0.85
+Qamqa llumpaqllam kanki. ~~~ Quyllurmanta hamunki...	Pero tú eres puro y vienes de una estrella…	0.290217
+-Manam qamtahinaqa rikurqanichu.		-0.3
+Rukanahina ñañum kanki...		-0.3
+Niptinsi quyllur llaqtayuq wawaqa chinlla.	El principito no respondió nada.	0.696552
+Machaqwayqa nillantaqsi: -Kuyapayaykim qamta kay ranra ranrapi pisi kallpayuqta rikuspa.	-Me das lástima, tú, tan débil, sobre esta Tierra de granito.	0.138462
+Huk punchaw planetaykiman kutipuyta munaptiykiqa yanapaykimanmi.	Puedo ayudarte si algún día extrañas demasiado a tu planeta.	0.682418
+Nayman...	Puedo… -¡Oh!	0.24
+-Riparaniñam, nispas nin quyllur llaqtayuq wawaqa. ~~~ Imaraykutaq mana chuyatachu rimankiri?	Te he comprendido muy bien-dijo el principito-, pero, ¿por qué hablas siempre con enigmas?	0.109938
+-Tukuytam chuyanchani, nispas nin.	-Yo los resuelvo todos -dijo la serpiente.	0.853125
+Hinaspas chinlla kaykunku.	Y quedaron en silencio.	0.242857
+<p>	<p>	0
+XVIII Aqupurunpi puriykuspas quyllur llaqtayuq wawaqa t'ikallawan tinkun.	XVIII El principito atravesó el desierto y no encontró más que una flor.	0.937158
+Chay t'ikaqa kimsa rapiyuqllas.	Una flor de tres pétalos, una flor de nada…	1.42759
+Manas ancha sumaqchu kasqa... -Imaynalla? nispas nin quyllur llaqtayuq wawaqa.	-Buenos días -dijo el principito.	2.4
+-Imaynalla? nispas nin t'ikaqa.	-Buenos días -dijo la flor.	1.4375
+-Mamáy, maytaq runakunari? nispas tapurikun.	-¿Dónde están los hombres? -preguntó cortésmente el principito.	0.682927
+Chay t'ikaqa unayñas rikurqan biyahiru pasaqta.	Un día la flor había visto pasar una caravana.	0.697802
+Chaysi nin: -Runakunaqa suqtachus qanchischus-hinallam, nispa.	-¿Los hombres? ~~~ Creo que existen seis o siete.	-0.0621951
+Unay watañam rikurqani.	Los he visto hace años.	0.27
+Kunanqa maypichari kankupas!	Pero no se sabe nunca dónde encontrarlos.	0.2
+Mana allin sapiyuq kaspam wayrap apaykachanallan paykunaqa.	El viento los lleva. ~~~ No tienen raíces. ~~~ Les molesta mucho no tenerlas.	-0.122727
+-Tupananchikkama, nispas nin quyllur llaqtayuq wawaqa.	-Adiós -dijo el principito.	1.8
+-Tupananchikkama, ninsi t'ikaqa.	-Adiós -dijo la flor.	0.110526
+<p>	<p>	0
+XIX Hinaspas quyllur llaqtayuq wawaqa suni urquta siqan.	XIX El principito subió a una alta montaña.	0.861261
+Paypa riqsisqan urqukunaqa kimsa huchuy volcanllas karqan.	Las únicas montañas que había conocido eran los tres volcanes que le llegaban a la rodilla.	0.539151
+Wañusqa kaqqa tiyanansi kaq.	Usaba el volcán apagado como taburete.	0.207692
+"Kay suni urqumantaqa huk qawariyllapichari llapantin pachata rikusaq runantinta... " nispas nin.	"Desde una montaña alta como ésta, se dijo, veré de un golpe todo el planeta y todos los hombres…".	0.743246
+Chaymantaqa ñawchi qaqa qaqallatas rikun.	Pero sólo vio agujas de rocas bien afiladas.	0.3
+-Imaynalla? nispas nin qasillapas.	-Buenos días -dijo al azar.	1.4
+-Imaynalla... imaynalla... imaynalla, nispallas qaqakunaqa yachapayamun.	-Buenos días… ~~~ Buenos días… ~~~ Buenos días… -respondió el eco.	-0.165854
+-Pim kankichik? nispas nillantaq quyllur llaqtayuq wawaqa.	-¿Quién eres? -dijo el principito.	1.0871
+-Pim kankichik... pim kankichik... pim kankichik..., nispas yachapayamullantaq.	-Quién eres… quién eres… -respondió el eco.	0.398684
+-Wawqimasiy kaychik, sapaymi kani, nispas nin.	-Sed amigos míos, estoy solo -dijo el principito.	1.15
+-Sapaymi kani... sapaymi kani... sapaymi kani..., nispas yachapayamullantaq.	-Estoy solo… estoy solo… estoy solo -respondió el eco.	0.486525
+"Manam kayhina planetataqa rikurqanichu!" nispas nin.	"¡Qué planeta raro! -pensó entonces-. ~~~ Es seco, puntiagudo y salado.	-0.0367347
+"Ch'akillam, ñawchillam, qullpallam.	Y los hombres no tienen imaginación.	0.271875
+Kaypi tiyaq runakunaqa pisi hamutayñiyuqmi: rimasqayllata yachapayamuwanku... Planetaypiqa t'ikayraqmi rimariq."	Repiten lo que se les dice… ~~~ En mi casa tenía una flor: era siempre la primera en hablar…".	-0.0552632
+<p>	<p>	0
+XX Achayan. ~~~ qupurunta urqukunata ritin ritinta unayña puriykuspas quyllur llaqtayuq wawaqa ñanta taripan.	XX Pero sucedió que el principito, habiendo caminado largo tiempo a través de arenas, de rocas y de nieves, descubrió al fin una ruta.	-0.025
+Llapantin ñankuna runakunappata pusaptinsi rosast'ika wertaman -Imaynalla? nispas nin t'ikakunataqa.	Y todas las rutas van hacia la morada de los hombres. ~~~ -Buenos días -dijo. ~~~ Era un jardín florido de rosas.	-0.146032
+-Allillanmi, nispas nin t'ikakunaqa.	-Buenos días -dijeron las rosas.	0.248276
+Chaysi quyllur llaqtayuq wawaqa chay t'ikakunata allinta qawarin.	El principito las miró.	0.357143
+Llapantinsi t'ikanman rikchakusqa.	Todas se parecían a su flor.	0.1875
+-Pitaq kankichik? nispas utirayan.	-¿Quiénes sois? -les preguntó, estupefacto.	0.225
+-Rosasmi kayku.	-Somos rosas -dijeron las rosas.	0.02
+-An! nispas llakiykukun.	-¡Ah! -dijo el principito.	1.03696
+	Y se sintió muy desdichado.	-0.3
+"Tiqsimuyuntinpi manam ñuqahinaqa kanchu" nispas t'ikanqa nirqan.	Su flor le había contado que era la única de su especie en el universo.	0.664655
+Ichaqa pichqa waranqas huk wertallapi t'ikanhina rikchayñiyuqkama kasqa!	Y he aquí que había cinco mil, todas semejantes, en un solo jardín.	0.579762
+"Kayta rikuspaqa pinqarikunmanmi... uhurikuspa wañuqmi tukunman ama paymanta asinaypaq.	"Se sentiría bien vejada si viera esto, se dijo; tosería enormemente y aparentaría morir para escapar al ridículo.	0.2325
+Ñuqataqmi hampiq tukunay kanman. ~~~ Mana chayqa wañurqunmanpuni pinqachiwananpaqlla...".	Y yo tendría que aparentar cuidarla, pues, si no, para humillarme a mí también, se dejaría verdaderamente morir…".	-0.0314815
+Kay planetaqa ch'akillam, ñawchillam, qullpallam.	Luego, se dijo aún: "Me creía rico con una flor única y no poseo más que una rosa ordinaria.	0.11087
+Hinaspas sunqunpi nin: "qapaqmi yuyakurqani" nispa "'ñuqallachari kayhina t'ikayuq kani' niq kani, ichaqa rosasñiy tukuy rosashinalla kasqa.	La rosa y mis tres volcanes que me llegan a la rodilla, uno de los cuales quizá está apagado para siempre.	0.168966
+Iskay huchuy ninasamaq urquyuqllaqa huk wañusqa volcanñiyuqllaqa huk rosast'ikayuqllaqa manam hatun quyllur llaqtayuqchu kani" nispas wischurparikuspa waqaykun.	Realmente no soy un gran príncipe…". ~~~ Y, tendido sobre la hierba, lloró.	-0.195238
+<p>	<p>	0
+XXI Wwawaqa. ~~~ aqaykuptinqa atuqsi napaykumun: -Imaynalla? nispa.	XXI Entonces apareció el zorro: -Buenos días -dijo el zorro.	0.234043
+-Imaynalla? nispas qawarikun quyllur llaqtayuq Manas pitapas rikunchu.	-Buenos días -respondió cortésmente el principito, que se dio vuelta, pero no vio nada.	1.24844
+-Kaypim kachkani, nispas nimun.	-Estoy acá -dijo la voz- bajo el manzano…	0.837931
+Kay mallki sikipi... -Pitaq kanki? nispas nin.	-¿Quién eres? -dijo el principito-.	1.21562
+Munayllam kanki...	Eres muy lindo…	0.214286
+-Atuqmi kani, ninsi.	-Soy un zorro -dijo el zorro.	0.205263
+-Hamuy pukllarikusun, nispas nin quyllur llaqtayuq wawaqa.	-Ven a jugar conmigo -le propuso el principito-.	0.596429
+Llakikuymi atipawan...	¡Estoy tan triste!…	0.233333
+-Manam pukllaymanchu qamwanqa.	-No puedo jugar contigo -dijo el zorro-.	0.987931
+Manam runaman yachasqachu kani.	No estoy domesticado.	0.915
+-A! Manachu?	-¡Ah! Perdón -dijo el principito.	-0.15
+Yuyariykukuspa nillantaq: -Imaniytam munan "runaman yachasqa"? nispa.	Pero, después de reflexionar, agregó: -¿Qué significa "domesticar"?	1.03525
+-Manachari kaymantachu kanki, nispas nin atuqqa.	-No eres de aquí -dijo el zorro-.	1.41429
+Imatataq maskankiri? -Runakunatam maskani, ninsi.	¿Qué buscas? ~~~ -Busco a los hombres -dijo el principito-.	-0.0130435
+Imaniytam munan "runaman yachasqa"?	¿Qué significa "domesticar"?	0.233333
+-Runakunaqa fusilñiyuqkamam purinku, chaywan kasanku.	-Los hombres -dijo el zorro- tienen fusiles y cazan.	0.266667
+Chaymi llakikuy! Wallpatapas uywallankutaq.	Es muy molesto. ~~~ También crían gallinas.	-0.0162162
+Chayllam allin kayñinku.	Es su único interés.	0.216667
+Wallpatachu maskanki?	¿Buscas gallinas?	0.229412
+-Mana, nispas nin quyllur llaqtayuq wawaqa.	-No -dijo el principito-. ~~~ Busco amigos.	0.495652
+Wawqimasiyuq kaytam munani.	¿Qué significa "domesticar"?	0.288462
+Imaniytam munan "runaman yachasqa?" -Qunqasqañam chayqa, ninsi atuqqa.	-Es una cosa demasiado olvidada -dijo el zorro-.	0.47619
+"Wakiyasqa" niytam munan... " -Wakiyasqa?	Significa "crear lazos". ~~~ -¿Crear lazos?	0
+-Arí, nispas nin atuqqa.	-Sí -dijo el zorro-.	2.03333
+Qamqa tukuy wawahinam kanki ñuqapaq.	Para mí no eres todavía más que un muchachito semejante a cien mil muchachitos.	0.490909
+Manam munaykichu.	Y no te necesito.	0.26
+Qampas manallataqmi munawankichu.	Y tú tampoco me necesitas.	0.182609
+Ñuqaqa tukuy atuq-hinam kani qampaq.	No soy para ti más que un zorro semejante a cien mil zorros.	0.654545
+Yachaykuchikuwanki chayqa, munanakusunmi.	Pero si me domesticas, tendremos necesidad el uno del otro.	0.9675
+Manam ñuqapaqqa tiqsimuyuntinpi qamhinaqa kanqachu.	Serás para mí único en el mundo.	0.0666667
+Qampaqpas ñuqahinaqa manallataqmi kanqachu...	Seré para ti único en el mundo…	0.103846
+-Unanchaykuchkaniña chayta, nispas nin quyllur llaqtayuq wawaqa.	-Empiezo a comprender -dijo el principito-.	1.0033
+Huk t'ika yachaykuchikuwanñachus-hina...	Hay una flor… Creo que me ha domesticado...	0.283784
+-Chayqa kanmanmi, ninsi atuqqa.	-Es posible -dijo el zorro-.	0.852
+Kay Pachapiqa imapas kallanpunim.	¡En la Tierra se ve toda clase de cosas…! -¡Oh!	0.222581
+-Mana ari Pachapichu, nispas nin.	No es en la Tierra -dijo el principito.	1.27
+Chaysi atuqqa utirayan. ~~~ -Huk planetapichu? -Arí.	El zorro pareció muy intrigado: -¿En otro planeta? -Sí.	-0.00652174
+-Kasadur kanchu chay planetaykipi? -Manam.	-¿Hay cazadores en ese planeta? -No.	0.734375
+-Allinmi chay! Wallparí? -Manallataq.	-¡Es interesante eso! ~~~ ¿Y gallinas? -No.	-0.00857143
+-Manapunim imapas allinpa allinñinqa kanchu.	-No hay nada perfecto -suspiró el zorro.	0.748571
+Hinaspas nillantaq: -Ñuqapaqqa sapa punchawpas kikillanmi.	Pero el zorro volvió a su idea: -Mi vida es monótona.	0.231818
+Wallpata qamisiyani, runataq ñuqata qamisiyawan.	Cazo gallinas, los hombres me cazan.	0.178125
+Lliw wallpapas kikillanmi, runakunapas kikillantaqmi.	Todas las gallinas se parecen y todos los hombres se parecen.	0.288
+Chaymi imapas kananta munani.	Me aburro, pues, un poco.	0.231818
+Yachaykuchikuwanki chayqa, inti kanchayllam kanqa kawsayñiy.	Pero, si me domesticas, mi vida se llenará de sol.	0.628571
+Qamta hamuqta uyarispaqa riqsirqusqaykim.	Conoceré un ruido de pasos que será diferente de todos los otros.	0.176923
+Runap puriyñinta uyarispataq pakaykukuni.	Los otros pasos me hacen esconder bajo la tierra.	0.276923
+Qampa tatkiyñiykiqa takihinam tuquymanta lluqsirquchimuwanqa.	El tuyo me llamará fuera de la madriguera, como una música.	0.252
+Rikuchkankichu chaqay trigo chakrata?	Y además, ¡mira! ¿Ves, allá, los campos de trigo?	0.24
+Manam ñuqaqa t'antata mikunichu.	Yo no como pan.	-0.0923077
+Chay trigo chakrataqa manam llakinichu.	Para mí el trigo es inútil.	0.630435
+Trigo chakraqa manam imatapas yuyarichiwanchu.	Los campos de trigo no me recuerdan nada.	0.231429
+Mana imatapas yuyarichiwaptinmi llakikuni.	¡Es bien triste!	-0.2
+Qamqa quri chukchayuqmi kanki.	Pero tú tienes cabellos color de oro.	0.857143
+Chaymi qamman yachaykuchikuwaptiykiqa kusisqalla kawsasaq.	Cuando me hayas domesticado, ¡será maravilloso!	0.216279
+Trigop quri chukchanqa qamtam yuyarichiwanqa.	El trigo dorado será un recuerdo de ti.	0.218182
+Chaymi chakrapi wayrata munasaq...	Y amaré el ruido del viento en el trigo…	0.290625
+Chaymanta upallaykuspa unaysi quyllur llaqtayuq wawata qawarayan.Hinaspas nin: -Ama ari hina kaychu, qamman yachaykuchikuway ari, nispa.	El zorro calló y miró largo tiempo al principito. ~~~ -¡Por favor… domestícame! -dijo.	-0.100685
+-Yachaykuchikuykimanmi, ichaqa timpullaymi mana kanchu, nispas nin quyllur llaqtayuq wawaqa.	-Bien lo quisiera -respondió el principito-, pero no tengo mucho tiempo.	0.472727
+Runakuna riqsimunaymi, llapa imapas rikumunaymi.	Tengo que encontrar amigos y conocer muchas cosas.	0.293182
+-Yachaykuchikusqanchikllatam allintaqa riqsinchik, nispas nin atuqqa.	-Sólo se conocen las cosas que se domestican -dijo el zorro-.	1.51071
+Manañam runakunap timpun kanñachu imapas allin riqsinanpaq.	Los hombres ya no tienen tiempo de conocer nada.	0.204878
+Paykunaqa wakichisqallatañam imatapas rantinku.	Compran cosas hechas a los mercaderes.	0.202941
+Ichaqa manam kanchu wawqimasi rantinaqa. ~~~ Chaymi runakunaqa mana wawqimasiyuqchu.	Pero como no existen mercaderes de amigos, los hombres ya no tienen amigos.	-0.0257812
+Wawqimasiyuq kayta munaspaqa yachaykuchikuway ari! -Imaynata? nispas nin.	Si quieres un amigo, ¡domestícame! -¿Qué hay que hacer? -dijo el principito.	0.962121
+-Pisi pisillamantam yachaykuchikuwanki, nispas nin.	-Hay que ser paciente -respondió el zorro-.	0.721053
+Karupiraqmi tiyanki chay qurapihina. ~~~ Ñuqataqmi pakallamanta qawamusqayki.	Te sentarás al principio un poco lejos de mí, así, en la hierba.	-0.0481132
+Qamqa chinlla kakunki.	Te miraré de reojo y no dirás nada.	0.935714
+Rimayqa pantachikuyñiyuqmi.	La palabra es fuente de malentendidos.	0.222222
+Punchaw punchawmantam aswan qayllaypiña tiyaykunki...	Pero, cada día, podrás sentarte un poco más cerca…	0.251163
+Qayantin punchawqa quyllur llaqtayuq wawaqa kutimunsi.	Al día siguiente volvió el principito.	0.158824
+-Qayna punchaw kikin urasmi hamunayki karqan, nispas nin atuqqa.	-Hubiese sido mejor venir a la misma hora -dijo el zorro-.	1.15102
+Tawa urasta hamunki chayqa, kimsa urasmantañam kusikuyta qallarisaq.	Si vienes, por ejemplo, a las cuatro de la tarde, comenzaré a ser feliz desde las tres.	0.251613
+Hamunayki qayllamuchkaptinqa pawaykachasaqña.	Cuanto más avance la hora, más feliz me sentiré.	0.278049
+Chaymi yachasaq kusikuypa chaninta.	A las cuatro me sentiré agitado e inquieto; ¡descubriré el precio de la felicidad!	-0.0363636
+Mana yuyayta hamunki chaytaq, manam yachasaqchu haykap sunquy kusirichinayta...	Pero si vienes a cualquier hora, nunca sabré a qué hora preparar mi corazón…	0.2625
+Hamunayki urasqa unanchasqa kanam.	Los ritos son necesarios.	0.182609
+-Imaniytam munan "unanchasqa"? nispas nin.	-¿Qué es un rito? -dijo el principito.	1.74545
+-Chaypas ña qunqasqallañataqmi, nispas nin.	-Es también algo demasiado olvidado -dijo el zorro-.	1.255
+Unanchasqa punchawmi mana huk punchawkunahinachu; unanchasqa urasmi mana huk uraskunahinachu Huywis punchawqa tusunanku unanchasqam: chay punchawqa manam kasadurkuna kasanchu.	Es lo que hace que un día sea diferente de los otros días; una hora, de las otras horas. ~~~ Entre los cazadores, por ejemplo, hay un rito.	0.0133929
+Sipaskunawanmi tusunku.	El jueves bailan con las muchachas del pueblo.	0.0782609
+Chaymi huywisqa kusikuylla ñuqapaq.	El jueves es, pues, un día maravilloso.	0.290909
+Maypipas purimullani.	Voy a pasearme hasta la viña.	0.242857
+Kasadurkuna ima punchawpas kasaptinqa punchawkunaqa huk punchawllam kanman, ñuqapaq manam samay punchaw kanmanchu.	Si los cazadores no bailaran en día fijo, todos los días se parecerían y yo no tendría vacaciones.	0.437456
+Hinaspas quyllur llaqtayuq wawaqa atuqta yachaykuchikun.	Así el principito domesticó al zorro.	0.555844
+Atuqqa ripunan patapiña kaspa ninsi: -A! Waqasaqmi, nispa.	Y cuando se acercó la hora de la partida: -¡Ah!… -dijo el zorro-.	0.288462
+-Qammi huchayuq kanki ñuqaman yachaykukuq, nispas nin quyllur llaqtayuq wawaqa.	Voy a llorar. ~~~ -Tuya es la culpa -dijo el principito-.	0.211765
+Ñuqaqa manam waqachiyta munarqaykichu...	No deseaba hacerte mal, pero quisiste que te domesticara…	0.205263
+-Arí, ñuqam qamman yachakuyta munarqani, nispas nin atuqqa.	-Sí -dijo el zorro.	0.864706
+-Kunanqa waqanki.	-¡Pero vas a llorar! -dijo el principito.	-0.0352941
+-Arí, waqasaqmi.	-Sí -dijo el zorro.	0.28125
+-Yanqallamari yachaykukuwanki!	-Entonces, no ganas nada.	0.208696
+-Trigo chakra qurihina kaptinmi mana yanqachu, nispas nin.	-Gano -dijo el zorro-, por el color del trigo.	0.866667
+Tawa urasta hamunki chayqa, kimsa urasmantañam kusikuyta qallarisaq.		-0.3
+Hinaspas nillantaq: -Qawarimuy rosaskunata, nispa.	Luego, agregó: -Ve y mira nuevamente las rosas.	0.756098
+Chaypim yachanki mana huk t'ikallapas t'ikaykihina kasqanta.	Comprenderás que la tuya es única en el mundo.	0.176923
+Kutimuptiykiña sunqullaykipaq willasqayki.	Volverás para decirme adiós y te regalaré un secreto.	0.263415
+Chay niptinsi quyllur llaqtayuq wawaqa siqan rosast'ikakuna qawaq.	El principito se fue a ver nuevamente a las rosas: -No sois en absoluto parecidas a mi rosa; no sois nada aún -les dijo-.	0.438333
+-Qamkunaqa rosasñiymanta hukmi kankichik.	Nadie os ha domesticado y no habéis domesticado a nadie.	0.230769
+Manaraqmi imachu kankichik.	Sois como era mi zorro.	0.21
+Manam pipas yachachikusunkichikchu.	No era más que un zorro semejante a cien mil otros.	0.979412
+Imaynam atuqñiy karqan chayhinam kankichik.	Pero yo lo hice mi amigo y ahora es único en el mundo.	0.2775
+Atuqñiyqa tukuy atuqhinam karqan.	Y las rosas se sintieron molestas.	0.29
+	-Sois bellas, pero estáis vacías -les dijo todavía-.	-0.3
+Hinaspam wawqichanakuyku.	No se puede morir por vosotras.	0.276
+Chaymi kunanqa mana payhinaqa kanmanchu, nispas nin.	Sin duda que un transeúnte común creerá que mi rosa se os parece.	0.255319
+	Pero ella sola es más importante que todas vosotras, puesto que es ella la rosa a quien regado.	-0.3
+Niptinsi rosaskunaqa pinqakun.	Puesto que es ella la rosa a quien puse bajo un globo.	0.144828
+-Munaytaq chusaqtaq kankichik, nispas nin.	Puesto que es ella la rosa a quien abrigué con el biombo.	0.738462
+Manam qamkunaraykuqa pipas wañunmanchu.	Puesto que es ella la rosa cuyas orugas maté (salvo las dos o tres que se hicieron mariposas).	-0.0324324
+Mana rosasñiy riqsiqqa "chay rosaskunahinallam" ninman ñuqappataqa.	Puesto que es ella la rosa a la que escuché quejarse, o alabarse, o aun, algunas veces, callarse.	0.208065
+Rosasñiytaqa qarpani, pakchiykuni, wayramanta harkani, kurunta wañuchini (iskay kimsa kurullatam puchuchini pillpintuman tukunanpaq), waqasqanta yupaychachikusqanta chin kasqantapas uyarini, paymi rosasñiy, chaymi paylla ñuqapaq chaniyuq.		-0.3
+Hinaspas atuqman achhuykullantaq, chimpaykullantaq: -Diosllawanña, nispa.	Puesto que ella es mi rosa. ~~~ Y volvió hacia el zorro: -Adiós -dijo.	-0.0315789
+Achhuykuptinqa: -Diosllawanña, nispas nin.	-Adiós -dijo el zorro-.	1.22857
+Kayqa sunqullaykipaq: sunqunchikllawanmi allintaqa rikunchik.	He aquí mi secreto. ~~~ Es muy simple: no se ve bien sino con el corazón.	0
+Ñawiwanqa manam rikuchwanchu chaniyuq kaqtaqa.	Lo esencial es invisible a los ojos.	0.183871
+-Ñawiwanqa manam rikuchwanchu chaniyuq kaqtaqa, nispas nillantaq quyllur llaqtayuq wawaqa ama qunqananpaq.	-Lo esencial es invisible a los ojos -repitió el principito, a fin de acordarse.	0.638009
+-Rosasñiykiwan qaynasqaykim rosasñiykita chaniyuqman tukuchin.	-El tiempo que perdiste por tu rosa hace que tu rosa sea tan importante.	0.294915
+Wischurparikuspa waqaykun.		-0.3
+-Rosasñiywan qaynasqaymi..., nispas nillantaq quyllur llaqtayuq wawaqa ama qunqananpaq.	-El tiempo que perdí por mi rosa… -dijo el principito, a fin de acordarse.	0.812903
+Niptinqa: -Runakunaqa chayta qunqapunñam, nispas nin.	-Los hombres han olvidado esta verdad -dijo el zorro-.	1.14438
+Qamqa ama ari chayta qunqankichu.	Pero tú no debes olvidarla.	0.725
+Wiñayllam yachaykuchikusqaykitaqa uywanayki.	Eres responsable para siempre de lo que has domesticado.	0.25814
+Rosasñiykita uywanaykim...	Eres responsable de tu rosa…	0.288
+Niptinqa: -Wiñayllam rosasñiyta uywanay..., nispas nillantaq allinta yuyananpaq.	-Soy responsable de mi rosa… -repitió el principito, a fin de acordarse.	0.908602
+<p>	<p>	0
+XXII Taytáy! nispas nin quyllur llaqtayuq wawaqa.	XXII -Buenos días -dijo el principito.	1.92605
+-Wawáy! nispas nin riel kamayuq5 runaqa.	-Buenos días -dijo el guardaagujas.	1.2625
+Niptinqa: -Imatam rurachkanki? nispas nin.	-¿Qué haces aquí? ~~~ -dijo el principito.	0.592105
+-Pasahirukunata waranqakama tantaspa rakini, nispas nin.	-Clasifico a los viajeros por paquetes de mil -dijo el guardaagujas-.	1.11099
+Hinaspa ñataq pañaman, ñataq lluq'iman trenpi apachini.	Despacho los trenes que los llevan, tanto hacia la derecha como hacia la izquierda.	0.924
+Nichkaptin llipllichkaq trensi qhaqyahina pasarqun kamayuqpa wasinta kuyurichisparaq.	Y un rápido iluminado, rugiendo como el trueno, hizo temblar la cabina de las agujas.	0.270833
+-Utqayllam richkanku!	-Llevan mucha prisa -dijo el principito-.	0.0714286
+Imatataq maskanku?	¿Qué buscan?	0.15
+-Tren purichiqpas manam yachanchu, nispas nin riel kamayuqqa.	-Hasta el hombre de la locomotora lo ignora -dijo el guardaagujas.	0.955758
+Chayllamansi huklawmantañataq llipllichkaq tren qhaqyahina pasarqullantaq.	Y un segundo rápido iluminado rugió, en sentido inverso.	0.171429
+-Kutimuchkankuñachu? nispas nin quyllur llaqtayuq wawaqa.	-¿Vuelven ya? -preguntó el principito.	1.14571
+Riel kamayuqqa riel pallqapim sayan chay lawman kay lawman tren rakinanpaq.		-0.3
+-Manam paykunachu, nispas nin.	-No son los mismos -dijo el guardaagujas-.	2.00357
+Kayqa hukñinpa rantinmi hamun.	Es un cambio.	-0.1
+-Manachu kusisqa karqanku tiyasqankupi?	-¿No estaban contentos donde estaban?	0.273529
+-Manapunim kusisqachu kanchik tiyasqanchikpiqa.	-Nadie está nunca contento donde está -dijo el guardaagujas.	0.246667
+Chayqa hukñataqsi qhaqyahina tuqyarispallataq pasarqun.	Y rugió el trueno de un tercer rápido iluminado.	0.219512
+-Hukñin pasahirukunatachu qatichkan? nispas nin quyllur llaqtayuq wawaqa.	-¿Persiguen a los primeros viajeros? -preguntó el principito.	0.901212
+Niptinqa: -Manam imatapas qatichkankuchu, nispas nin.	-No persiguen absolutamente nada -dijo el guardaagujas-.	1.57347
+Pasahirukunaqa puñullan, mana chaytaq hanllakuchkan.	Ahí adentro duermen o bostezan.	0.075
+Wawakunallam bintanaman sinqanta ñitin.	Sólo los niños aplastan sus narices contra los vidrios.	0.210811
+-Wawakunallam ima munasqanta yachan, nispas nin quyllur llaqtayuq wawaqa.	-Sólo los niños saben lo que buscan -dijo el principito-.	0.795918
+Wawakunallam thanta wawaraykulla punchawtapas usuchinman. ~~~ Chay thanta wawam paykunapaqqa ancha chaniyuqñin.	Pierden tiempo por una muñeca de trapo y la muñeca se transforma en algo muy importante, y si se les quita la muñeca, lloran…	0.0209524
+Qichurquptinqa waqaykunkumanmi...	-Tienen suerte -dijo el guardaagujas.	0.290909
+-Ancha samiyuqmi kanku wawakunaqa.		-0.3
+<p>	<p>	0
+XXIII Taytáy, nispas nin quyllur llaqtayuq wawaqa.	XXIII -Buenos días -dijo el principito.	1.92857
+-Wawáy, nispas nin qatuqqa.	-Buenos días -dijo el mercader.	1.464
+Ch'akikuypaq hampi qatuqsi kasqa.	Era un mercader de píldoras perfeccionadas que aplacan la sed.	0.0774194
+Chay hampita sapa simana millpuykurquptinchikqa manañas ch'akipuwasunmanñachu.	Se toma una por semana y no se siente más la necesidad de beber.	0.178846
+-Imapaqmi chayta bindinki? nispas nin quyllur llaqtayuq wawaqa.	-¿Por qué vendes eso? -dijo el principito.	1.26284
+Niptinqa: -Chayqa timpu mana usuchinapaqmi, nispas nin.	-Es una gran economía de tiempo -dijo el mercader-.	1.00909
+Yachaqkunam ninku: 'chay hampita millpuykurquspaqa pichqachunka kimsayuq minutotam sapa simana puchuchikusunman yakuta mana upyaspa' nispa.	Los expertos han hecho cálculos. ~~~ Se ahorran cincuenta y tres minutos por semana.	-0.116197
+-Imatataq rurasunchikman chay pichqachunka kimsayuq minutowanri?	-Y, ¿qué se hace con esos cincuenta y tres minutos?	0.181395
+-Ima munasqanchiktapas...	-Se hace lo que se quiere…	0.259091
+Quyllur llaqtayuq wawaqa sunqullanpis nin "ñuqapaq pichqachunka kimsayuq minuto kanman chayqa, pukyullamanña riyman... " nispa.	"Yo, se dijo el principito, si tuviera cincuenta y tres minutos para gastar, caminaría muy suavemente hacia una fuente…".	0.458654
+<p>	<p>	0
+XXIV am pusaq punchawña aqupurunpi karqani mana avionñiy Ñpurichiyta atispa. ~~~ Ch'akikuypaq hampi qatuqmanta willawachkaptin yaku apasqayta tukuykuni.	XXIV Estábamos en el octavo día de mi panne en el desierto y había escuchado la historia del mercader bebiendo la última gota de mi provisión de agua.	0.0128342
+-Ayh! Willawasqaykikunawanqa manaraqmi avionñiyta allichanichu.		-0.3
+Manam yakuy kapunchu.	-¡Ah! -dije al principito-.	0.225
+Ñuqapas pukyumanqa rillaymantaqmi! nispa nini quyllur llaqtayuq wawataqa.	Tus recuerdos son bien lindos, pero todavía no he reparado mi avión, no tengo nada para beber y yo también sería feliz si pudiera caminar muy suavemente hacia una fuente.	-0.0358209
+Chayqa niwan: -Wawqiy atuqqa..., nispa.	-Mi amigo el zorro… -me dijo.	0.168
+-Wawáy, amaña rimapayawaychu.	-Mi pequeño hombrecito, ¡ya no se trata más del zorro!	0.107143
+-Imanaptin?	-¿Por qué?	0.24
+-Ch'akiymanta wañusun...	-Porque nos vamos a morir de sed…	0.25
+Mana uyariq-hinam niwan: -Wawqimasiyuq kayqa allinmi wañunanchik qayllamuptinpas, nispa.	No comprendió mi razonamiento y respondió: -Es bueno haber tenido un amigo, aun si vamos a morir.	0.296296
+Ñuqaqa ancha kusisqam kani atuqwan wawqichanakusqaymanta.	Yo estoy muy contento de haber tenido un amigo zorro…	0.675238
+"Manachus-hina wañunaykuta unanchanchu" nispam sunquypi nini.	"No mide el peligro -me dije-.	-0.0576923
+"Paytaqa manam yarqanchu, manataqmi ch'akinchu.	Jamás tiene hambre ni sed.	0.026087
+Intillawanmi kawsan... ".	Un poco de sol le basta…".	0.272727
+Chayqa sunquyta rikunmanpas-hina niwan: -Ñuqatapas ch'akiwachkanmi... pukyuta maskamusun..., nispa.	Pero me miró y respondió a mi pensamiento: -Tengo sed también…	0.0792453
+"T' ayh!" nispa amirqupuni.	Busquemos un pozo…	0.158824
+"Imaynataq hinalla aqupurunpi pukyuta maskamuykumanri?" nispa sunquypi nini.	Tuve un gesto de cansancio: es absurdo buscar un pozo, al azar, en la inmensidad del desierto.	0.261429
+Amisqapas paywan purini.	Sin embargo, nos pusimos en marcha.	0.195652
+Unayña upalla purispayku tutayachikuyku.	Cuando hubimos caminado horas en silencio, cayó la noche y las estrellas comenzaron a brillar.	-0.0394737
+Chayqa quyllurkunapas kancharimunña.	Las veía como en sueños, con un poco de fiebre, a causa de mi sed.	0.145714
+Musquypihinallañam quyllurkunata rikuni ch'akiypa humpi huqarichisqan.	Las palabras del principito danzaban en mi memoria: -¿También tú tienes sed? -le pregunté.	0.245455
+Quyllur llaqtayuq wawap rimasqantaqmi umaypi.	Pero no respondió a mi pregunta.	0.15
+-Qamtapas ch'akiykusunkichu? nispam nini.	Me dijo simplemente: -El agua puede también ser buena para el corazón…	0.138462
+Manam kutichiwanchu.	No comprendí su respuesta, pero me callé…	1.06
+-Sunqunchikpaqpas yakuqa allinmi, nispallam nin.	Sabía bien que no había que interrogarlo.	0.225
+Mana unanchaspam upalla kani.	Estaba fatigado.	0.09375
+"Mana imatapas tapunayta munanchu" nispam yuyarini.		-0.3
+Saykusqa tiyaykun, ñuqataq qayllanpi tiyaykuni.	Se sentó. ~~~ Me senté cerca de él.	-0.0857143
+Hinaspam nin: -Mana rikusqa t'ikayuq kaspam quyllurqa sumaq..., nispa.	Y, después de un silencio, dijo aún: -Las estrellas son bellas, por una flor que no se ve… Respondí "seguramente" y, sin hablar, miré los pliegues de la arena bajo la luna.	0.22381
+"Hinapunim" nispa upallallam qutu qutu aquta qawani killa kanchaypi.	-El desierto es bello -agregó. ~~~ Es verdad.	-0.0907895
+-Aqupurunqa sumaqmi, nillantaq.	Siempre he amado el desierto.	0.253846
+Arí, haykapmantapas munanipunim aqupuruntaqa.	Puede uno sentarse sobre un médano de arena.	0.260526
+Aqu qutupi tiyaykuspaqa manam imatapas rikunchikchu uyarinchikchu.	No se ve nada. ~~~ No se oye nada.	-0.201923
+Ichaqa imachari aqu sunqupi kanchan...	Y sin embargo, algo resplandece en el silencio…	0.248571
+-Pukyuta pakaspam aqupurunqa sumaq..., nispam nin quyllur llaqtayuq wawaqa.	-Lo que embellece al desierto -dijo el principito- es que esconde un pozo en cualquier parte…	0.551471
+Chaypim yacharquni sunqullapaq aqu kanchasqanta.	Me sorprendí al comprender de pronto el misterioso resplandor de la arena.	0.173333
+Wawa kaspa ñawpa wasipim tiyaq kani. ~~~ "Entierrom kan kay wasipiqa" nispam niqku.	Cuando era muchachito vivía yo en una antigua casa y la leyenda contaba que allí había un tesoro escondido.	-0.0401408
+Manam chaytaqa pipas tarinchu.	Sin duda, nadie supo descubrirlo y quizá nadie lo buscó.	0.685714
+Ichapas mana maskankuchu.	Pero encantaba toda la casa.	0.2875
+Wasiypiqa mana rikuy kanchayllam kanchaq.	Mi casa guardaba un secreto en el fondo de su corazón…	0.244737
+Wasiyqa illayuqmi kaq... ~~~ -Arí, mana rikusqa illayuq kaspaqa wasiqa quyllurqa aqupurunqa sumaq! nispam nini.	-Sí -dije al principito-; ya se trate de la casa, de las estrellas o del desierto, lo que los embellece es invisible.	0
+-Kusisqam kani atuqñiyhina sunquyuq kasqaykimanta.	-Me gusta que estés de acuerdo con mi zorro -dijo.	0.264286
+Puñuykurquptinmi marqarirquspa siqarini.	Como el principito se durmiera, lo tomé en mis brazos y volví a ponerme en camino.	0.0769231
+Quri umiñatapas apachkaymanhinam sunqu hunt'asqa karqani.	Estaba emocionado. ~~~ Me parecía cargar un frágil tesoro.	-0.009
+"Manam Pachantinpi kayhina qapyaqa kanmanchu" nispa nini.	Me parecía también que no había nada más frágil sobre la Tierra.	0.288462
+Yuraq mat'inta wichqasqa ñawinta chukchantam wayrawan pukllaqta killa kanchaypi qawani. ~~~ Hinaspam nini "kay rikusqayqa hawallanmi. ~~~ Ñawiwanqa manam rikuchwanchu chaniyuq kaqtaqa... ".	A la luz de la luna, miré su frente pálida, sus ojos cerrados, sus mechones de cabellos que temblaban al viento, y me dije: "Lo que veo, aquí, es sólo una corteza.	-0.112712
+Kusisqahinam puñuchkarqan.	Lo más importante es invisible…".	0.253846
+"T'ikan sunqu kasqanmantam kay warmataqa munani" nispam nini "puñuchkaptinpas rosast'ikanmi lamparahina sunqunpi kanchan".	Como sus labios entreabiertos esbozaran una media sonrisa, me dije aún: "Lo que me emociona tanto en este principito dormido es su fidelidad por una flor, es la imagen de una rosa que resplandece en él como la llama de una lámpara, aun cuando duerme…".	0.249421
+Chaypim watuni yuyasqaymanta aswan qapya kasqanta.	Y lo sentí más frágil todavía.	0.0692308
+Chaymi nini "lamparataqa allintam wayramanta harkana ama wañuchinanpaq" nispa.	Es necesario proteger a las lámparas; un golpe de viento puede apagarlas…	0.261905
+Hinaspam purisqaypi pukyuta taripani illarimuchkaptin.		-0.3
+Asirikuspa waskata aysarin rueda muyurichinanpaq.	Caminando así, descubrí el pozo al nacer el día.	0.263415
+<p>	<p>	0
+XXV Runakunaqa trenman winaykukun, nispam nin quyllur llaqtayuq wawaqa. ~~~ Manataqmi ima maskasqankutapas yachankuchu.	XXV -Los hombres -dijo el principito- se encierran en los rápidos pero no saben lo que buscan.	0.264844
+Chaymi irapihina muyunku...	Entonces se agitan y dan vueltas…	0.265385
+Hinaspam nillantaq: -Yanqallam..., nispa.	Y agregó: -No vale la pena…	0.691304
+Chay pukyu taripasqaykuqa manam Sahara pukyuhinachu kasqa.	El pozo al cual habíamos llegado no se parecía a los pozos del Sahara.	0.271698
+Sahara pukyuqa aqupampapi uchkullam.	Los pozos del Sahara son simples agujeros cavados en la arena.	0.732353
+Pukyu taripasqaykuqa llaqtapi pukyuhinam kasqa, posom kasqa.	Éste se parecía a un pozo de aldea.	0.0310345
+Manataqmi chaypiqa ima llaqtapas karqanchu.	Pero ahí no había ninguna aldea y yo creía soñar.	0.2925
+Chaymi utirayani: -Imayná? nispa.	-Es extraño -dije al principito-.	0.29
+Lliwmi churasqa kachkasqa puruntin, waskantin...	Todo está listo: la roldana, el balde y la cuerda…	0.278571
+Utirayaptiyqa asirikuspa waskata aysarin rueda muyurichinanpaq.	Rió, tocó la cuerda, e hizo mover la roldana.	0.134211
+Ruedaqa unayña mana muyurichisqa molinohinam waqan.	Y la roldana gimió como gime una vieja veleta cuando el viento ha dormido mucho.	0.17234
+-Uyarinkichu? nispas nin quyllur llaqtayuq wawaqa.	-¿Oyes? -dijo el principito-.	1.28889
+Kay pukyuta rikcharichinchik, waqachkanmi...	Hemos despertado al pozo y el pozo canta…	0.24
+Ñuqaqa manam aysarispa saykunanta munarqanichu.		-0.3
+Chaymi: -Ñuqam aysarisaq, nispa nini.	-Déjame a mí -le dije-.	0.09
+Sinchi llasam qampaq.	Es demasiado pesado para ti.	0.225
+Hinaspam puruta allillamanta aysarquni.	Icé lentamente el balde hasta el brocal.	0.282857
+Allintam takyaykuchini.	Lo asenté bien.	0.107143
+Ruedaqa umaypi waqachkarqallanraqmi, yakupitaqmi intiqa llipipiykuchkarqan.	En mis oídos seguía cantando la roldana y en el agua, que temblaba aún, vi temblar el sol.	0.287324
+-Kay yakutam munarqani, nispa niwan quyllur llaqtayuq wawaqa.	-Tengo sed de esta agua -dijo el principito-.	0.176923
+Upyachiway ari...	Dame de beber…	0.207692
+Chaypim yachani ima maskasqanta!	Y comprendí lo que había buscado.	0.289655
+Chaymi puruta hapirayapuni.	Levanté el balde hasta sus labios.	0.253846
+Chimsirayasparaqmi upyaykun.	Bebió con los ojos cerrados.	0.264
+Sunquman chayaq miskihinam chay yakuqa.	Todo era bello como una fiesta.	0.2
+Manam ch'akiyllapaqchu.	El agua no era un alimento.	0.3
+Killa kanchaypi purisqaykumanta, rueda muyurichispa waqachisqaykumanta, puruta aysarispa kallparisqaykumantam chay yakuqa pullpumun.	Había nacido de la marcha bajo las estrellas, del canto de la roldana, del esfuerzo de mis brazos.	0.153659
+Sunqutapas kusirichinmi.	Era buena para el corazón, como un regalo.	0.15
+Wawa kachkaptiy Navidad mallkip kanchayñin, chawpi tuta taki, runakunap asiyñinmi Navidadpaq regalo chaskisqayta kancharichipuwarqan. ~~~ Hinallataqmi karqan chay yaku upyaykuptiyqa.	Cuando yo era pequeño, la luz del árbol de Navidad, la música de la misa de medianoche, la dulzura de las sonrisas formaban todo el resplandor del regalo de Navidad que recibía.	0.167769
+-Llaqtamasiykikunaqa huk wertallapim pichqa waranqa rosas t'ikata t'ikachin..., nispam nin quyllur llaqtayuq wawaqa.	-En tu tierra -dijo el principito- los hombres cultivan cinco mil rosas en un mismo jardín…	0.833766
+Chaypas manam chaypi tarinkuchu munasqankuta...	Y no encuentran lo que buscan…	0.0923077
+-Manapunim, nispa nini...	-No lo encuentran… -respondí.	0.2625
+-Maskasqankuqa huk t'ikallapim kachkan, as yaku upyasqallapim kachkan.	-Y, sin embargo, lo que buscan podría encontrarse en una sola rosa o en un poco de agua…	0.595833
+-Hinapunim, nispa nini.	-Seguramente -respondí.	0.286364
+Chaymantam quyllur llaqtayuq wawaqa: -Ñawiqa ñawsam, sunqunchikwanmi maskana, nispa nin.	Y el principito agregó: -Pero los ojos están ciegos. ~~~ Es necesario buscar con el corazón.	0.0333333
+Upyaykuniñam.	Yo había bebido.	0.278571
+Chaymi allinña samarquni.	Respiraba bien.	0.12
+Illarimuytaqa aquqa ch'umpillam qutu qutu kasqa.	La arena, al nacer el día, estaba de color de miel.	0.285714
+Chaypas kusichiwallantaqmi.	Me sentía feliz también con ese color de miel.	0.166667
+Imamantach llakikuyman karqan...	¿Por qué habría de apenarme?	0.228
+Chaypim quyllur llaqtayuq wawaqa qayllaypi tiyaykuspa niwan: -Simiykitaqa hunt'anaykipunim, nispa.	-Es necesario que cumplas tu promesa -me dijo suavemente el principito que, de nuevo, se había sentado cerca de mí.	0.549394
+-Ima simiyta?	-¿Qué promesa?	0.276923
+-Yachankiñatáq... uwihaypa hakimanta dibuhanaykim... ~~~ Wiñayllam chay rosasñiyta uywanay.	-Tú lo sabes… un bozal para mi cordero… ¡soy responsable de esa flor!	-0.024
+Dibuhuykunatam bolsilloymanta hurquni.	Saqué del bolsillo mis bosquejos de dibujo.	0.291892
+Chayta rikuspaqa quyllur llaqtayuq wawaqa asinmi: -Baobab sacha dibuhasqaykiqa kullis-hinam..., nispa.	El principito los vio y dijo riendo: -Tus baobabs se parecen un poco a los repollos…	0.451429
+-Imá?	-¡Oh!	0.3
+Ñuqataq ancha altuman baobab sacha dibuhasqayta huqarirqani! -Atuq dibuhasqaykip ninrinqa waqrahinam... ancha hatunmi, nispam asillantaq.		-0.3
+-Ama hinata niwaychu, wawáy.	¡Yo que estaba tan orgulloso de los baobabs!	0.161538
+Manam dibuhayta atirqanichu.	-Tu zorro… las orejas… parecen cuernos… ¡y son demasiado largas!	-0.0222222
+Kicharayaq, wichqarayaq amarullatam dibuhayta atirqani.	Y rió aún. ~~~ -Eres injusto, hombrecito; yo no sabía dibujar más que las boas cerradas y las boas abiertas.	-0.0778846
+-Hinallaña kachun, nispam nin.	-¡Oh, está bien! -dijo-.	0.218182
+Wawakunaqa yachanmi.	Los niños saben.	0.2
+Niptinmi hakimata dibuharparini.	Dibujé, pues, un bozal.	0.157143
+Hinaspam sunqu patmisqa haywani.	Y sentí el corazón oprimido cuando se lo di.	0.23
+-Imatataq yuyaykukuchkankiri...? nispa niptiyqa manam imaninchu.	-Tienes proyectos que ignoro…	-0.0666667
+-Paqarinwanmi killaña uraykumusqay kanqa..., nispallam nin.	Pero no me respondió, y me dijo: -Sabes, mi caída sobre la Tierra… mañana será el aniversario…	0.169091
+Hinaspam upallaykun. ~~~ -Chayllamanmi chayamurqani... nispam nillantaq.	Luego, después de un silencio, dijo aún: -Caí muy cerca de aquí: Y se sonrojó.	-0.00230769
+Hinaspam mancharikun. ~~~ Chay nisqanpim sunquy putiykun.	Y de nuevo, sin comprender por qué, sentí un extraño pesar.	-0.003
+Chaymi tapuni: -Chay tupasqanchik paqarinqa manachari yanqallachu purikuchkarqanki may llaqtamantapas karupi, nispa.	Sin embargo, se me ocurrió preguntar: -Entonces, no te paseabas por casualidad la mañana que te conocí, hace ocho días, así, solo, a mil millas de todas las regiones habitadas.	0.411901
+Chayamusqaykimanchu kutipuchkarqanki?	¿Volvías hacia el punto de tu caída?	0.241935
+Niptiyqa pukayaykullantaqmi.	El principito enrojeció otra vez.	0.278571
+Chayqa unancharispahina nillanitaq: -Killaña chayamusqayki kaptinchu chayman kutipuchkarqanki...? nispa.	Y agregué, vacilando: -¿Tal vez, por el aniversario…?	0.314184
+Chayqa hukmanta pukayaykullantaq.	El principito enrojeció de nuevo.	0.28
+Manapuni ari tapusqaymanqa kutichiwaqchu. ~~~ Ichaqa pukayaspanchikqa "hinapunim" nichwanpas-hina ari.	Jamás respondía a las preguntas, pero cuando uno se enrojece significa "sí", ¿no es cierto? -¡Ah! -le dije-.	-0.00163043
+-Ay! Manchachiwankim..., nispa niptiymi niwan: -Llamkamunaykim.	Temo… ~~~ Pero me respondió: -Debes trabajar ahora.	-0.0511364
+Avionñiykimanmi kutinayki.	Debes volver a tu máquina.	0.26087
+Ñuqaqa kayllapim suyasqayki.	Te espero aquí.	0.0214286
+Qaya chisi kutimunki...	Vuelve mañana por la tarde…	0.272727
+"Ñuqapas atuq-hina waqallasaqtaq" nispa manam sunquy tiyaykunchu.	Pero yo no estaba muy tranquilo. ~~~ Me acordaba del zorro.	-0.0336735
+Pimanpas yachaykukuspaqa waqachwanmi...	Si uno se deja domesticar, corre el riesgo de llorar un poco…	0.197368
+<p>	<p>	0
+XXVI Pukyu qayllapiqa raqaymi kasqa.	XXVI Al costado del pozo había una ruina de un viejo muro de piedra.	0.590909
+Chay qayantin chisiqa llamkasqaymanta kutimuchkaspam quyllur llaqtayuq wawataqa karumanta rikumuni pirqapatapi tiyachkaqta.	Cuando volví de mi trabajo, por la tarde del día siguiente, vi de lejos al principito sentado allí arriba, con las piernas colgando.	0.525364
+-Manachu yuyanki? nispa nichkaqtam uyarini.	Y oí que hablaba: -¿No te acuerdas? -decía-.	0.284211
+	¡No es exactamente aquí!	-0.3
+"Manam kaypichu!" nispa niptin rimaqmasinqa imatachari nin.	Otra voz le respondió sin duda, puesto que contestó: -¡Sí! ~~~ ¡Sí!	-0.00555556
+Niptinqa: -Arí! Arí!	Es el día, pero el lugar no es aquí…	0.142105
+Kunan punchawmi, ichaqa manam kaypichu..., Nispam nin.	Continué mi camino hacia el muro.	0.0931034
+Chay raqayman qayllachkaspapas manam pitapas rikunichu, manataqmi uyarinichu.	Seguía sin ver ni oír a nadie.	-0.252
+Quyllur llaqtayuq wawallam nillantaq: -...Hinam, nispa.	Sin embargo, el principito replicó de nuevo: -… Seguro.	0.709821
+Aqupi yupiyta rikunkim.	Verás dónde comienza mi rastro en la arena.	0.0954545
+Chaypim suyamuwanki.	No tienes más que esperarme allí.	0.165
+Kunan tutam tinkusun.	Estaré allí esta noche.	0.285
+Raqay qayllapiña kaspaqa manam rimaqmasinta rikunichu.	Yo estaba a veinte metros del muro y seguía sin ver nada.	0.280851
+Quyllur llaqtayuq wawallam upallarispa nillantaq: -Allinchu miyuyki? nispa.	El principito dijo aún, después de un silencio: -¿Tienes buen veneno?	0.588333
+Manachu ñakarichiwanki?	¿Estás segura de no hacerme sufrir mucho tiempo?	0.0521739
+Niqta uyarispam llakirikuylla sayaykuni "imaniytach munan" nispa.	Me detuve, con el corazón oprimido, pero seguía sin comprender.	0.272727
+-Ripuy kunanqa, nispam nin.	-Ahora, vete… -dijo-.	0.225
+Uraykuytam munani! Hinam pirqa sikita qawarispa p'itaniraq.	¡Quiero volver a descender!	-0.048
+Chaypim sayarayachkasqa huk kutuyllawan wañuchikuq machaqway.	Entonces bajé yo mismo los ojos hacia el pie del muro y ¡di un brinco!	0.728571
+Pistolay hurqunaypaq bolsilloyta maskakuspa pawarini.	Estaba allí, erguida hacia el principito, una de ésas serpientes amarillas que os ejecutan en treinta segundos.	0.024
+Chayqa uyarirquwaspam machaqwayqa aqu aqunta suchuykun. ~~~ Hinaspam ranraman ayqiykurqun "talan talan" nisparaq.	Comencé a correr, mientras buscaba el revólver en mi bolsillo, pero, al oír el ruido que hice, la serpiente se dejó deslizar suavemente por la arena, como un chorro de agua que muere, y, sin apresurarse demasiado, se escurrió entre las piedras con un ligero sonido metálico.	-0.190099
+Pirqata chayarquptiyqa makillaymanña quyllur llaqtayuq wawaqa uraykumun qillullaña.	Llegué al muro justo a tiempo para recibir en brazos a mi hombrecito, pálido como la nieve.	0.296053
+-Imatataq rurachkarqankiri?	-¿Qué historia es ésta?	0.214286
+Machaqwaywanchu rimanki? nispa nini.	¿Ahora hablas con las serpientes?	0.26
+Hinaspa quri chalinanta paskarispa mat'inta uquchani.	Aflojé su eterna bufanda de oro.	0.075
+Chaymanta yakuta upyachini.	Le mojé las sienes y le hice beber.	0.265385
+Upyachispa chinlla kani.	Y no me atreví a preguntarle nada.	0.971739
+Allinta qawariwaspa uqllaykurqukuwan.	Me miró gravemente y rodeó mi cuello con sus brazos.	0.233333
+Fusilpa chayasqan pisquppahinam sunqunqa phatatatamuchkasqa.	Sentía latir su corazón como el de un pájaro que muere, herido por una carabina.	0.247368
+Chaypas niwanmi: -Kusikunim motorñiyki allicharqusqaykimanta, nispa.	Y me dijo: -Estoy contento de que hayas encontrado lo que faltaba a tu máquina.	0.290625
+Wasiykimanqa kutipunkim...	Vas a poder volver a tu casa…	0.275
+-Imaynamantam chayta yachanki?	-¿Cómo lo sabes?	0.02
+Ñuqaqa motorñiy allicharqusqayta willaqmi richkarqani! -Ñuqapas kunan punchawmi wasiyman kutipullasaqtaq..., nispallam niwan.	Precisamente venía a anunciarle que, contra toda esperanza, había tenido éxito en mi trabajo.	0.174074
+Chaymantam sunqu putisqahina nin: -Wasiyqa qampamanta aswan karupim, chaymi aswan sasawanqa chayman kutisaq..., nispa.	No respondió nada a mi pregunta, pero agregó: -Yo también, hoy vuelvo a mi casa…	0.125373
+"Imanancha?" nispam mat'ita uqllaykuni.	Luego, melancólico: -Es mucho más lejos…	0.291667
+Uqllaykuspaqa yacharquni sunqun chusaqman tukukupuchkasqanta...	Es mucho más difícil… ~~~ Sentí que estaba ocurriendo algo extraordinario.	-0.01
+	Lo estreché en mis brazos como a un niño, y sin embargo, me pareció que se escurría verticalmente hacia un abismo sin que pudiera hacer nada por retenerlo.	-0.3
+Hinallam karuñiqman qawarayan.	Tenía la mirada seria, perdida muy lejos: -Tengo tu cordero.	0.062069
+Hinaspam nin: -Dibuhapuwasqayki uwihaqa makiypim, kahunpas wasinpaq, hakimanpas, nispa.	Y tengo la caja para el cordero. ~~~ Y tengo el bozal…	-0.12907
+Llakisqallaña asirikun.	Sonrió con melancolía.	0.271429
+-Ripuy kunanqa, nispam nin.	Esperé largo rato.	0.158824
+Uraykuytam munani! Uqllarayachkaptiymi pisipisimanta yuyayman kutin.	Sentía que volvía a entrar en calor poco a poco: -Has tenido miedo, hombrecito.	0.285937
+-Wawalláy, mancharikunkichu? nispa tapuni.	Había tenido miedo, sin duda.	0.138462
+Mancharikusqapuni ari chaypas asirikunmi.	Pero rió suavemente.	-0.0157895
+-Kunan chisim manchakusaqqa... nispa niwan.	-Tendré mucho más miedo esta noche…	0.212903
+Chaymi sunquy qaqcharqukullantaq.	De nuevo me sentí helado por la sensación de lo irreparable.	0.121875
+Imaynam mana rikusaqñachu?	Y comprendí que no soportaría la idea de no oír nunca más su risa.	-0.048
+Asiyñinmi ñuqapaq aqupurunpi pukyuhina karqan.	Era para mí, como una fuente en el desierto.	0.251351
+-Wawalláy, asiyñiykitaqa wiñayllam uyariyta munani..., nispa nini.	-Hombrecito… quiero oírte reír otra vez…	0.0916667
+Hinam niwan: -Kunan tutawanmi wataña kanqa, nispa.	Pero me dijo: -Esta noche, hará un año.	0.190909
+Chaymi quyllurñiyqa qayna wata purun chayamusqaypa hanaqñinpi kanqa...	Mi estrella se encontrará exactamente sobre el lugar donde caí el año pasado…	0.290625
+-Wawalláy, yanqa musquyñiyllachu chay machaqwaywan rimasqayki, paywan tinkunayki, quyllurñiykiman kutipunayki..., nispa tapuni. ~~~ Manam imaniwanpaschu.	-Hombrecito, ¿verdad que es un mal sueño esa historia de la serpiente, de la cita y de la estrella?…	-0.0614458
+-Ñawiwanqa manam rikuchwanchu chaniyuq kaqtaqa, nispallam nin.	Pero no contestó a mi pregunta, y dijo: -No se ve lo que es importante…	0.294737
+-Arí...	-Seguramente…	0.075
+-T'ikata yuyariy.	-Es como con la flor.	0.282353
+Quyllurpi wiñaq t'ikata wayllukuspaqa kusirikunkim tuta siyluta qawaspa.	Si amas a una flor que se encuentra en una estrella, es agradable mirar el cielo por la noche.	0.25
+Quyllurkunaqa t'ikayuqkamam kanqa.	Todas las estrellas están florecidas.	0.290909
+-Arí...	-Seguramente.	0.075
+-Yakuta yuyariy.	-Es como con el agua.	0.2625
+Rueda waqachiptiyki, waska aysaptiykim yaku upyachiwasqaykiqa ñuqapaq takihina miski karqan.	La que me has dado a beber era como una música, por la roldana y por la cuerda… ~~~ ¿Te acuerdas?…	-0.0115385
+Chayta yuyankichu? -Arí...	Era dulce. ~~~ -Seguramente.	0
+	-Por la noche mirarás las estrellas.	-0.3
+-Quyllurñiy huchuylla kaptinmi mana rikuchiykimanchu.	No te puedo mostrar dónde se encuentra la mía, porque mi casa es muy pequeña.	0.216
+Hinallaña kachun.	Será mejor así.	0.235714
+Tuta quyllurkuna qawaptiykiqa mayqan kaqpas quyllurñiy kanqa.	Mi estrella será para ti una de las estrellas.	0.544231
+Chayqa llapantin quyllurta qawaspam kusirikunki...	Entonces te agradará mirar todas las estrellas…	0.264286
+Mayqan kaqpas wawqimasillaykim kanqa.	Todas serán tus amigas.	0.1
+Kunan hukta qusqayki, nispa asikun.	Y luego te voy a hacer un regalo…	0.244444
+-A! Wawalláy wawa, chay asiyñiykiqa kusichiwanmi.	Volvió a reír. ~~~ -¡Ah!, hombrecito… hombrecito…	-0.00697674
+-Chaytam quyta munarqayki...	¡Me gusta oír tu risa!	0.173684
+Asiyñiyqa yaku upyachiwasqaykihinam qampaq kanqa.	-Precisamente, será mi regalo… ~~~ Será como con el agua…	0.203571
+-Imaniwayta munanki?	-¿Qué quieres decir?	1.28421
+-Runaqa manam kikin quyllurñiyuqkamachu kanchik.	-Las gentes tienen estrellas que no son las mismas.	0.293182
+Ñan puriq runakunataqa quyllurñinqa ñanñintam rikuchin, wakin runapaqtaq kanchayllam kanchan.	Para unos, los que viajan, las estrellas son guías. ~~~ Para otros, no son más que lucecitas.	-0.0155844
+Astronomokunapaqtaq uma nanay yupayllam.	Para otros, que son sabios, son problemas.	0.291892
+Businessmanpaqtaq qurim.	Para mi hombre de negocios, eran oro.	0.2
+Chay quyllurkunaqa chinllam.	Pero todas esas estrellas no hablan.	0.244444
+Qampa quyllurñiykikunaqa manam chay runakunappahinachu kanqa...	Tú tendrás estrellas como nadie las ha tenido.	0.1575
+-Chaywanri imaniwaytataq munanki?	-¿Qué quieres decir?	0.844737
+-Tuta siyluta qawaspaykiqa asiqta rikuwanki. ~~~ Qampaqmi llapantin quyllur asimunqa.	-Cuando mires al cielo, por la noche, como yo habitaré en una de ellas, como yo reiré en una de ellas, será para ti como si rieran todas las estrellas.	-0.0927632
+Asiqmi quyllurñiykikuna kanqa! niwaspam asirikullantaq.	¡Tú tendrás estrellas que saben reír! ~~~ Y volvió a reír.	-0.0125
+Sunquyki tiyaykupunqaña (sunqunchikqa tiyaykupullanpunim) chayqa, kusisqallam kanki riqsiwasqaykimanta.	-Y cuando te hayas consolado (siempre se encuentra consuelo) estarás contento de haberme conocido.	0.261628
+Wawqimasillaymi kanki haykapkamapas.	Serás siempre mi amigo.	0.1
+Ñuqawan asiyta munaspaykiqa bintanaykita kichararillaspa asirikunki.		-0.3
+Runamasiykikunaqa utirayaspam asiqta qawasunki.	Tendrás deseos de reír conmigo.	0.117857
+Chayqa ninki "quyllurqa asichillawanpuni" nispa.	Y abrirás a veces tu ventana, así… por placer…	0.753846
+Paykunaqa "muspachkanmi" nisunki.	Y tus amigos se asombrarán al verte reír mirando el cielo.	0.140625
+Qamtaqmi sunqullaykipi ninki "quyllur llaqtayuq wawaqa pukllapayamuwanmi" nispa, nispam asirikullantaq.	Entonces les dirás: "Sí, las estrellas siempre me hacen reír", y ellos te creerán loco. ~~~ Te habré hecho una muy mala jugada…	-0.0157895
+-Quyllur rikunaykitaqa achka asiq kampanillatam rikunki, nispam yapa asirikullantaq.	Y volvió a reír: -Será como si te hubiera dado en lugar de estrellas un montón de cascabelitos que saben reír… ~~~ Y volvió a reír.	-0.0272727
+Hinaspam niwan: -Kunan tuta amam hamunkichu, nispa.	Después se puso serio: -Esta noche… ¿sabes?… no llega.	0.293478
+-Manam saqiykimanchu, nispam nini.	-No me separaré de ti.	0.694737
+-Unqusqahinam kasaq, wañunayachkaymanhinam kanqa.	-Parecerá que sufro… ~~~ Parecerá un poco que me muero.	-0.00326087
+Manam chayta rikunaykita munanichu...	Es así. ~~~ No vengas a verlo, no vale la pena…	0.268966
+-Manam saqiykimanchu, nispam nillanitaq.	-No me separaré de ti.	0.6
+Chayqa manchay llakisqam niwan: -Ichapas chaypi machaqway kanqa, ama kutuchikunkichu...	Pero estaba inquieto. ~~~ -Te digo esto… también por la serpiente. ~~~ No debe morderte…	-0.141071
+Machaqwayqa manchay miyum.	Las serpientes son malas.	0.273913
+Yanqallamantam kutuykusunkiman....	Pueden morder por placer…	0.156522
+-Manam saqiykimanchu, nispam nillanitaq.	-No me separaré de ti.	0.6
+-Huk kutuyllapaqmi miyun kan..., nispam sunqunta tiyaykuchikun.	Pero algo lo tranquilizó: -Es cierto que no tienen veneno en la segunda mordedura…	0.237931
+Chay tutaqa manam paytaqa siqaqta rikunichu.	Esa noche no lo vi ponerse en camino.	0.212903
+Chinllamantam chinkarirqusqa.	Se evadió sin ruido.	0.116667
+Taripaykuptiyqa utqayllam puriykuchkasqa.	Cuando logré alcanzarlo, caminaba decidido, con paso rápido.	0.195
+Chayqa: -Aypaykuwankichu? nispallam niwan.	Y me dijo solamente: -¡Ah! ~~~ Estás ahí…	-0.0264706
+Hinaspam makiymanta hapipakuwaspa waqmanta llakirikullantaq: -Imamanmi hamunki?	Me tomó de la mano. ~~~ Pero siguió atormentándose: -Has hecho mal.	-0.0482143
+Llakikunkim.	Vas a sufrir.	0.275
+Wañusqahinam kasaq, ichaqa manam wañusqachu kasaq...	Parecerá que me he muerto y no será verdad…	0.2
+Ñuqaqa upallallam kani.	Yo callaba. ~~~ -Comprendes.	-0.0204545
+-Karumanmi ari ripunay.	Es demasiado lejos.	0.233333
+Mana ari llasa kurpuntinqa ripuymanchu.	No puedo llevar mi cuerpo allí.	0.2
+Ñuqaqa upallallam kani.	Es demasiado pesado. ~~~ Yo callaba.	-0.0236842
+-Kurpullayñam chaypi kanqa.	-Pero será como una vieja corteza abandonada.	0.888462
+Amam llakikunkichu.	No son tristes las viejas cortezas.	0.110526
+	Yo callaba.	-0.3
+Ñuqaqa upallallam kani.	Se descorazonó un poco.	0.285714
+Sunqun patmikuchkaptinpas kallpanchaykukun: -Yuyanakullasunmi, nispa.	Pero hizo aún un esfuerzo: -¿Sabes?, será agradable.	0.169565
+Ñuqapas quyllurta qawallasaqtaq.	Yo también miraré las estrellas.	0.27931
+Quyllurkunaqa qurwayasqa ruedayuq posokamam kanqa.	Todas las estrellas serán pozos con una roldana enmohecida.	0.268085
+Llapantin quyllurmi upyachiwanqa....	Todas las estrellas me darán de beber… ~~~ Yo callaba.	-0.00909091
+Ñuqaqa upallallam kani.	-¡Será tan divertido!	0.27
+-Qamqa waranqa waranqa kampanillayuq kanki, ñuqataq waranqa waranqa posoyuq kasaq, chaymi kusikusun, nispam nin.	Tendrás quinientos millones de cascabeles y tendré quinientos millones de fuentes…	0.439041
+Waqaspam manaña rimanchu.	Pero también calló, porque lloraba…	0.2
+Hinaspam nin: -Chayllapim, sapallayña risaq, nispa.	Es allá. ~~~ Déjame dar un paso, solo.	-0.0774194
+Chayqa mancharisqa tiyaykurqun.	Y se sentó porque tenía miedo.	0.253846
+Hinaspam nillantaq: -T'ikaytaqa wiñayllapuni rikunay!	Y dijo aún: -¿Sabes?… mi flor… soy responsable.	0.234146
+Pisi kallpayuqllam.	¡Y es tan débil!	0.192857
+Pisi yachayñiyuqllam.	¡Y es tan ingenua!	0.20625
+Tawa kichkallanmi kan awqankunamanta amachakunanpaq...	Tiene cuatro espinas insignificantes para protegerse contra el mundo…	0.235294
+Ancha saykusqam ñuqapas tiyaykuni.	Me senté porque ya no podía tenerme de pie.	0.2625
+-Chayllam..., nispam nin.	El principito dijo: -Bien…	0.3
+Iskarayaspa hatarin.	Eso es todo…	0.0545455
+Hinaspa tatkirin.	Vaciló aún un momento; luego se levantó.	-0.0176471
+Ñuqaqa manam kuyuriytapas atinichu.	Dio un paso. ~~~ Yo no podía moverme.	-0.015
+Chakin larupiqa qillullam kancharimun.	No hubo nada más que un relámpago amarillo cerca de su tobillo.	0.158333
+Quyllur llaqtayuq wawaqa sayayllam sayan.	Quedó inmóvil un instante.	0.125
+Manam qaparinchu.	No gritó.	1.03333
+Hinaspam ramranhina allillamanta aqupataman wischukun.	Cayó suavemente, como cae un árbol. ~~~ En la arena, ni siquiera hizo ruido.	-0.0352941
+<p>	<p>	0
+XXVII Nam suqta wataña...	XXVII Y ahora, por cierto, han pasado ya seis años…	0.63913
+Manam chaykunata pimanpas willarqanichu.	Nunca había contado esta historia.	0.232258
+Llaqtamasiykunaqa kusirikunmi kawsachkaqta riku-waspa.	Los camaradas que me encontraron se alegraron de volver a verme vivo.	0.259615
+Ñuqataq llakisqa kachkarqani.	Estaba triste, pero les decía: "Es la fatiga…".	0.160714
+"Saykusqam kani... " nispalla nini.	Ahora me he consolado un poco.	0.230769
+Ñam kunanqa sunqunchakupuniña... yaqa yaqa.	Es decir… no del todo.	-0.0315789
+Illarimuytaqa manam kurpunta taripanichu.	Pero sé que verdaderamente volvió a su planeta, pues, al nacer el día, no encontré su cuerpo.	0
+Chaymi yachani planetanman kutipusqanta.	Y no era un cuerpo tan pesado…	0.144
+Manam kurpunqa sinchi llasachu karqan...	Y por la noche me gusta oír las estrellas.	0.282857
+Tutaqa quyllurkunata uyarispa kusirikunim.	Son como quinientos millones de cascabeles…	0.292308
+Waranqa waranqa kampanillahina kanku...	Pero he aquí que pasa algo extraordinario.	0.3
+Imacha sunquypi? ~~~ Maypachaqa nini "hakima dibuhasqaymanqa watutañataq mana churasqanichu" nispa.	Me olvidé de agregar la correa de cuero al bozal que dibujé para el principito.	-0.0136364
+"Manachari uwihanman hakima churayta atinchu.	No habrá podido colocárselo nunca.	0.193548
+Kunanqa imaraqcha planetanpi kachkan?	Y me pregunto: "¿Qué habrá pasado en el planeta?	0.248571
+Ichapas uwihaqa t'ikata mikurqupunña... ".	Quizá el cordero se comió la flor…".	0.722581
+Maypachataqmi kusirikuni "manachari mikunchu!" nispa. ~~~ "Quyllur llaqtayuq wawaqa allintachari t'ikanta pakchiykuchkan.	A veces me digo: "¡Seguramente no! El principito encierra todas las noches la flor bajo un globo de vidrio y vigila bien a su cordero…".	0.0769976
+Allintachari uwihanta qawachkan" nispa nini, chaypim llapantin quyllurqa sunqullaymanta asirikumun.		-0.3
+Maypachataqmi nini "huk pantayllapaqmi kachkan" nispa.	Entonces me siento feliz. ~~~ Y todas las estrellas ríen dulcemente.	-0.024
+"Ichapas t'ikan pakchiykuyta qunqarqun.	A veces me digo: "De vez en cuando uno se distrae, ¡y es suficiente!	0.145946
+Ichapas uwihaqa qunqayllamanta tuta lluqsirqun... " nispa nini, chaymi kampanillaqa wiqiman tukupun.	Una noche el principito olvidó el globo de vidrio o el cordero salió silenciosamente durante la noche…".	0.758168
+Imanaptincha quyllurkunaqa kaymanñataq hukmanñataq tukun?	¡Entonces, los cascabeles se convierten en lágrimas!… ~~~ Es un gran misterio.	-0.01875
+Qamkuna quyllurllaqtayuq wawa munaqqa ñuqahinam kayta yachankichik: ima uwihapas t'ikata mikunqa chayqa, manañam tiqsimuyuqa kikillanchu kanqa...	Para vosotros, que también amáis al principito, como para mí, nada en el universo sigue siendo igual si en alguna parte, no se sabe dónde, un cordero que no conocemos ha comido, sí o no, a una rosa… ~~~ -Mirad al cielo.	0.140974
+Ramranhina allillamanta aqupataman wischukun.	Preguntad: ¿el cordero, sí o no, ha comido a la flor?	0.293023
+Siyluta qawariychik.	Y veréis cómo todo cambia…	0.255
+T'ikata uwiha mikunchu icha manachu?		-0.3
+Chayta yuyaykukuspa yachankichik mana chay uwihap, chay t'ikap yanqalla kasqanta...	¡Y ninguna persona grande comprenderá jamás que tenga tanta importancia!	0.248438
+Kuraqrunakunari yachanmanchu chaykunap ancha chaniyuq kasqanta?	Éste es, para mí, el más bello y más triste paisaje del mundo.	0.252941
+Chay rikusqaymi ñuqapaq aswan sumaqtaq llakichikuqtaq. ~~~ Kay paginap ñawpaqinpi dibuhasqaywanmi kikin.	Es el mismo paisaje de la página precedente, pero lo he dibujado una vez más para mostrároslo bien.	-0.0180723
+Allinta rikunallaykichikpaqmi huktawan dibuhani.	Aquí fue donde el principito apareció en la Tierra, y luego desapareció.	0.195652
+Chay purunmanmi quyllur llaqtayuq wawaqa kay planetanchikman chayamun.	Mirad atentamente este paisaje a fin de estar seguros de que habréis de reconocerlo, si viajáis un día por el África, en el desierto.	0.413021
+Hinaspa chaymanta chinkapun. ~~~ Allinta qawaykuychik kay dibuhasqayta.	Y si llegáis a pasar por allí, os suplico: no os apresuréis; esperad un momento, exactamente debajo de la estrella.	-0.0773438
+Ima punchawpas Africa suyupi aqupurunñinta purispa chayman chayankichik chayqa, ninkichik "kaymanmi quyllur llaqtayuq wawaqa chayamusqa!" Nispa.	Si entonces un niño llega hacia vosotros, si ríe, si tiene cabellos de oro, si no responde cuando se le interroga, adivinaréis quién es.	0.434365
+Ama utqaylla pasarqunkichikchu.	¡Sed amables entonces!	0.171429
+Quyllur chiqanpi suyarinkichik!	No me dejéis tan triste.	0.171429
+Wawa achhuykamusuptiykichikqa chimpaykumusuptiykichikqa asirikuptinqa quri chukchayuq kaptinqa tapuykunaman mana kutichiptinqa paymi kanqa.		-0.3
+Ama hina kaychikchu! ~~~ Qillqamuwaychik "kutimunñam" nispa...	Escribidme en seguida, decidme que el principito ha vuelto….	-0.00849057
+<p>	<p>	0
