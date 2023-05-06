@@ -1,4 +1,16 @@
 
+# Intro
+
+Run the script `tools_setup.sh` to download and build hunalign and pdftotext tools.
+
+# .pdf to .txt
+
+We will use pdftotext from xpdf package of tools:
+
+```
+src/xpdf/bin64/pdftotext -layout -enc UTF-8 parallel-data/extra/little_prince/LittlePrince.spa.pdf parallel-data/extra/little_prince/LittlePrince.spa.txt
+```
+
 # Unwrapping 
 
 To do the unwrapping, use the script `unwrap.py` like so:
@@ -46,8 +58,6 @@ python src/sentence_segmentation.py --input LittlePrince.que.unwrapped.txt --seg
 ```
 
 # Sentence alignment
-
-Run the script `tools_setup.sh` to download and build hunalign tool.
 
 Consider adding an alias for hunalign:
 ```
