@@ -5,7 +5,7 @@ import numpy as np
 from transformers import AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
 from constants import QUECHUA_DATA_PATHS, QUECHUA_DUPLICATES
 from helper_funcs import read_data_into_hf
-
+import sacrebleu
 bleu_metric = evaluate.load("sacrebleu")
 chrf_metric = evaluate.load("chrf")
 
@@ -22,13 +22,13 @@ def preprocess_function(examples, tokenizer, source_lang="es", target_lang="quy"
     if is_prompt:
       inputs = [prefix + example[source_lang] for example in examples["translation"]]
       targets = [example[target_lang] for example in examples["translation"]]
-      model_inputs = tokenizer(inputs, text_target=targets, max_length=256, truncation=True)
+      model_inputs = tokenizer(inputs, text_target=targets, max_length=200, truncation=True)
       return model_inputs
     else:
       inputs = [ex[source_lang] for ex in examples["translation"]]
       targets = [f"{prefix.split()[-1]}" + " " + ex[target_lang] for ex in examples["translation"]]
       model_inputs = tokenizer(
-          inputs, text_target=targets, max_length=256, truncation=True
+          inputs, text_target=targets, padding=True, truncation=True
       )
       return model_inputs
 
@@ -54,10 +54,9 @@ def prepare_compute_metrics(tokenizer):
 
       decoded_preds, decoded_labels = postprocess_text(decoded_preds, decoded_labels)
 
-      result_bleu = bleu_metric.compute(predictions=decoded_preds, references=decoded_labels)
-      result_chrf = chrf_metric.compute(predictions=decoded_preds, references=decoded_labels)
-      result = {"bleu": result_bleu["score"], "chrf": result_chrf["score"]}
-      
+      result_bleu = sacrebleu.corpus_bleu(decoded_preds, decoded_labels)
+      result_chrf = sacrebleu.corpus_chrf(decoded_preds, decoded_labels)
+      result = {"bleu": result_bleu.score, "chrf": result_chrf.score}
 
       prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds]
       result["gen_len"] = np.mean(prediction_lens)
@@ -71,16 +70,18 @@ def load_pretrained_model(checkpoint):
 def get_training_args(model_name, epochs=3, metric="chrf"):
   return Seq2SeqTrainingArguments(
     output_dir=model_name,
-    evaluation_strategy="epoch",
+    evaluation_strategy="steps",
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
     weight_decay=0.01,
-    save_total_limit=3,
+    save_total_limit=1,
+    load_best_model_at_end=True,
     num_train_epochs=epochs,
     predict_with_generate=True,
     fp16=True,
     metric_for_best_model=metric,
+    push_to_hub=True
   )
 
 def get_trainer(model, training_args, dataset, tokenizer, data_collator):
@@ -107,7 +108,7 @@ def train_model(tgt_lang, checkpoint, out_model_name, metric="chrf", epochs=3, i
 
   trainer = get_trainer(model, training_args, tokenized_dataset, tokenizer, data_collator)
   trainer.train()
-
+  trainer.push_to_hub(out_model_name)
 
 
 
