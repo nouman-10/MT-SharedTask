@@ -37,7 +37,7 @@ def get_data_collator(tokenizer, checkpoint):
 
 def postprocess_text(preds, labels):
     preds = [pred.strip() for pred in preds]
-    labels = [[label.strip()] for label in labels]
+    labels = [label.strip() for label in labels]
 
     return preds, labels
 
@@ -54,8 +54,8 @@ def prepare_compute_metrics(tokenizer):
 
       decoded_preds, decoded_labels = postprocess_text(decoded_preds, decoded_labels)
 
-      result_bleu = sacrebleu.corpus_bleu(decoded_preds, decoded_labels)
-      result_chrf = sacrebleu.corpus_chrf(decoded_preds, decoded_labels)
+      result_bleu = sacrebleu.corpus_bleu(decoded_preds, [decoded_labels])
+      result_chrf = sacrebleu.corpus_chrf(decoded_preds, [decoded_labels])
       result = {"bleu": result_bleu.score, "chrf": result_chrf.score}
 
       prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds]
