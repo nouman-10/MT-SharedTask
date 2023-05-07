@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, DataCollatorForSeq2Seq
 import evaluate
 import numpy as np
 from transformers import AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
-from constants import QUECHUA_DATA_PATHS, QUECHUA_DUPLICATES
+from constants import ORIGINAL_DATA_PATHS, EXTRA_DATA_PATHS, QUECHUA_DUPLICATES
 from helper_funcs import read_data_into_hf
 import sacrebleu
 bleu_metric = evaluate.load("sacrebleu")
@@ -96,11 +96,15 @@ def get_trainer(model, training_args, dataset, tokenizer, data_collator):
   )
 
 
-def train_model(tgt_lang, checkpoint, out_model_name, metric="chrf", epochs=3, is_prompt=True):
-  dataset = read_data_into_hf(tgt_lang, data_paths=QUECHUA_DATA_PATHS, duplicates=QUECHUA_DUPLICATES)
+def train_model(tgt_lang, checkpoint, out_model_name, metric, epochs, is_prompt, prefix, extra_data_codes, with_dup):
+  data_paths = ORIGINAL_DATA_PATHS
+  for code in extra_data_codes:
+    data_paths.extend(EXTRA_DATA_PATHS[code])
+  duplicate_paths = [] if with_dup else QUECHUA_DUPLICATES
+  dataset = read_data_into_hf(tgt_lang, data_paths=data_paths, duplicates=duplicate_paths)
   tokenizer = load_pre_trained_tokenizer(checkpoint)
 
-  tokenized_dataset = dataset.map(preprocess_function, fn_kwargs={"tokenizer": tokenizer, "is_prompt":is_prompt}, batched=True)
+  tokenized_dataset = dataset.map(preprocess_function, fn_kwargs={"tokenizer": tokenizer, "is_prompt":is_prompt, "prefix":prefix}, batched=True)
   data_collator = get_data_collator(tokenizer, checkpoint)
 
   model = load_pretrained_model(checkpoint)
@@ -122,7 +126,10 @@ if __name__ == "__main__":
   parser.add_argument("--metric", type=str, required=False, default='chrf')
   parser.add_argument("--epochs", type=int, required=False, default=10)
   parser.add_argument("--is_prompt", type=int, default=1)
+  parser.add_argument("--prefix", type=str, default="traducir español a quechua")
+  parser.add_argument("--extra_data_codes", nargs"*", type=str, default=[])
+  parser.add_argument("--with_dup", type=int, default=0)
 
   args = parser.parse_args()
 
-  train_model(args.tgt_lang, args.checkpoint, args.out_model_name, args.metric, args.epochs, args.is_prompt)
+  train_model(args.tgt_lang, args.checkpoint, args.out_model_name, args.metric, args.epochs, args.is_prompt, args.prefix, args.extra_data_codes, args.with_dup)
