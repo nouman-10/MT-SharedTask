@@ -14,37 +14,44 @@ DATA_CODES = {
     "quechua": "quy"
 }
 
-
-QUECHUA_DATA_PATHS = [
+ORIGINAL_DATA_PATHS = [
     "original/jw300_quy",
     "original/dict_misc_quy",
     "original/minedu_quy",
     "original/jw300_quz/",
-
-    "extra/bible_quy",
-    "extra/bol_const_quy",
-    "extra/per_const_quy",
-    "extra/lexicon_quy",
-    "extra/handbook_quy",
-    "extra/web_misc_quy",
-    "extra/tatoeba_quy",
-
-    "extra/per_const_quz",
-#    "extra/reglamento_quz",
-#    "extra/cosude_quz",
-#    "extra/dw_quz",
-#    "extra/fundacion_quz",
-
-    "extra/ley_consumo_drogas_que",
-    "extra/ley_organica_alimentacion_que",
-    "extra/ley_soberania_alimentaria_que",
-    "extra/un_human_rights_que",
-    "extra/ec_const_que",
-    "extra/little_prince_que"
-#   "copied/llamacha_quy",
-#   "copied/wiki_quy",
-#   "copied/cc_qu_quy"
 ]
+
+EXTRA_DATA_PATHS = {
+    "quy": [
+        "extra/bible_quy",
+        "extra/bol_const_quy",
+        "extra/per_const_quy",
+        "extra/lexicon_quy",
+        "extra/handbook_quy",
+        "extra/web_misc_quy",
+        "extra/tatoeba_quy"
+    ],
+    "quz": [
+        "extra/per_const_quz",
+        "extra/reglamento_quz",
+        "extra/cosude_quz",
+        "extra/dw_quz",
+        "extra/fundacion_quz"
+    ],
+    "que": [
+        "extra/ley_consumo_drogas_que",
+        "extra/ley_organica_alimentacion_que",
+        "extra/ley_soberania_alimentaria_que",
+        "extra/un_human_rights_que",
+        "extra/ec_const_que",
+        "extra/little_prince_que"
+    ],
+    "copy": [       
+        "copied/llamacha_quy",
+        "copied/wiki_quy",
+        "copied/cc_qu_quy"
+    ]
+}
 
 QUECHUA_DUPLICATES = [
     "original/jw300_quz/",
