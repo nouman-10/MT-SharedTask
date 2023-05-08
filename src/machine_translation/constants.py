@@ -54,7 +54,7 @@ EXTRA_DATA_PATHS = {
     "bcktr": [
         "backtranslation/comentarios_reales_quy",
         "backtranslation/cronica_del_peru_quy",
-        "backtranslation/nueva_cronica_y_buen_gobierno_quy"
+        "backtranslation/nueva_coronica_y_buen_gobierno_quy"
 }
 
 QUECHUA_DUPLICATES = [

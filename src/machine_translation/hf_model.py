@@ -1,5 +1,5 @@
 # Some helper functions for training the models
-from transformers import AutoTokenizer, DataCollatorForSeq2Seq
+from transformers import AutoTokenizer, DataCollatorForSeq2Seq, EarlyStoppingCallback
 import evaluate
 import numpy as np
 from transformers import AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
@@ -20,13 +20,16 @@ def load_pre_trained_tokenizer(checkpoint):
 
 def preprocess_function(examples, tokenizer, source_lang="es", target_lang="quy", prefix="translate Spanish to Quechua", is_prompt=True):
     if is_prompt:
-      inputs = [prefix + example[source_lang] for example in examples["translation"]]
+      inputs = ["translate Spanish to Quechua " + example[source_lang] for example in examples["translation"]]
       targets = [example[target_lang] for example in examples["translation"]]
       model_inputs = tokenizer(inputs, text_target=targets, max_length=200, truncation=True)
       return model_inputs
     else:
       inputs = [ex[source_lang] for ex in examples["translation"]]
-      targets = [f"{prefix.split()[-1]}" + " " + ex[target_lang] for ex in examples["translation"]]
+      if prefix:
+        targets = [f"{prefix.split()[-1]}" + " " + ex[target_lang] for ex in examples["translation"]]
+      else:
+        targets = [ex[target_lang] for ex in examples["translation"]]
       model_inputs = tokenizer(
           inputs, text_target=targets, padding=True, truncation=True
       )
@@ -36,8 +39,8 @@ def get_data_collator(tokenizer, checkpoint):
   return DataCollatorForSeq2Seq(tokenizer=tokenizer, model=checkpoint)
 
 def postprocess_text(preds, labels):
-    preds = [pred.strip() for pred in preds]
-    labels = [label.strip() for label in labels]
+    preds = [" ".join(pred.strip().split()[1:]) for pred in preds]
+    labels = [" ".join(label.strip().split()[1:]) for label in labels]
 
     return preds, labels
 
@@ -68,9 +71,11 @@ def load_pretrained_model(checkpoint):
   return AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
 
 def get_training_args(model_name, epochs=3, metric="chrf"):
+  
   return Seq2SeqTrainingArguments(
     output_dir=model_name,
     evaluation_strategy="steps",
+    callbacks=[EarlyStoppingCallback(early_stopping=5)],
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
@@ -126,8 +131,8 @@ if __name__ == "__main__":
   parser.add_argument("--metric", type=str, required=False, default='chrf')
   parser.add_argument("--epochs", type=int, required=False, default=10)
   parser.add_argument("--is_prompt", type=int, default=1)
-  parser.add_argument("--prefix", type=str, default="traducir español a quechua")
-  parser.add_argument("--extra_data_codes", nargs"*", type=str, default=[])
+  parser.add_argument("--prefix", type=str, default="")
+  parser.add_argument("--extra_data_codes", nargs="*", type=str, default=[])
   parser.add_argument("--with_dup", type=int, default=0)
 
   args = parser.parse_args()
