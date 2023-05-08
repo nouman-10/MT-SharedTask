@@ -50,7 +50,11 @@ EXTRA_DATA_PATHS = {
         "copied/llamacha_quy",
         "copied/wiki_quy",
         "copied/cc_qu_quy"
-    ]
+    ],
+    "bcktr": [
+        "backtranslation/comentarios_reales_quy",
+        "backtranslation/cronica_del_peru_quy",
+        "backtranslation/nueva_cronica_y_buen_gobierno_quy"
 }
 
 QUECHUA_DUPLICATES = [
