@@ -14,6 +14,7 @@ DATA_CODES = {
     "quechua": "quy"
 }
 
+
 ORIGINAL_DATA_PATHS = [
     "original/jw300_quy",
     "original/dict_misc_quy",
@@ -55,6 +56,10 @@ EXTRA_DATA_PATHS = {
         "backtranslation/comentarios_reales_quy",
         "backtranslation/cronica_del_peru_quy",
         "backtranslation/nueva_coronica_y_buen_gobierno_quy"
+    ],
+    "aymara": [
+        "aymara/aymara_quy"
+    ]
 }
 
 QUECHUA_DUPLICATES = [

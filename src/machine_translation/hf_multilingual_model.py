@@ -3,9 +3,10 @@ from transformers import AutoTokenizer, DataCollatorForSeq2Seq, EarlyStoppingCal
 import evaluate
 import numpy as np
 from transformers import AutoModelForSeq2SeqLM, Seq2SeqTrainingArguments, Seq2SeqTrainer
-from constants import ORIGINAL_DATA_PATHS, EXTRA_DATA_PATHS, QUECHUA_DUPLICATES
+from constants import ORIGINAL_DATA_PATHS, EXTRA_DATA_PATHS, QUECHUA_DUPLICATES, DATA_CODES
 from helper_funcs import read_data_into_hf
 import sacrebleu
+from datasets import DatasetDict, concatenate_datasets
 bleu_metric = evaluate.load("sacrebleu")
 chrf_metric = evaluate.load("chrf")
 
@@ -25,9 +26,9 @@ def preprocess_function(examples, tokenizer, source_lang="es", target_lang="quy"
       model_inputs = tokenizer(inputs, text_target=targets, max_length=200, truncation=True)
       return model_inputs
     else:
-      inputs = [ex[source_lang] for ex in examples["translation"]]
+      inputs = [ex[source_lang] + f" {prefix.split()[-1]}" for ex in examples["translation"]]
       if prefix:
-        targets = [f"{prefix.split()[-1]}" + " " + ex[target_lang] for ex in examples["translation"]]
+        targets = [ex[target_lang] for ex in examples["translation"]]
       else:
         targets = [ex[target_lang] for ex in examples["translation"]]
       model_inputs = tokenizer(
@@ -75,6 +76,7 @@ def get_training_args(model_name, epochs=3, metric="chrf"):
   return Seq2SeqTrainingArguments(
     output_dir=model_name,
     evaluation_strategy="steps",
+    #callbacks=[EarlyStoppingCallback(early_stopping_patience=5)],
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
@@ -84,8 +86,8 @@ def get_training_args(model_name, epochs=3, metric="chrf"):
     num_train_epochs=epochs,
     predict_with_generate=True,
     fp16=True,
-    eval_steps=1000,
-    save_steps=1000,
+    eval_steps=50000,
+    save_steps=50000,
     metric_for_best_model=metric,
     push_to_hub=True
   )
@@ -93,8 +95,8 @@ def get_training_args(model_name, epochs=3, metric="chrf"):
 def get_trainer(model, training_args, dataset, tokenizer, data_collator):
   return Seq2SeqTrainer(
     model=model,
-    args=training_args,
     callbacks=[EarlyStoppingCallback(early_stopping_patience=5)],
+    args=training_args,
     train_dataset=dataset["train"],
     eval_dataset=dataset["dev"],
     tokenizer=tokenizer,
@@ -104,14 +106,33 @@ def get_trainer(model, training_args, dataset, tokenizer, data_collator):
 
 
 def train_model(tgt_lang, checkpoint, out_model_name, metric, epochs, is_prompt, prefix, extra_data_codes, with_dup):
+  
+  if tgt_lang == "all":
+    datasets = {}
+    for tgt_lang_ in DATA_CODES:
+      if tgt_lang_ != "quechua":
+        dataset = read_data_into_hf(tgt_lang_)
+        datasets[tgt_lang_] = dataset
+
   data_paths = ORIGINAL_DATA_PATHS
   for code in extra_data_codes:
     data_paths.extend(EXTRA_DATA_PATHS[code])
   duplicate_paths = [] if with_dup else QUECHUA_DUPLICATES
-  dataset = read_data_into_hf(tgt_lang, data_paths=data_paths, duplicates=duplicate_paths)
-  tokenizer = load_pre_trained_tokenizer(checkpoint)
+  que_dataset = read_data_into_hf("quechua", data_paths=data_paths, duplicates=duplicate_paths)
+  datasets["quechua"] = que_dataset
 
-  tokenized_dataset = dataset.map(preprocess_function, fn_kwargs={"tokenizer": tokenizer, "is_prompt":is_prompt, "prefix":prefix}, batched=True)
+  tokenizer = load_pre_trained_tokenizer(checkpoint)
+  print(datasets.keys())
+  datasets = [
+    dataset.map(preprocess_function, fn_kwargs={"tokenizer": tokenizer, "is_prompt":False, "prefix": lang}, batched=True)
+    for lang, dataset in datasets.items()
+  ]
+  tokenized_dataset = DatasetDict({
+    "train": concatenate_datasets([dataset['train'] for dataset in datasets]),
+    "dev": concatenate_datasets([dataset['dev'] for dataset in datasets])
+  })
+  print(tokenized_dataset)
+  print(tokenizer.decode(tokenized_dataset['train'][0]['labels']))
   data_collator = get_data_collator(tokenizer, checkpoint)
 
   model = load_pretrained_model(checkpoint)

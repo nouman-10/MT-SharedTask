@@ -50,7 +50,7 @@ def read_data_into_hf(tgt_lang, data_paths=None, duplicates=None):
 
   train_tgt_data, train_src_data = [], []
   if data_paths is None:
-      train_tgt_data, train_src_data = read_data(lang_data_path, "train", "train", tgt_code)
+      train_tgt_data, train_src_data = read_data(os.path.join(lang_data_path, "original"), "train", "train", tgt_code)
   else:
     for path in data_paths:
       if path in duplicates:
@@ -64,7 +64,7 @@ def read_data_into_hf(tgt_lang, data_paths=None, duplicates=None):
         print(f"{path} {len(tgt_data)} {len(src_data)}")
         
   dev_tgt_data, dev_src_data = read_data(lang_data_path, "dev", "dev", tgt_code)
-
+  print(f"Lang: {tgt_lang.capitalize()} | Train Count: {len(train_tgt_data)} | Dev Count: {len(dev_tgt_data)}")
   return DatasetDict({
       "train": convert_data_into_hf(train_tgt_data, train_src_data),
       "dev": convert_data_into_hf(dev_tgt_data, dev_src_data)
