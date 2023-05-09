@@ -7,7 +7,7 @@ Install the required libraries by running `pip install -r requirements.txt`
 To run the model, using all Quechua data, including the Cuzco variant (but including the same data in both variants only once), run the following command:
 
 ```
-python hf_model.py --checkpoint Helsinki-NLP/opus-mt-es-fi --out_model_name es_fi_quz --extra_data_codes quy quz que bcktr
+python mt_model.py --checkpoint Helsinki-NLP/opus-mt-es-fi --out_model_name es_fi_quz --extra_data_codes quy quz que bcktr
 ```
 
 ### Arguments

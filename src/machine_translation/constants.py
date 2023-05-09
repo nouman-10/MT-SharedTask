@@ -39,7 +39,7 @@ QUECHUA_DATA_PATHS = {
         "extra/ec_const_que",
         "extra/little_prince_que",
     ],
-    "copy": ["copied/llamacha_quy", "copied/wiki_quy"],
+    "copy": ["copied/llamacha_quy", "copied/cc_qu_quy"],
     "bcktr": [
         "backtranslation/comentarios_reales_quy",
         "backtranslation/cronica_del_peru_quy",
