@@ -2,14 +2,16 @@
 
 Install the required libraries by running `pip install -r requirements.txt`
 
-### Sample Run
+## Train the model
 
-To run the model, using all Quechua data, including the Cuzco variant (but including the same data in both variants only once), run the following command:
+
+### Training
+To run the model, using the Quechua data used for the best model, including the Cuzco variant (but including the same data in both variants only once), run the following command:
 
 ```
-python mt_model.py --checkpoint Helsinki-NLP/opus-mt-es-fi --out_model_name es_fi_quz --extra_data_codes quy quz que bcktr
+python mt_model.py --checkpoint Helsinki-NLP/opus-mt-es-fi --out_model_name es_fi_quz --extra_data_codes quy quz --epochs 20
 ```
-
+Note: In order to push the model to the Huggingface hub, make sure you login first using `huggingface-cli login` before training the model.
 ### Arguments
 
 ```
@@ -35,4 +37,21 @@ options:
                         Whether to include duplicate data but different dialect for Quechua (Default: False)
   --push_to_hub, --no-push_to_hub
                         Whether to push the model to the hub or not (Default: False)
+```
+
+## Test the model
+
+### Generate Predictions
+
+To generate the predictions, using the trained model, run the following command (for the dev set):
+
+```
+python generate_translations.py --model_name es_fi_quz --src_file ./../../data/parallel-data/quechua-spanish/dev/dev.es --tgt_file translations/quechua/dev.txt
+```
+The `--tgt_file` represents the file path to save the translations to. And `--model_name` could be your local path to a model or a huggingface model as well.
+
+### Evaluating Predictions
+To evaluate your predictions (chrF and bleu) against true translations, run the following command:
+```
+python evaluate.py --system_output translations/quechua/dev.txt --gold_reference ./../../data/parallel-data/quechua-spanish/dev/dev.quy
 ```
