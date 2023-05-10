@@ -44,8 +44,7 @@ QUECHUA_DATA_PATHS = {
         "backtranslation/comentarios_reales_quy",
         "backtranslation/cronica_del_peru_quy",
         "backtranslation/nueva_coronica_y_buen_gobierno_quy",
-    ],
-    "aymara": ["aymara/aymara_quy"],
+    ]
 }
 
 QUECHUA_DUPLICATES = [
